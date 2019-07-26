@@ -34,6 +34,6 @@ class Dataset(BaseDataset):
                             wl[idx, 'concepticon_id']),
                         Value = wl[idx, 'value'],
                         Form = wl[idx, 'form'],
-                        Segments={1510: "f e i + s a ŋ a".split(), 2010: "ʔ a k a + k i u + k i u".split(), 5907: "ʔ a + ʔ a n o", 7247: "f e + f e l o".split()}.get(idx) or wl[idx, 'segments'],
+                        Segments={1510: "f e i + s a ŋ a".split(), 2010: "ʔ a k a + k i u + k i u".split(), 5907: "ʔ a + ʔ a n o".split(), 7247: "f e + f e l o".split()}.get(idx) or wl[idx, 'segments'],
                         Source = [wl[idx, 'source']]
                         )
