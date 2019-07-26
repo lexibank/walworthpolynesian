@@ -1,5 +1,8 @@
 from clldutils.path import Path
-from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.dataset import NonSplittingDataset as BaseDataset
+from lingpy import *
+from pylexibank.util import pb
+from clldutils.misc import slug
 
 
 class Dataset(BaseDataset):
@@ -12,11 +15,25 @@ class Dataset(BaseDataset):
 
         Use the methods of `pylexibank.cldf.Dataset` after instantiating one as context:
 
-        >>> with self.cldf as ds:
-        ...     ds.add_sources(...)
-        ...     ds.add_language(...)
-        ...     ds.add_concept(...)
-        ...     ds.add_lexemes(...)
         """
+        wl = Wordlist(self.dir.joinpath('raw', 'polynesian-aligned_22112018.tsv').as_posix())
         with self.cldf as ds:
-            pass
+            ds.add_sources(*self.raw.read_bib())
+            for c in self.conceptlist.concepts.values():
+                ds.add_concept(ID=c.concepticon_id, Name=c.english,
+                        Concepticon_ID=c.concepticon_id,
+                        Concepticon_Gloss=c.concepticon_gloss)
+            for name, gcode in set([(b, c) for (a, b, c) in wl.iter_rows('doculect',
+                'glottocode')]):
+                ds.add_language(ID=slug(name), Name=name, Glottocode=gcode)
+            for idx in pb(wl, desc='cldfify'):
+                ds.add_lexemes(
+                        Language_ID=slug(wl[idx, 'doculect']),
+                        Parameter_ID={'1433': '353', '602': '2486'}.get(
+                            wl[idx, 'concepticon_id'],
+                            wl[idx, 'concepticon_id']),
+                        Value = wl[idx, 'value'],
+                        Form = wl[idx, 'form'],
+                        Segments = wl[idx, 'segments'],
+                        Source = [wl[idx, 'source']]
+                        )
