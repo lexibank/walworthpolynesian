@@ -23,12 +23,22 @@ class Dataset(BaseDataset):
                 ds.add_concept(ID=c.concepticon_id, Name=c.english,
                         Concepticon_ID=c.concepticon_id,
                         Concepticon_Gloss=c.concepticon_gloss)
-            for name, gcode in set([(b, c) for (a, b, c) in wl.iter_rows('doculect',
-                'glottocode')]):
-                ds.add_language(ID=slug(name), Name=name, Glottocode=gcode)
+            lm = {l['Name']: l['ID'] for l in self.languages}
+            ds.add_languages()
             for idx in pb(wl, desc='cldfify'):
-                ds.add_lexemes(
-                        Language_ID=slug(wl[idx, 'doculect']),
+                if [x for x in wl[idx, 'segments'] if x in ['+s', 'u+', '+ʔ',
+                    'e+']]:
+                    segments = []
+                    for segment in wl[idx, 'segments']:
+                        if '+' in segment and len(segment) > 1:
+                            segments += list(segment)
+                        else:
+                            segments += [segment]
+                    wl[idx, 'segments'] = segments
+
+
+                ds.add_segments(
+                        Language_ID=lm[wl[idx, 'doculect']],
                         Parameter_ID={'1433': '353', '602': '2486'}.get(
                             wl[idx, 'concepticon_id'],
                             wl[idx, 'concepticon_id']),

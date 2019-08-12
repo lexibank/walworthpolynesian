@@ -22,7 +22,7 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=0.9.0',
+        'pylexibank>=1.1.1',
     ],
     extras_require={
         'test': [
