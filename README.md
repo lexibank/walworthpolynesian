@@ -8,9 +8,9 @@ This dataset is licensed under a http://creativecommons.org/licenses/by/4.0/lega
 
 Available online at https://zenodo.org/record/1689909
 
-Conceptlists in Concepticon:
-- [Blust-2008-210](http://concepticon.clld.org/contributions/Blust-2008-210)
 
+Conceptlists in Concepticon:
+- [Blust-2008-210](https://concepticon.clld.org/contributions/Blust-2008-210)
 ## Statistics
 
 

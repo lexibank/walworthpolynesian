@@ -1,49 +1,48 @@
-from clldutils.path import Path
-from pylexibank.dataset import NonSplittingDataset as BaseDataset
+import pathlib
+
+from pylexibank import Dataset as BaseDataset
+from pylexibank import FormSpec
 from lingpy import *
-from pylexibank.util import pb
-from clldutils.misc import slug
+from pylexibank.util import progressbar
 
 
 class Dataset(BaseDataset):
-    dir = Path(__file__).parent
+    dir = pathlib.Path(__file__).parent
     id = "walworthpolynesian"
+    form_spec = FormSpec(first_form_only=True)
 
-    def cmd_install(self, **kw):
-        """
-        Convert the raw data to a CLDF dataset.
+    def cmd_makecldf(self, args):
+        wl = Wordlist(str(self.raw_dir / 'polynesian-aligned_22112018.tsv'))
+        args.writer.add_sources(*self.raw_dir.read_bib())
+        for c in self.conceptlists[0].concepts.values():
+            args.writer.add_concept(
+                ID=c.concepticon_id,
+                Name=c.english,
+                Concepticon_ID=c.concepticon_id,
+                Concepticon_Gloss=c.concepticon_gloss)
+        lm = {l['Name']: l['ID'] for l in self.languages}
+        args.writer.add_languages()
+        for idx in progressbar(wl, desc='cldfify'):
+            if [x for x in wl[idx, 'segments'] if x in ['+s', 'u+', '+ʔ', 'e+']]:
+                segments = []
+                for segment in wl[idx, 'segments']:
+                    if '+' in segment and len(segment) > 1:
+                        segments += list(segment)
+                    else:
+                        segments += [segment]
+                wl[idx, 'segments'] = segments
 
-        Use the methods of `pylexibank.cldf.Dataset` after instantiating one as context:
-
-        """
-        wl = Wordlist(self.dir.joinpath('raw', 'polynesian-aligned_22112018.tsv').as_posix())
-        with self.cldf as ds:
-            ds.add_sources(*self.raw.read_bib())
-            for c in self.conceptlist.concepts.values():
-                ds.add_concept(ID=c.concepticon_id, Name=c.english,
-                        Concepticon_ID=c.concepticon_id,
-                        Concepticon_Gloss=c.concepticon_gloss)
-            lm = {l['Name']: l['ID'] for l in self.languages}
-            ds.add_languages()
-            for idx in pb(wl, desc='cldfify'):
-                if [x for x in wl[idx, 'segments'] if x in ['+s', 'u+', '+ʔ',
-                    'e+']]:
-                    segments = []
-                    for segment in wl[idx, 'segments']:
-                        if '+' in segment and len(segment) > 1:
-                            segments += list(segment)
-                        else:
-                            segments += [segment]
-                    wl[idx, 'segments'] = segments
-
-
-                ds.add_segments(
-                        Language_ID=lm[wl[idx, 'doculect']],
-                        Parameter_ID={'1433': '353', '602': '2486'}.get(
-                            wl[idx, 'concepticon_id'],
-                            wl[idx, 'concepticon_id']),
-                        Value = wl[idx, 'value'],
-                        Form = wl[idx, 'form'],
-                        Segments={1510: "f e i + s a ŋ a".split(), 2010: "ʔ a k a + k i u + k i u".split(), 5907: "ʔ a + ʔ a n o".split(), 7247: "f e + f e l o".split()}.get(idx) or wl[idx, 'segments'],
-                        Source = [wl[idx, 'source']]
-                        )
+            args.writer.add_form_with_segments(
+                Language_ID=lm[wl[idx, 'doculect']],
+                Parameter_ID={'1433': '353', '602': '2486'}.get(
+                    wl[idx, 'concepticon_id'], wl[idx, 'concepticon_id']),
+                Value = wl[idx, 'value'],
+                Form = wl[idx, 'form'],
+                Segments={
+                    1510: "f e i + s a ŋ a".split(),
+                    2010: "ʔ a k a + k i u + k i u".split(),
+                    5907: "ʔ a + ʔ a n o".split(),
+                    7247: "f e + f e l o".split(),
+                }.get(idx) or wl[idx, 'segments'],
+                Source = [wl[idx, 'source']]
+            )
