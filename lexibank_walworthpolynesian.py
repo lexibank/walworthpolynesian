@@ -11,13 +11,12 @@ def to_boolean(x):
 
 def fix_segments(inseg):
     # i.e. explode conjoined "+s" etc to "+ s"
-    if [x for x in inseg if x in ['+s', 'u+', '+ʔ', 'e+']]:
-        segments = []
-        for segment in inseg:
-            if '+' in segment and len(segment) > 1:
-                segments += list(segment)
-            else:
-                segments += [segment]
+    segments = []
+    for segment in inseg:
+        if '+' in segment and len(segment) > 1:
+            segments += list(segment)
+        else:
+            segments += [segment]
     return segments
     
 
@@ -50,12 +49,7 @@ class Dataset(BaseDataset):
                 Parameter_ID=concepts.get(wl[idx, 'concept']),
                 Value=wl[idx, 'value'],
                 Form=wl[idx, 'form'],
-                Segments={
-                    1510: "f e i + s a ŋ a".split(),
-                    2010: "ʔ a k a + k i u + k i u".split(),
-                    5907: "ʔ a + ʔ a n o".split(),
-                    7247: "f e + f e l o".split(),
-                }.get(idx) or wl[idx, 'segments'],
+                Segments=wl[idx, 'segments'],
                 Source=[wl[idx, 'source']],
                 Cognacy=wl[idx, 'cogid'],
                 Loan=to_boolean(wl[idx, 'loan']),
