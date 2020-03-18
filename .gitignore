@@ -105,3 +105,4 @@ venv.bak/
 .idea/
 .pytest_cache/
 
+cldf/.transcription-report.json
