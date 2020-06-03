@@ -1,4 +1,4 @@
-# Polynesian Segmented Data
+# CLDF dataset derived from Walworth's "Polynesian Segmented Data" from 2019
 
 Cite the source dataset as
 
@@ -30,14 +30,15 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.17
 - **Invalid lexemes:** 0
 - **Tokens:** 36,836
-- **Segments:** 49 (0 BIPA errors, 0 CTLS sound class errors, 49 CLTS modified)
-- **Inventory size (avg):** 23.35
+- **Segments:** 48 (0 BIPA errors, 0 CTLS sound class errors, 48 CLTS modified)
+- **Inventory size (avg):** 22.35
 
 # Contributors
 
-Name               | GitHub user | Role
----                | ---         | ---
-Johann-Mattis List	| @lingulist | maintainer
-Nathanael E. Schweikhard | @schweikhard  | maintainer
+Name               | GitHub user | Description | Role
+---                | ---         | --- | ---
+Mary Walworth |  | data collector and data curator | DataCollector, Author, DataCurator
+Nathanael E. Schweikhard | @schweikhard  | maintainer | Author
+Johann-Mattis List	| @lingulist | maintainer | Author
 
 

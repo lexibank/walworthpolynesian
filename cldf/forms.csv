@@ -1,8 +1,8 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan
-VaeakauTaumako-210_onethousand-1,,VaeakauTaumako,210_onethousand,tupuangahulu,tupuangahulu,t u p u a _ ŋ a h u l u,,Hovdhaugen-375-2009,5,false
+VaeakauTaumako-210_onethousand-1,,VaeakauTaumako,210_onethousand,tupuangahulu,tupuangahulu,t u p u a + ŋ a h u l u,,Hovdhaugen-375-2009,5,false
 VaeakauTaumako-209_onehundred-1,,VaeakauTaumako,209_onehundred,vahiki,vahiki,v a h i k i,,Hovdhaugen-375-2009,518,false
 VaeakauTaumako-208_fifty-1,,VaeakauTaumako,208_fifty,gatoaelima,gatoaelima,g a + t o a + e + l i m a,,Hovdhaugen-375-2009,664,false
-VaeakauTaumako-207_twenty-1,,VaeakauTaumako,207_twenty,gatoaelua,gatoaelua,g a t o a e _ l u a,,Hovdhaugen-375-2009,947,false
+VaeakauTaumako-207_twenty-1,,VaeakauTaumako,207_twenty,gatoaelua,gatoaelua,g a t o a e + l u a,,Hovdhaugen-375-2009,947,false
 VaeakauTaumako-206_ten-1,,VaeakauTaumako,206_ten,dumaa,dumaa,d u m aː,,Hovdhaugen-375-2009,946,false
 VaeakauTaumako-206_ten-2,,VaeakauTaumako,206_ten,katoa,katoa,k a t o a,,Hovdhaugen-375-2009,114,false
 VaeakauTaumako-205_nine-1,,VaeakauTaumako,205_nine,iva,iva,i v a,,Hovdhaugen-375-2009,945,false
@@ -38,7 +38,7 @@ VaeakauTaumako-184_heshe-1,,VaeakauTaumako,184_heshe,na,na,n a,,Hovdhaugen-375-2
 VaeakauTaumako-184_heshe-2,,VaeakauTaumako,184_heshe,ia,ia,i a,,Hovdhaugen-375-2009,37,false
 VaeakauTaumako-183_thou-1,,VaeakauTaumako,183_thou,koe,koe,k o e,,Hovdhaugen-375-2009,76,false
 VaeakauTaumako-182_i-1,,VaeakauTaumako,182_i,au,au,a u,,Hovdhaugen-375-2009,4,false
-VaeakauTaumako-181_where-1,,VaeakauTaumako,181_where,i hea,i hea,i _ h e a,,Hovdhaugen-375-2009,679,false
+VaeakauTaumako-181_where-1,,VaeakauTaumako,181_where,i hea,i hea,i + h e a,,Hovdhaugen-375-2009,679,false
 VaeakauTaumako-180_far-1,,VaeakauTaumako,180_far,mao,mao,m a o,,Hovdhaugen-375-2009,297,false
 VaeakauTaumako-179_near-1,,VaeakauTaumako,179_near,leuethaki,leuethaki,l e u e + tʰ a k i,,Hovdhaugen-375-2009,863,false
 VaeakauTaumako-178_that-1,,VaeakauTaumako,178_that,tena,tena,t e + n a,,Hovdhaugen-375-2009,71,false
@@ -49,7 +49,7 @@ VaeakauTaumako-175_above-1,,VaeakauTaumako,175_above,lunga,lunga,l u ŋ a,,Hovdh
 VaeakauTaumako-173_at-1,,VaeakauTaumako,173_at,i,i,i,,Hovdhaugen-375-2009,11,false
 VaeakauTaumako-172_toclimb-1,,VaeakauTaumako,172_toclimb,kake,kake,k a k e,,Hovdhaugen-375-2009,707,false
 VaeakauTaumako-171_tohide-1,,VaeakauTaumako,171_tohide,muni,muni,m u n i,,Hovdhaugen-375-2009,91,false
-VaeakauTaumako-170_when-1,,VaeakauTaumako,170_when,anahea,anahea,a n a _ h e a,past,Hovdhaugen-375-2009,970,false
+VaeakauTaumako-170_when-1,,VaeakauTaumako,170_when,anahea,anahea,a n a + h e a,past,Hovdhaugen-375-2009,970,false
 VaeakauTaumako-169_year-1,,VaeakauTaumako,169_year,ngatae,ngatae,ŋ a t a e,,Hovdhaugen-375-2009,1004,false
 VaeakauTaumako-168_day-1,,VaeakauTaumako,168_day,langi,langi,l a ŋ i,,Hovdhaugen-375-2009,1087,false
 VaeakauTaumako-167_night-1,,VaeakauTaumako,167_night,poo,poo,p oː,,Hovdhaugen-375-2009,54,false
@@ -128,7 +128,7 @@ VaeakauTaumako-102_rat-1,,VaeakauTaumako,102_rat,lepuu,lepuu,l e p uː,,Hovdhaug
 VaeakauTaumako-101_tofly-1,,VaeakauTaumako,101_tofly,lele,lele,l e l e,,Hovdhaugen-375-2009,205,false
 VaeakauTaumako-100_wing-1,,VaeakauTaumako,100_wing,kapakau,kapakau,k a p a + k a u,,Hovdhaugen-375-2009,109,false
 VaeakauTaumako-99_feather-1,,VaeakauTaumako,99_feather,hulu,hulu,h u l u,,Hovdhaugen-375-2009,28,false
-VaeakauTaumako-98_egg-1,,VaeakauTaumako,98_egg,hatu kio,hatu kio,h a t u _ k i o,,Hovdhaugen-375-2009,322,false
+VaeakauTaumako-98_egg-1,,VaeakauTaumako,98_egg,hatu kio,hatu kio,h a t u + k i o,,Hovdhaugen-375-2009,322,false
 VaeakauTaumako-97_bird-1,,VaeakauTaumako,97_bird,manumanu,manumanu,m a n u + m a n u,,Hovdhaugen-375-2009,14,false
 VaeakauTaumako-96_dog-1,,VaeakauTaumako,96_dog,kulii,kulii,k u l iː,,Hovdhaugen-375-2009,1213,false
 VaeakauTaumako-95_tofall-1,,VaeakauTaumako,95_tofall,meu,meu,m e u,,Hovdhaugen-375-2009,1370,false
@@ -169,12 +169,12 @@ VaeakauTaumako-66_totieupfasten-1,,VaeakauTaumako,66_totieupfasten,hihia.,hihia.
 VaeakauTaumako-65_rope-1,,VaeakauTaumako,65_rope,hau,hau,h a u,,Hovdhaugen-375-2009,421,false
 VaeakauTaumako-64_tosay-1,,VaeakauTaumako,64_tosay,tukua,tukua,t u k u a,,Hovdhaugen-375-2009,637,false
 VaeakauTaumako-63_name-1,,VaeakauTaumako,63_name,ingoa,ingoa,i ŋ o a,,Hovdhaugen-375-2009,1096,false
-VaeakauTaumako-62_thatchroof-1,,VaeakauTaumako,62_thatchroof,totohale,totohale,t o + t o _ h a l e,"not ""10"" - JCM",Hovdhaugen-375-2009,586,false
+VaeakauTaumako-62_thatchroof-1,,VaeakauTaumako,62_thatchroof,totohale,totohale,t o + t o + h a l e,"not ""10"" - JCM",Hovdhaugen-375-2009,586,false
 VaeakauTaumako-61_house-1,,VaeakauTaumako,61_house,hale,hale,h a l e,,Hovdhaugen-375-2009,342,false
 VaeakauTaumako-60_father-1,,VaeakauTaumako,60_father,mha-,mha-,mh a,,Hovdhaugen-375-2009,27,false
 VaeakauTaumako-59_mother-1,,VaeakauTaumako,59_mother,hina-,hina-,h i n a,,Hovdhaugen-375-2009,944,false
 VaeakauTaumako-58_wife-1,,VaeakauTaumako,58_wife,nohine,nohine,n o + h i n e,,Hovdhaugen-375-2009,971,false
-VaeakauTaumako-57_husband-1,,VaeakauTaumako,57_husband,te matua,te matua,t e _ m a t u a,,Hovdhaugen-375-2009,747,false
+VaeakauTaumako-57_husband-1,,VaeakauTaumako,57_husband,te matua,te matua,t e + m a t u a,,Hovdhaugen-375-2009,747,false
 VaeakauTaumako-57_husband-2,,VaeakauTaumako,57_husband,pengi,pengi,p e ŋ i,,Hovdhaugen-375-2009,450,false
 VaeakauTaumako-56_child-1,,VaeakauTaumako,56_child,memea,memea,m e + m e a,,Hovdhaugen-375-2009,462,false
 VaeakauTaumako-55_womanfemale-1,,VaeakauTaumako,55_womanfemale,hana,hana,h a n a,,Hovdhaugen-375-2009,110,false
@@ -210,7 +210,7 @@ VaeakauTaumako-31_tooth-1,,VaeakauTaumako,31_tooth,niho,niho,n i h o,,Hovdhaugen
 VaeakauTaumako-30_mouth-1,,VaeakauTaumako,30_mouth,ngutu,ngutu,ŋ u t u,,Hovdhaugen-375-2009,524,false
 VaeakauTaumako-29_tosniffsmell-1,,VaeakauTaumako,29_tosniffsmell,namu,namu,n a m u,,Hovdhaugen-375-2009,838,false
 VaeakauTaumako-28_tobreathe-1,,VaeakauTaumako,28_tobreathe,manava,manava,m a n a v a,,Hovdhaugen-375-2009,78,false
-VaeakauTaumako-27_nose-1,,VaeakauTaumako,27_nose,pongaiu,pongaiu,p o ŋ a _ i u,,Hovdhaugen-375-2009,502,false
+VaeakauTaumako-27_nose-1,,VaeakauTaumako,27_nose,pongaiu,pongaiu,p o ŋ a + i u,,Hovdhaugen-375-2009,502,false
 VaeakauTaumako-27_nose-2,,VaeakauTaumako,27_nose,iu,iu,i u,,Hovdhaugen-375-2009,55,false
 VaeakauTaumako-26_hair-1,,VaeakauTaumako,26_hair,laulu,laulu,l a u l u,,Hovdhaugen-375-2009,815,false
 VaeakauTaumako-25_neck-1,,VaeakauTaumako,25_neck,ua,ua,u a,,Hovdhaugen-375-2009,458,false
@@ -273,10 +273,10 @@ Wallisian-183_thou-1,,Wallisian,183_thou,koe,koe,k o e,You (Sing.),POLLEX,76,fal
 Wallisian-183_thou-2,,Wallisian,183_thou,kee,kee,k eː,Second person singular preposed subject pronoun (Bgs),POLLEX,961,false
 Wallisian-182_i-1,,Wallisian,182_i,koau,koau,k o + a u,,POLLEX,4,false
 Wallisian-181_where-1,,Wallisian,181_where,fea,fea,f e a,Where?,POLLEX,679,false
-Wallisian-180_far-1,,Wallisian,180_far,tau mama'o,tau mama'o,t a u _ m a + m a ʔ o,"Profond, eloigne, distant (Btn)",POLLEX,25,false
+Wallisian-180_far-1,,Wallisian,180_far,tau mama'o,tau mama'o,t a u + m a + m a ʔ o,"Profond, eloigne, distant (Btn)",POLLEX,25,false
 Wallisian-180_far-2,,Wallisian,180_far,mama'o,mama'o,m a + m a ʔ o,"Distant, far off",POLLEX,297,false
 Wallisian-179_near-1,,Wallisian,179_near,tata,tata,t a + t a,Near,POLLEX,1393,false
-Wallisian-178_that-1,,Wallisian,178_that,kohee,kohee,k o _ h eː,,POLLEX,651,false
+Wallisian-178_that-1,,Wallisian,178_that,kohee,kohee,k o + h eː,,POLLEX,651,false
 Wallisian-177_this-1,,Wallisian,177_this,eni,eni,e + n i,Pollex 06: <Eni. This (Ply) B.>.,POLLEX,75,false
 Wallisian-176_below-1,,Wallisian,176_below,lalo,lalo,l a l o,"Under, below",POLLEX,1315,false
 Wallisian-175_above-1,,Wallisian,175_above,'o/luga/,luga,l u ŋ a,Above (Rch) B. [<],POLLEX,1382,true
@@ -284,7 +284,7 @@ Wallisian-173_at-1,,Wallisian,173_at,tei,tei,t e i,Presque; sur le point de; qua
 Wallisian-173_at-2,,Wallisian,173_at,ì,ì,ʔ i,"Dans, en, sur (Rch)",POLLEX,11,false
 Wallisian-172_toclimb-1,,Wallisian,172_toclimb,kake,kake,k a k e,Climb,POLLEX,707,false
 Wallisian-171_tohide-1,,Wallisian,171_tohide,mu(mu)ni,muni,m u n i,Hide an object,POLLEX,91,false
-Wallisian-170_when-1,,Wallisian,170_when,afea,afea,a _ f e a,When? (future) (Btn),POLLEX,970,false
+Wallisian-170_when-1,,Wallisian,170_when,afea,afea,a + f e a,When? (future) (Btn),POLLEX,970,false
 Wallisian-169_year-1,,Wallisian,169_year,ta'u,ta'u,t a ʔ u,Year,POLLEX,112,false
 Wallisian-168_day-1,,Wallisian,168_day,àho,àho,ʔ a h o,Day,POLLEX,18,false
 Wallisian-168_day-2,,Wallisian,168_day,àho,àho,ʔ a h o,"Day, not night B. [<]",POLLEX,658,true
@@ -367,12 +367,12 @@ Wallisian-108_louse-2,,Wallisian,108_louse,kutu,kutu,k u t u,Louse,POLLEX,46,fal
 Wallisian-107_wormearthworm-1,,Wallisian,107_wormearthworm,'ulukele,'ulukele,ʔ u l u + k e l e,,POLLEX,1422,false
 Wallisian-105_tail-1,,Wallisian,105_tail,hiku,hiku,h i k u,(of fish),POLLEX,309,false
 Wallisian-104_fatgrease-1,,Wallisian,104_fatgrease,huni,huni,h u n i,Huile cuite avec des pierres rougies au feu (Btn) B. [<],POLLEX,242,true
-Wallisian-103_meatflesh-1,,Wallisian,103_meatflesh,me'a kai,me'a kai,m e ʔ a _ k a i,,POLLEX,768,false
+Wallisian-103_meatflesh-1,,Wallisian,103_meatflesh,me'a kai,me'a kai,m e ʔ a + k a i,,POLLEX,768,false
 Wallisian-102_rat-1,,Wallisian,102_rat,kuma,kuma,k u m a,Rat,POLLEX,303,false
 Wallisian-101_tofly-1,,Wallisian,101_tofly,lele,lele,l e l e,"Fly, run",POLLEX,205,false
 Wallisian-100_wing-1,,Wallisian,100_wing,kapakau,kapakau,k a p a + k a u,Wing,POLLEX,109,false
 Wallisian-99_feather-1,,Wallisian,99_feather,palaa,palaa,p a l aː,Grande plume de paille en queue ou de coq (Btn),POLLEX,953,false
-Wallisian-97_bird-1,,Wallisian,97_bird,manu lele,manu lele,m a n u _ l e l e,Bird,POLLEX,14,false
+Wallisian-97_bird-1,,Wallisian,97_bird,manu lele,manu lele,m a n u + l e l e,Bird,POLLEX,14,false
 Wallisian-96_dog-1,,Wallisian,96_dog,kulii,kulii,k u l iː,Dog,POLLEX,1213,false
 Wallisian-95_tofall-1,,Wallisian,95_tofall,higa,higa,h i ŋ a,To fall,POLLEX,882,false
 Wallisian-95_tofall-2,,Wallisian,95_tofall,malele,malele,m a + l e + l e,"Accourir, se precipiter (Btn)",POLLEX,256,false
@@ -426,7 +426,7 @@ Wallisian-62_thatchroof-1,,Wallisian,62_thatchroof,àto,àto,ʔ a t o,Toit (Rch)
 Wallisian-61_house-1,,Wallisian,61_house,fale,fale,f a l e,House,POLLEX,342,false
 Wallisian-60_father-1,,Wallisian,60_father,tamai,tamai,t a m a + i,Father B. [<],POLLEX,27,true
 Wallisian-59_mother-1,,Wallisian,59_mother,fa'e,fa'e,f a ʔ e,"Mere, tante (Btn)",POLLEX,1095,false
-Wallisian-58_wife-1,,Wallisian,58_wife,fine matuà,fine matuà,f i n e _ m a t u ʔ a,Old woman,POLLEX,971,false
+Wallisian-58_wife-1,,Wallisian,58_wife,fine matuà,fine matuà,f i n e + m a t u ʔ a,Old woman,POLLEX,971,false
 Wallisian-56_child-1,,Wallisian,56_child,tamasiì,tamasiì,t a m a + s i ʔ i,Child (Btn) [<],POLLEX,1086,true
 Wallisian-56_child-2,,Wallisian,56_child,tamaliki,tamaliki,t a m a + l i k i,Children (Rch),POLLEX,1086,false
 Wallisian-55_womanfemale-1,,Wallisian,55_womanfemale,fa/fine/,fine,f i n e,Woman,POLLEX,110,false
@@ -466,7 +466,7 @@ Wallisian-29_tosniffsmell-1,,Wallisian,29_tosniffsmell,hogi,hogi,h o ŋ i,Smell,
 Wallisian-28_tobreathe-1,,Wallisian,28_tobreathe,maanava,maanava,m aː n a v a,"Breath, breathe",POLLEX,78,false
 Wallisian-28_tobreathe-2,,Wallisian,28_tobreathe,gaàgaà,gaàgaà,ŋ a ʔ a + ŋ a ʔ a,"Oppresse, ensouffle, hors de haleine (Rch)",POLLEX,140,false
 Wallisian-27_nose-1,,Wallisian,27_nose,ihu,ihu,i h u,Nose,POLLEX,55,false
-Wallisian-26_hair-1,,Wallisian,26_hair,lau ulu,lau ulu,l a u _ u l u,Longs cheveux (Btn),POLLEX,815,false
+Wallisian-26_hair-1,,Wallisian,26_hair,lau ulu,lau ulu,l a u + u l u,Longs cheveux (Btn),POLLEX,815,false
 Wallisian-26_hair-2,,Wallisian,26_hair,fulu,fulu,f u l u,Longs cheveux (Btn),POLLEX,695,false
 Wallisian-25_neck-1,,Wallisian,25_neck,kia,kia,k i a,"Gorge, gosier, cou (Btn) [<]",POLLEX,539,true
 Wallisian-25_neck-2,,Wallisian,25_neck,uà,uà,u ʔ a,"Neck, throat",POLLEX,458,false
@@ -523,7 +523,7 @@ Polynesian-179_near-1,,Polynesian,179_near,*tata,*tata,t a + t a,,PawleyOC,1393,
 Polynesian-178_that-1,,Polynesian,178_that,*era,*era,e + r a,(distant),PawleyOC,1006,false
 Polynesian-177_this-1,,Polynesian,177_this,*eni,*eni,e + n i,,PawleyOC,75,false
 Polynesian-176_below-1,,Polynesian,176_below,*lalo,*lalo,l a l o,"PPn shows a replacement innovation. Probably a semantic shift, as suggested by PMic *lalo 'deep'",PawleyOC,1315,false
-Polynesian-175_above-1,,Polynesian,175_above,*i luŋa,*i luŋa,i _ l u ŋ a,PPn shows lexical replacement.,PawleyOC,1382,false
+Polynesian-175_above-1,,Polynesian,175_above,*i luŋa,*i luŋa,i + l u ŋ a,PPn shows lexical replacement.,PawleyOC,1382,false
 Polynesian-174_ininside-1,,Polynesian,174_ininside,*(i) loto,* loto,l o t o,"PPn shows replacement.  PPn has *lalo 'under, below' with semantic shift.(hand)",PawleyOC,956,false
 Polynesian-172_toclimb-1,,Polynesian,172_toclimb,*kake,*kake,k a k e,PPn shows lexical replacement,PawleyOC,707,false
 Polynesian-171_tohide-1,,Polynesian,171_tohide,*funi,*funi,f u n i,PT: Motu huni-a 'to hide',PawleyOC,91,false
@@ -605,7 +605,7 @@ Polynesian-95_tofall-1,,Polynesian,95_tofall,*too,*too,t oː,"'to fall, drop'",P
 Polynesian-94_tothrow-1,,Polynesian,94_tothrow,*liaki,*liaki,l i a k i,"'cast (as line, swing and throw, toss)'",PawleyOC,1306,false
 Polynesian-93_topoundbeat-1,,Polynesian,93_topoundbeat,*tuki,*tuki,t u k i,,PawleyOC,532,false
 Polynesian-92_toopenuncover-1,,Polynesian,92_toopenuncover,*tatala,*tatala,t a + t a l a,"(a door, container)",PawleyOC,148,false
-Polynesian-91_tobuy-1,,Polynesian,91_tobuy,*fakatau mai,*fakatau mai,f a k a + t a u _ m a i,PPn shows lexical replacement,PawleyOC,1402,false
+Polynesian-91_tobuy-1,,Polynesian,91_tobuy,*fakatau mai,*fakatau mai,f a k a + t a u + m a i,PPn shows lexical replacement,PawleyOC,1402,false
 Polynesian-90_todig-1,,Polynesian,90_todig,*keli,*keli,k e l i,,PawleyOC,85,false
 Polynesian-88_tosqueeze-1,,Polynesian,88_tosqueeze,*fofoo,*fofoo,f o f oː,"(b) 'squeeze flesh or clothes, as in washing'",PawleyOC,1377,false
 Polynesian-88_tosqueeze-2,,Polynesian,88_tosqueeze,*kumi,*kumi,k u m i,(a)'massage',PawleyOC,358,false
@@ -693,7 +693,7 @@ Polynesian-11_dust-1,,Polynesian,11_dust,*efu,*efu,e f u,,PawleyOC,21,false
 Polynesian-10_dirty-1,,Polynesian,10_dirty,*kelekele,*kelekele,k e l e + k e l e,"This is reconstructed for 'black' or 'dark', not for 'dirty' -MW",PawleyOC,119,false
 Polynesian-9_toswim-1,,Polynesian,9_toswim,*kaukau,*kaukau,k a u + k a u,is this really reduplicated? not *kau,PawleyOC,969,false
 Polynesian-8_toturn-1,,Polynesian,8_toturn,*fuli,*fuli,f u l i,Possible replacement in PPn,PawleyOC,385,false
-Polynesian-7_tocome-1,,Polynesian,7_tocome,? fano mai,? fano mai,f a n o _ m a i,PPn shows a possible replacement innovation.,PawleyOC,81,false
+Polynesian-7_tocome-1,,Polynesian,7_tocome,? fano mai,? fano mai,f a n o + m a i,PPn shows a possible replacement innovation.,PawleyOC,81,false
 Polynesian-6_roadpath-1,,Polynesian,6_roadpath,*hala,*hala,h a l a,,PawleyOC,61,false
 Polynesian-5_towalk-1,,Polynesian,5_towalk,*roo,*roo,r oː,"(d) 'go (pl. subject)' (suppletive plural of fano 'go, sing. sub.)",PawleyOC,1247,false
 Polynesian-5_towalk-2,,Polynesian,5_towalk,*qalu,*qalu,ʔ a l u,(c) 1. 'go' 2. 'follow',PawleyOC,724,false
@@ -706,8 +706,8 @@ Polynesian-2_left-2,,Polynesian,2_left,*sema,*sema,s e m a,*sema has reflexes in
 Polynesian-1_hand-1,,Polynesian,1_hand,*lima,*lima,l i m a,,PawleyOC,36,false
 Maori-210_onethousand-1,,Maori,210_onethousand,mano,mano,m a n o,"Thousand, multitude.(Source: Pollex)",Biggs-85-2005,519,false
 Maori-209_onehundred-1,,Maori,209_onehundred,rau,rau,r a u,"A large number, hundred.(Source: Pollex)",Biggs-85-2005,518,false
-Maori-208_fifty-1,,Maori,208_fifty,rima tekau,rima tekau,r i m a _ t e + k a u,,Biggs-85-2005,1257,false
-Maori-207_twenty-1,,Maori,207_twenty,rua tekau,rua tekau,r u a _ t e k a u,"Twenty (obs.), ten (mod) (Bgs).(Source: Pollex)",Biggs-85-2005,666,false
+Maori-208_fifty-1,,Maori,208_fifty,rima tekau,rima tekau,r i m a + t e + k a u,,Biggs-85-2005,1257,false
+Maori-207_twenty-1,,Maori,207_twenty,rua tekau,rua tekau,r u a + t e k a u,"Twenty (obs.), ten (mod) (Bgs).(Source: Pollex)",Biggs-85-2005,666,false
 Maori-206_ten-1,,Maori,206_ten,tekau,tekau,t e k a u,,Biggs-85-2005,691,false
 Maori-206_ten-2,,Maori,206_ten,hangahuru,hangahuru,h a ŋ a + h u r u,"Ten (archaic) (Bgs), Ten (Best).(Source: Pollex)",Biggs-85-2005,946,false
 Maori-205_nine-1,,Maori,205_nine,iwa,iwa,i w a,Nine.(Source: Pollex),Biggs-85-2005,945,false
@@ -746,14 +746,14 @@ Maori-179_near-1,,Maori,179_near,tata,tata,t a + t a,,Biggs-85-2005,1393,false
 Maori-178_that-1,,Maori,178_that,teeraa,teeraa,t eː + r aː,,Biggs-85-2005,1289,false
 Maori-178_that-2,,Maori,178_that,teenaa,teenaa,t eː + n aː,,Biggs-85-2005,71,false
 Maori-177_this-1,,Maori,177_this,teenei,teenei,t eː + n e i,,Biggs-85-2005,1224,false
-Maori-176_below-1,,Maori,176_below,i raro,i raro,i _ r a r o,,Biggs-85-2005,1315,false
-Maori-175_above-1,,Maori,175_above,i runga,i runga,i _ r u ŋ a,,Biggs-85-2005,1382,false
-Maori-174_ininside-1,,Maori,174_ininside,i roto,i roto,i _ r o t o,,Biggs-85-2005,956,false
+Maori-176_below-1,,Maori,176_below,i raro,i raro,i + r a r o,,Biggs-85-2005,1315,false
+Maori-175_above-1,,Maori,175_above,i runga,i runga,i + r u ŋ a,,Biggs-85-2005,1382,false
+Maori-174_ininside-1,,Maori,174_ininside,i roto,i roto,i + r o t o,,Biggs-85-2005,956,false
 Maori-173_at-1,,Maori,173_at,hei,hei,h e i,,Biggs-85-2005,948,false
 Maori-173_at-2,,Maori,173_at,i,i,i,,Biggs-85-2005,11,false
 Maori-172_toclimb-1,,Maori,172_toclimb,piki,piki,p i k i,,Biggs-85-2005,1101,false
 Maori-171_tohide-1,,Maori,171_tohide,huna,huna,h u n a,,Biggs-85-2005,91,false
-Maori-170_when-1,,Maori,170_when,aahea,aahea,aː _ h e a,aahea (future),Biggs-85-2005,970,false
+Maori-170_when-1,,Maori,170_when,aahea,aahea,aː + h e a,aahea (future),Biggs-85-2005,970,false
 Maori-169_year-1,,Maori,169_year,tau,tau,t a u,,Biggs-85-2005,112,false
 Maori-168_day-1,,Maori,168_day,raa,raa,r aː,(period),Biggs-85-2005,1211,false
 Maori-168_day-2,,Maori,168_day,ao,ao,a o,(not night),Biggs-85-2005,18,false
@@ -831,7 +831,7 @@ Maori-102_rat-1,,Maori,102_rat,kiore,kiore,k i o r e,,Biggs-85-2005,250,false
 Maori-101_tofly-1,,Maori,101_tofly,rere,rere,r e r e,,Biggs-85-2005,205,false
 Maori-100_wing-1,,Maori,100_wing,parirau,parirau,p a r i r a u,,Biggs-85-2005,1421,false
 Maori-99_feather-1,,Maori,99_feather,huru-manu,huru-manu,h u r u + m a n u,,Biggs-85-2005,28,false
-Maori-98_egg-1,,Maori,98_egg,hua manu,hua manu,h u a _ m a n u,hua manu (arch.),Biggs-85-2005,950,false
+Maori-98_egg-1,,Maori,98_egg,hua manu,hua manu,h u a + m a n u,hua manu (arch.),Biggs-85-2005,950,false
 Maori-98_egg-2,,Maori,98_egg,heeki,heeki,h eː k i,heeki (Eng.),Biggs-85-2005,1356,true
 Maori-97_bird-1,,Maori,97_bird,manu,manu,m a n u,,Biggs-85-2005,14,false
 Maori-96_dog-1,,Maori,96_dog,kurii,kurii,k u r iː,,Biggs-85-2005,1213,false
@@ -923,9 +923,9 @@ Maori-11_dust-1,,Maori,11_dust,puehu,puehu,p u + e h u,,Biggs-85-2005,21,false
 Maori-10_dirty-1,,Maori,10_dirty,paru,paru,p a r u,,Biggs-85-2005,1212,false
 Maori-9_toswim-1,,Maori,9_toswim,kauhoe,kauhoe,k a u + h o e,,Biggs-85-2005,969,false
 Maori-8_toturn-1,,Maori,8_toturn,huri,huri,h u r i,,Biggs-85-2005,385,false
-Maori-7_tocome-1,,Maori,7_tocome,haere mai,haere mai,h a e r e _ m a i,,Biggs-85-2005,81,false
+Maori-7_tocome-1,,Maori,7_tocome,haere mai,haere mai,h a e r e + m a i,,Biggs-85-2005,81,false
 Maori-6_roadpath-1,,Maori,6_roadpath,ara,ara,a r a,,Biggs-85-2005,61,false
-Maori-5_towalk-1,,Maori,5_towalk,haere-a-waewae,haere-a-waewae,h a e r e _ a _ w a e w a e,,Biggs-85-2005,1109,false
+Maori-5_towalk-1,,Maori,5_towalk,haere-a-waewae,haere-a-waewae,h a e r e + a + w a e w a e,,Biggs-85-2005,1109,false
 Maori-4_legfoot-1,,Maori,4_legfoot,waewae,waewae,w a e + w a e,Correction via Peter Keegan,Biggs-85-2005,44,false
 Maori-3_right-1,,Maori,3_right,matau,matau,m a + t a u,,Biggs-85-2005,958,false
 Maori-3_right-2,,Maori,3_right,katau,katau,k a + t a u,,Biggs-85-2005,958,false
@@ -933,7 +933,7 @@ Maori-2_left-1,,Maori,2_left,mauii,mauii,m a u iː,,Biggs-85-2005,43,false
 Maori-1_hand-1,,Maori,1_hand,ringa(ringa),ringa,r i ŋ a,irregular medial C (see Pollex),Biggs-85-2005,36,false
 Kapingamarangi-210_onethousand-1,,Kapingamarangi,210_onethousand,mana,mana,m a n a,Thousand (Lbr).(Source: Pollex),POLLEX,519,false
 Kapingamarangi-209_onehundred-1,,Kapingamarangi,209_onehundred,lau,lau,l a u,Hundred (Lbr).(Source: Pollex),POLLEX,518,false
-Kapingamarangi-206_ten-1,,Kapingamarangi,206_ten,matangahoru,matangahoru,m a t a ŋ a _ h o r u,Ten.(Source: Pollex),POLLEX,946,false
+Kapingamarangi-206_ten-1,,Kapingamarangi,206_ten,matangahoru,matangahoru,m a t a ŋ a + h o r u,Ten.(Source: Pollex),POLLEX,946,false
 Kapingamarangi-205_nine-1,,Kapingamarangi,205_nine,hiwa,hiwa,h i w a,Nine (Lbr)[>].(Source: Pollex),POLLEX,945,false
 Kapingamarangi-204_eight-1,,Kapingamarangi,204_eight,walu,walu,w a l u,Pollex 06: Walu. :Eight (Lbr).,POLLEX,663,false
 Kapingamarangi-203_seven-1,,Kapingamarangi,203_seven,hidu,hidu,h i d u,Seven (Lbr).(Source: Pollex),POLLEX,6,false
@@ -988,7 +988,7 @@ Kapingamarangi-155_long-1,,Kapingamarangi,155_long,l/loo/,loo,l oː,Long (Plural
 Kapingamarangi-154_short-1,,Kapingamarangi,154_short,bodo,bodo,b o d o,"Small, diminutive (Lbr)",POLLEX,1397,false
 Kapingamarangi-153_big-1,,Kapingamarangi,153_big,tamana,tamana,t a m a n a,,POLLEX,164,false
 Kapingamarangi-152_small-1,,Kapingamarangi,152_small,bodo,bodo,b o d o,"Small, diminutive (Lbr)",POLLEX,136,false
-Kapingamarangi-150_yellow-1,,Kapingamarangi,150_yellow,lau puke,lau puke,l a u _ p u k e,,POLLEX,165,false
+Kapingamarangi-150_yellow-1,,Kapingamarangi,150_yellow,lau puke,lau puke,l a u + p u k e,,POLLEX,165,false
 Kapingamarangi-149_red-1,,Kapingamarangi,149_red,mmee,mmee,m m eː,Reddish (Lbr),POLLEX,60,false
 Kapingamarangi-148_white-1,,Kapingamarangi,148_white,kene,kene,k e n e,White,POLLEX,160,false
 Kapingamarangi-147_black-1,,Kapingamarangi,147_black,uli,uli,u l i,Used in compounds and idioms (Lbr),POLLEX,1209,false
@@ -1035,7 +1035,7 @@ Kapingamarangi-105_tail-1,,Kapingamarangi,105_tail,huku,huku,h u k u,,POLLEX,332
 Kapingamarangi-104_fatgrease-1,,Kapingamarangi,104_fatgrease,kiris,kiris,k i r i s,Loan - English 'Grease',POLLEX,170,true
 Kapingamarangi-103_meatflesh-1,,Kapingamarangi,103_meatflesh,kano,kano,k a n o,"Meat, penis (Ebt)",POLLEX,344,false
 Kapingamarangi-101_tofly-1,,Kapingamarangi,101_tofly,maangi,maangi,m aː ŋ i,"Pollex 06: Maangi. :Fly, flap, as wings.",POLLEX,1196,false
-Kapingamarangi-100_wing-1,,Kapingamarangi,100_wing,bakau manu,bakau manu,b a + k a u _ m a n u,Wing of a bird; shoulder,POLLEX,109,false
+Kapingamarangi-100_wing-1,,Kapingamarangi,100_wing,bakau manu,bakau manu,b a + k a u + m a n u,Wing of a bird; shoulder,POLLEX,109,false
 Kapingamarangi-99_feather-1,,Kapingamarangi,99_feather,ngahuru,ngahuru,ŋ a + h u r u,,POLLEX,28,false
 Kapingamarangi-98_egg-1,,Kapingamarangi,98_egg,ngoko,ngoko,ŋ o k o,Pollex 06: Ngoko. :Egg (Ebt).,POLLEX,745,false
 Kapingamarangi-97_bird-1,,Kapingamarangi,97_bird,manu,manu,m a n u,Bird,POLLEX,14,false
@@ -1080,7 +1080,7 @@ Kapingamarangi-61_house-1,,Kapingamarangi,61_house,hale,hale,h a l e,House (Lbr)
 Kapingamarangi-60_father-1,,Kapingamarangi,60_father,dama/na,dama,d a m a,"Father, uncle (Lbr)",POLLEX,27,false
 Kapingamarangi-59_mother-1,,Kapingamarangi,59_mother,dinana,dinana,d i n a n a,"Mother, dam (Lbr)",POLLEX,49,false
 Kapingamarangi-58_wife-1,,Kapingamarangi,58_wife,awanga,awanga,a w a ŋ a,Pollex 06: Awanga. :Wife.,POLLEX,1343,false
-Kapingamarangi-56_child-1,,Kapingamarangi,56_child,dama lligi,dama lligi,d a m a _ l l i g i,Young children (Lbr),POLLEX,1086,false
+Kapingamarangi-56_child-1,,Kapingamarangi,56_child,dama lligi,dama lligi,d a m a + l l i g i,Young children (Lbr),POLLEX,1086,false
 Kapingamarangi-56_child-2,,Kapingamarangi,56_child,tama,tama,t a m a,Child,POLLEX,1086,false
 Kapingamarangi-55_womanfemale-1,,Kapingamarangi,55_womanfemale,ahina,ahina,a + h i n a,Woman (Lbr),POLLEX,110,false
 Kapingamarangi-54_manmale-1,,Kapingamarangi,54_manmale,daane,daane,d aː n e,Male (Lbr),POLLEX,47,false
@@ -1148,7 +1148,7 @@ Tahitian-210_onethousand-1,,Tahitian,210_onethousand,tauatini,tauatini,t a u a t
 Tahitian-210_onethousand-2,,Tahitian,210_onethousand,mano,mano,m a n o,A thousand or a thousand brace.(Source: Pollex),Clark-173-2005,519,false
 Tahitian-209_onehundred-1,,Tahitian,209_onehundred,haanere,haanere,h aː n e r e,English loan,Clark-173-2005,186,true
 Tahitian-209_onehundred-2,,Tahitian,209_onehundred,rau,rau,r a u,One hundred.(Source: Pollex),Clark-173-2005,518,false
-Tahitian-207_twenty-1,,Tahitian,207_twenty,piti 'ahuru,piti 'ahuru,p i t i _ ʔ a h u r u,,Clark-173-2005,646,false
+Tahitian-207_twenty-1,,Tahitian,207_twenty,piti 'ahuru,piti 'ahuru,p i t i + ʔ a h u r u,,Clark-173-2005,646,false
 Tahitian-207_twenty-2,,Tahitian,207_twenty,ta'au,ta'au,t a ʔ a u,"Vingt, (dix couples).(Source: Pollex)",Clark-173-2005,805,false
 Tahitian-206_ten-1,,Tahitian,206_ten,'ahuru,'ahuru,ʔ a + h u r u,,Clark-173-2005,946,false
 Tahitian-205_nine-1,,Tahitian,205_nine,iva,iva,i v a,Nine.(Source: Pollex),Clark-173-2005,945,false
@@ -1170,7 +1170,7 @@ Tahitian-192_and-1,,Tahitian,192_and,'ee,'ee,ʔ eː,,Clark-173-2005,1313,false
 Tahitian-191_all-1,,Tahitian,191_all,ato'a,ato'a,a + t o ʔ a,,Clark-173-2005,293,false
 Tahitian-190_other-1,,Tahitian,190_other,vetahi['ee],vetahi,v e + t a h i,,Clark-173-2005,1221,false
 Tahitian-189_who-1,,Tahitian,189_who,'o v|ai,ʔo vai,ʔ o + v a i,,Clark-173-2005,106,false
-Tahitian-188_what-1,,Tahitian,188_what,e aha,e aha,e _ a h a,,Clark-173-2005,104,false
+Tahitian-188_what-1,,Tahitian,188_what,e aha,e aha,e + a h a,,Clark-173-2005,104,false
 Tahitian-187_they-1,,Tahitian,187_they,raatou,raatou,r aː + t o u,,Clark-173-2005,73,false
 Tahitian-187_they-2,,Tahitian,187_they,raaua,raaua,r aː + u a,dual,Clark-173-2005,1469,false
 Tahitian-186_you-1,,Tahitian,186_you,'outou,'outou,ʔ o u + t o u,,Clark-173-2005,407,false
@@ -1190,11 +1190,11 @@ Tahitian-178_that-1,,Tahitian,178_that,teeraa,teeraa,t eː + r aː,,Clark-173-20
 Tahitian-177_this-1,,Tahitian,177_this,teie,teie,t e + i e,,Clark-173-2005,268,false
 Tahitian-176_below-1,,Tahitian,176_below,raro,raro,r a r o,,Clark-173-2005,1315,false
 Tahitian-175_above-1,,Tahitian,175_above,ni'a,ni'a,n i ʔ a,,Clark-173-2005,1382,false
-Tahitian-174_ininside-1,,Tahitian,174_ininside,i roto,i roto,i _ r o t o,,Clark-173-2005,956,false
+Tahitian-174_ininside-1,,Tahitian,174_ininside,i roto,i roto,i + r o t o,,Clark-173-2005,956,false
 Tahitian-173_at-1,,Tahitian,173_at,i,i,i,,Clark-173-2005,11,false
 Tahitian-172_toclimb-1,,Tahitian,172_toclimb,ta'uma,ta'uma,t a ʔ u m a,,Clark-173-2005,880,false
 Tahitian-171_tohide-1,,Tahitian,171_tohide,taapuni,taapuni,t aː + p u n i,,Clark-173-2005,91,false
-Tahitian-170_when-1,,Tahitian,170_when,inaafea,inaafea,i n aː _ f e a,(past),Clark-173-2005,970,false
+Tahitian-170_when-1,,Tahitian,170_when,inaafea,inaafea,i n aː + f e a,(past),Clark-173-2005,970,false
 Tahitian-169_year-1,,Tahitian,169_year,matahiti,matahiti,m a t a h i t i,,Clark-173-2005,1245,false
 Tahitian-168_day-1,,Tahitian,168_day,ao,ao,a o,,Clark-173-2005,18,false
 Tahitian-167_night-1,,Tahitian,167_night,poo,poo,p oː,,Clark-173-2005,54,false
@@ -1280,7 +1280,7 @@ Tahitian-95_tofall-1,,Tahitian,95_tofall,topa,topa,t o p a,,Clark-173-2005,312,f
 Tahitian-94_tothrow-1,,Tahitian,94_tothrow,taaora,taaora,t aː + o r a,,Clark-173-2005,156,false
 Tahitian-93_topoundbeat-1,,Tahitian,93_topoundbeat,paapaahia,paapaahia,p aː + p aː h i a,,Clark-173-2005,284,false
 Tahitian-92_toopenuncover-1,,Tahitian,92_toopenuncover,hua'i,hua'i,h u a ʔ i,oven,Clark-173-2005,1335,false
-Tahitian-91_tobuy-1,,Tahitian,91_tobuy,ho'o mai,ho'o mai,h o ʔ o _ m a i,,Clark-173-2005,1228,false
+Tahitian-91_tobuy-1,,Tahitian,91_tobuy,ho'o mai,ho'o mai,h o ʔ o + m a i,,Clark-173-2005,1228,false
 Tahitian-90_todig-1,,Tahitian,90_todig,'eru,'eru,ʔ e r u,,Clark-173-2005,85,false
 Tahitian-89_tohold-1,,Tahitian,89_tohold,taape'a,taape'a,t aː + p e ʔ a,,Clark-173-2005,207,false
 Tahitian-88_tosqueeze-1,,Tahitian,88_tosqueeze,'u'umu,'u'umu,ʔ u + ʔ u m u,,Clark-173-2005,966,false
@@ -1310,11 +1310,11 @@ Tahitian-66_totieupfasten-1,,Tahitian,66_totieupfasten,ta'amu,ta'amu,t a + ʔ a 
 Tahitian-65_rope-1,,Tahitian,65_rope,taura,taura,t a u r a,,Clark-173-2005,1396,false
 Tahitian-64_tosay-1,,Tahitian,64_tosay,parau,parau,p a r a u,,Clark-173-2005,261,false
 Tahitian-63_name-1,,Tahitian,63_name,i'oa,i'oa,i ʔ o a,,Clark-173-2005,1096,false
-Tahitian-62_thatchroof-1,,Tahitian,62_thatchroof,taapo'i fare,taapo'i fare,t aː + p o ʔ i _ f a r e,,Clark-173-2005,138,false
+Tahitian-62_thatchroof-1,,Tahitian,62_thatchroof,taapo'i fare,taapo'i fare,t aː + p o ʔ i + f a r e,,Clark-173-2005,138,false
 Tahitian-61_house-1,,Tahitian,61_house,fare,fare,f a r e,,Clark-173-2005,342,false
-Tahitian-60_father-1,,Tahitian,60_father,metua taane,metua taane,m e t u a _ t aː n e,,Clark-173-2005,27,false
+Tahitian-60_father-1,,Tahitian,60_father,metua taane,metua taane,m e t u a + t aː n e,,Clark-173-2005,27,false
 Tahitian-60_father-2,,Tahitian,60_father,paapaa,paapaa,p aː p aː,borrowing from French-MW,Clark-173-2005,952,true
-Tahitian-59_mother-1,,Tahitian,59_mother,metua vahine,metua vahine,m e t u a _ v a h i n e,,Clark-173-2005,809,false
+Tahitian-59_mother-1,,Tahitian,59_mother,metua vahine,metua vahine,m e t u a + v a h i n e,,Clark-173-2005,809,false
 Tahitian-59_mother-2,,Tahitian,59_mother,maamaa,maamaa,m aː m aː,borrowing?-MW,Clark-173-2005,957,true
 Tahitian-58_wife-1,,Tahitian,58_wife,vahine,vahine,v a + h i n e,,Clark-173-2005,971,false
 Tahitian-57_husband-1,,Tahitian,57_husband,taane,taane,t aː n e,,Clark-173-2005,343,false
@@ -1349,7 +1349,7 @@ Tahitian-31_tooth-1,,Tahitian,31_tooth,niho,niho,n i h o,,Clark-173-2005,101,fal
 Tahitian-30_mouth-1,,Tahitian,30_mouth,vaha,vaha,v a h a,,Clark-173-2005,50,false
 Tahitian-29_tosniffsmell-1,,Tahitian,29_tosniffsmell,ho'i,ho'i,h o ʔ i,"ho'i (flairer, toucher avec le nez)",Clark-173-2005,1412,false
 Tahitian-29_tosniffsmell-2,,Tahitian,29_tosniffsmell,hau'a,hau'a,h a u ʔ a,"hau? (sentir, percevoir une deur ou emettre une odeur)",Clark-173-2005,151,false
-Tahitian-28_tobreathe-1,,Tahitian,28_tobreathe,huti i te aho,huti i te aho,h u t i _ i _ t e _ a h o,,Clark-173-2005,1401,false
+Tahitian-28_tobreathe-1,,Tahitian,28_tobreathe,huti i te aho,huti i te aho,h u t i + i + t e + a h o,,Clark-173-2005,1401,false
 Tahitian-27_nose-1,,Tahitian,27_nose,ihu,ihu,i h u,,Clark-173-2005,55,false
 Tahitian-26_hair-1,,Tahitian,26_hair,rouru,rouru,r o u + r u,,Clark-173-2005,815,false
 Tahitian-25_neck-1,,Tahitian,25_neck,'a'ii,'a'ii,ʔ a ʔ iː,,Clark-173-2005,539,false
@@ -1366,12 +1366,12 @@ Tahitian-15_bone-1,,Tahitian,15_bone,ivi,ivi,i v i,,Clark-173-2005,987,false
 Tahitian-14_belly-1,,Tahitian,14_belly,'oopuu,'oopuu,ʔ oː p uː,,Clark-173-2005,521,false
 Tahitian-13_back-1,,Tahitian,13_back,tua,tua,t u a,,Clark-173-2005,188,false
 Tahitian-12_skin-1,,Tahitian,12_skin,'iri,'iri,ʔ i r i,,Clark-173-2005,65,false
-Tahitian-11_dust-1,,Tahitian,11_dust,repo puehu,repo puehu,r e p o _ p u + e h u,repo puehu (scattered dirt),Clark-173-2005,21,false
+Tahitian-11_dust-1,,Tahitian,11_dust,repo puehu,repo puehu,r e p o + p u + e h u,repo puehu (scattered dirt),Clark-173-2005,21,false
 Tahitian-11_dust-2,,Tahitian,11_dust,hu'ahuaa,hu'ahuaa,h u ʔ a h u aː,hu'ahuaa (little bits of anything),Clark-173-2005,1458,false
 Tahitian-10_dirty-1,,Tahitian,10_dirty,repo,repo,r e p o,,Clark-173-2005,1388,false
 Tahitian-9_toswim-1,,Tahitian,9_toswim,'au,'au,ʔ a u,,Clark-173-2005,969,false
 Tahitian-8_toturn-1,,Tahitian,8_toturn,tiipu'u,tiipu'u,t iː + p u ʔ u,,Clark-173-2005,157,false
-Tahitian-7_tocome-1,,Tahitian,7_tocome,haere mai,haere mai,h a e r e _ m a i,,Clark-173-2005,81,false
+Tahitian-7_tocome-1,,Tahitian,7_tocome,haere mai,haere mai,h a e r e + m a i,,Clark-173-2005,81,false
 Tahitian-6_roadpath-1,,Tahitian,6_roadpath,ara,ara,a r a,,Clark-173-2005,61,false
 Tahitian-6_roadpath-2,,Tahitian,6_roadpath,'ee'a,'ee'a,ʔ eː ʔ a,'ee'a (path/track),Clark-173-2005,988,false
 Tahitian-6_roadpath-3,,Tahitian,6_roadpath,puruumu,puruumu,p u r uː m u,puruumu (road),Clark-173-2005,670,false
@@ -1412,11 +1412,11 @@ Emae-184_heshe-1,,Emae,184_heshe,koia,koia,k o + i a,,52375,37,false
 Emae-183_thou-1,,Emae,183_thou,akue,akue,a k u e,,52375,76,false
 Emae-182_i-1,,Emae,182_i,kou,kou,k + o u,,52375,4,false
 Emae-181_where-1,,Emae,181_where,ife,ife,i f e,,52375,679,false
-Emae-180_far-1,,Emae,180_far,iᵐbua,iᵐbua,i _ ᵐb u a,,52375,363,false
+Emae-180_far-1,,Emae,180_far,iᵐbua,iᵐbua,i + ᵐb u a,,52375,363,false
 Emae-179_near-1,,Emae,179_near,fefetai,fefetai,f e + f e t a i,,52375,876,false
 Emae-178_that-1,,Emae,178_that,ira,ira,i + r a,,52375,364,false
 Emae-177_this-1,,Emae,177_this,reni,reni,r e + n i,,52375,75,false
-Emae-174_ininside-1,,Emae,174_ininside,i roto,i roto,i _ r o t o,,52375,956,false
+Emae-174_ininside-1,,Emae,174_ininside,i roto,i roto,i + r o t o,,52375,956,false
 Emae-170_when-1,,Emae,170_when,afe,afe,a f e,,52375,365,false
 Emae-169_year-1,,Emae,169_year,tau,tau,t a u,,52375,112,false
 Emae-168_day-1,,Emae,168_day,aso,aso,a s o,,52375,18,false
@@ -1467,8 +1467,8 @@ Emae-120_stone-1,,Emae,120_stone,maka,maka,m a k a,,52375,811,false
 Emae-119_earthsoil-1,,Emae,119_earthsoil,kere,kere,k e r e,,52375,121,false
 Emae-118_grass-1,,Emae,118_grass,mauku,mauku,m a u k u,,52375,1063,false
 Emae-117_fruit-1,,Emae,117_fruit,afua,afua,a f u a,,52375,33,false
-Emae-116_flower-1,,Emae,116_flower,se rakau,se rakau,s e _ r a k a u,,52375,1390,false
-Emae-115_root-1,,Emae,115_root,kai rakau,kai rakau,k a i _ r a k a u,,52375,525,false
+Emae-116_flower-1,,Emae,116_flower,se rakau,se rakau,s e + r a k a u,,52375,1390,false
+Emae-115_root-1,,Emae,115_root,kai rakau,kai rakau,k a i + r a k a u,,52375,525,false
 Emae-114_leaf-1,,Emae,114_leaf,raurau,raurau,r a u + r a u,,52375,42,false
 Emae-112_rotten-1,,Emae,112_rotten,popo,popo,p o + p o,,52375,347,false
 Emae-111_fish-1,,Emae,111_fish,ika,ika,i k a,,52375,30,false
@@ -1499,7 +1499,7 @@ Emae-78_tocuthack-1,,Emae,78_tocuthack,teia,teia,t e i a,,52375,83,false
 Emae-77_toscratch-1,,Emae,77_toscratch,rakutia,rakutia,r a k u + t i a,,52375,1411,false
 Emae-76_tolivebealive-1,,Emae,76_tolivebealive,mauri,mauri,m a u r i,,52375,93,false
 Emae-75_todiebedead-1,,Emae,75_todiebedead,mate,mate,m a t e,,52375,84,false
-Emae-74_tokill-1,,Emae,74_tokill,teia-kemate,teia-kemate,t e i a _ k e + m a t e,,52375,1334,false
+Emae-74_tokill-1,,Emae,74_tokill,teia-kemate,teia-kemate,t e i a + k e + m a t e,,52375,1334,false
 Emae-72_tohit-1,,Emae,72_tohit,pakia,pakia,p a k i + a,,52375,1103,false
 Emae-71_tostabpierce-1,,Emae,71_tostabpierce,laβoa,laβoa,l a β o a,,52375,389,false
 Emae-71_tostabpierce-2,,Emae,71_tostabpierce,sukia,sukia,s u k i a,,52375,98,false
@@ -1513,14 +1513,14 @@ Emae-61_house-1,,Emae,61_house,fare,fare,f a r e,,52375,342,false
 Emae-60_father-1,,Emae,60_father,tama-n,tama-n,t a m a + n,,52375,27,false
 Emae-59_mother-1,,Emae,59_mother,tinana,tinana,t i n a n a,,52375,49,false
 Emae-59_mother-2,,Emae,59_mother,nau,nau,n a u,,52375,1219,false
-Emae-58_wife-1,,Emae,58_wife,finamatua,finamatua,f i n a _ m a t u a,,52375,971,false
+Emae-58_wife-1,,Emae,58_wife,finamatua,finamatua,f i n a + m a t u a,,52375,971,false
 Emae-57_husband-1,,Emae,57_husband,matua,matua,m a t u a,,52375,747,false
 Emae-56_child-1,,Emae,56_child,tamati·ti,tamati·ti,t a m a + t i + t i,,52375,1086,false
 Emae-55_womanfemale-1,,Emae,55_womanfemale,fafine,fafine,f a + f i n e,,52375,110,false
 Emae-54_manmale-1,,Emae,54_manmale,taŋata,taŋata,t a ŋ a t a,,52375,47,false
 Emae-53_personhumanbeing-1,,Emae,53_personhumanbeing,taŋata,taŋata,t a ŋ a t a,,52375,58,false
-Emae-52_tostand-1,,Emae,52_tostand,tuiruŋa,tuiruŋa,t u i _ r u ŋ a,tu i runga,52375,533,false
-Emae-51_tosit-1,,Emae,51_tosit,nofoiraro,nofoiraro,n o f o _ i _ r a r o,,52375,404,false
+Emae-52_tostand-1,,Emae,52_tostand,tuiruŋa,tuiruŋa,t u i + r u ŋ a,tu i runga,52375,533,false
+Emae-51_tosit-1,,Emae,51_tosit,nofoiraro,nofoiraro,n o f o + i + r a r o,,52375,404,false
 Emae-49_toliedown-1,,Emae,49_toliedown,moe,moe,m o e,,52375,1105,false
 Emae-48_tosleep-1,,Emae,48_tosleep,moe,moe,m o e,,52375,150,false
 Emae-48_tosleep-2,,Emae,48_tosleep,ŋoro,ŋoro,ŋ o r o,,52375,1130,false
@@ -1557,13 +1557,13 @@ Emae-17_liver-1,,Emae,17_liver,ate,ate,a t e,,52375,45,false
 Emae-16_intestines-1,,Emae,16_intestines,tinae,tinae,t i n a e,,52375,40,false
 Emae-15_bone-1,,Emae,15_bone,sui,sui,s u i,,52375,987,false
 Emae-14_belly-1,,Emae,14_belly,nakau,nakau,n a k a u,intestines?,52375,394,false
-Emae-13_back-1,,Emae,13_back,simatua,simatua,s i m a _ t u a,,52375,188,false
+Emae-13_back-1,,Emae,13_back,simatua,simatua,s i m a + t u a,,52375,188,false
 Emae-12_skin-1,,Emae,12_skin,kiri,kiri,k i r i,,52375,65,false
 Emae-11_dust-1,,Emae,11_dust,refu,refu,r e f u,,52375,21,false
 Emae-10_dirty-1,,Emae,10_dirty,uri,uri,u r i,"black (again, not same semantic value)",52375,395,false
 Emae-9_toswim-1,,Emae,9_toswim,kaokao,kaokao,k a o + k a o,,52375,969,false
 Emae-8_toturn-1,,Emae,8_toturn,fariu,fariu,f a r i u,,52375,534,false
-Emae-7_tocome-1,,Emae,7_tocome,numai,numai,n u _ m a i,,52375,81,false
+Emae-7_tocome-1,,Emae,7_tocome,numai,numai,n u + m a i,,52375,81,false
 Emae-6_roadpath-1,,Emae,6_roadpath,ara,ara,a r a,,52375,61,false
 Emae-5_towalk-1,,Emae,5_towalk,saere,saere,s a e r e,,52375,1109,false
 Emae-4_legfoot-1,,Emae,4_legfoot,βae,βae,β a e,,52375,44,false
@@ -1585,9 +1585,9 @@ Rapanui-199_three-1,,Rapanui,199_three,toru,toru,t o r u,Three,POLLEX,8,false
 Rapanui-198_two-1,,Rapanui,198_two,rua,rua,r u a,Two,POLLEX,9,false
 Rapanui-197_one-1,,Rapanui,197_one,tahi,tahi,t a h i,One,POLLEX,335,false
 Rapanui-196_tocount-1,,Rapanui,196_tocount,tataku,tataku,t a + t a k u,,POLLEX,1330,false
-Rapanui-195_nonot-1,,Rapanui,195_nonot,ina kai,ina kai,i n a _ k a i,,POLLEX,1352,false
+Rapanui-195_nonot-1,,Rapanui,195_nonot,ina kai,ina kai,i n a + k a i,,POLLEX,1352,false
 Rapanui-195_nonot-2,,Rapanui,195_nonot,ta'e,ta'e,t a ʔ e,Negacion condicional (Fts),POLLEX,408,false
-Rapanui-194_how-1,,Rapanui,194_how,pe hé,pe hé,p e _ h e,,POLLEX,194,false
+Rapanui-194_how-1,,Rapanui,194_how,pe hé,pe hé,p e + h e,,POLLEX,194,false
 Rapanui-193_if-1,,Rapanui,193_if,ana,ana,a n a,If (Fts),POLLEX,1090,false
 Rapanui-192_and-1,,Rapanui,192_and,piri,piri,p i r i,,POLLEX,409,false
 Rapanui-192_and-2,,Rapanui,192_and,pe,pe,p e,,POLLEX,603,false
@@ -1616,7 +1616,7 @@ Rapanui-174_ininside-1,,Rapanui,174_ininside,roto,roto,r o t o,"Inside, lining (
 Rapanui-173_at-1,,Rapanui,173_at,i,i,i,"At, in, on (Fts)",POLLEX,11,false
 Rapanui-172_toclimb-1,,Rapanui,172_toclimb,eke,eke,e k e,"Climb, embark, mount (Fts).",POLLEX,528,false
 Rapanui-171_tohide-1,,Rapanui,171_tohide,romi,romi,r o m i,,POLLEX,414,false
-Rapanui-170_when-1,,Rapanui,170_when,agahé,agahé,a ŋ a _ h e,when (in the past),POLLEX,970,false
+Rapanui-170_when-1,,Rapanui,170_when,agahé,agahé,a ŋ a + h e,when (in the past),POLLEX,970,false
 Rapanui-169_year-1,,Rapanui,169_year,ta'u,ta'u,t a ʔ u,Year (obs.),POLLEX,112,false
 Rapanui-169_year-2,,Rapanui,169_year,matahiti,matahiti,m a t a h i t i,Year (Fts),POLLEX,1245,false
 Rapanui-168_day-1,,Rapanui,168_day,raa,raa,r aː,,POLLEX,1211,false
@@ -1805,7 +1805,7 @@ Rapanui-16_intestines-1,,Rapanui,16_intestines,kokoma,kokoma,k o + k o m a,"Poll
 Rapanui-15_bone-1,,Rapanui,15_bone,ivi,ivi,i v i,,POLLEX,987,false
 Rapanui-14_belly-1,,Rapanui,14_belly,manava,manava,m a n a v a,,POLLEX,1385,false
 Rapanui-14_belly-2,,Rapanui,14_belly,kopu,kopu,k o p u,"Abdomen, belly, paunch, stomach (Fts)",POLLEX,521,false
-Rapanui-13_back-1,,Rapanui,13_back,tu'a ivi,tu'a ivi,t u ʔ a _ i v i,,POLLEX,188,false
+Rapanui-13_back-1,,Rapanui,13_back,tu'a ivi,tu'a ivi,t u ʔ a + i v i,,POLLEX,188,false
 Rapanui-12_skin-1,,Rapanui,12_skin,kiri,kiri,k i r i,,POLLEX,65,false
 Rapanui-11_dust-1,,Rapanui,11_dust,pugaehu,pugaehu,p u ŋ a + e h u,,POLLEX,21,false
 Rapanui-11_dust-2,,Rapanui,11_dust,garahu,garahu,ŋ a + r a h u,"embers, soot",POLLEX,21,false
@@ -1824,7 +1824,7 @@ Rapanui-2_left-1,,Rapanui,2_left,maui,maui,m a u i,,POLLEX,43,false
 Rapanui-1_hand-1,,Rapanui,1_hand,rima,rima,r i m a,,POLLEX,36,false
 Mangareva-210_onethousand-1,,Mangareva,210_onethousand,mano,mano,m a n o,,POLLEX,519,false
 Mangareva-209_onehundred-1,,Mangareva,209_onehundred,rau,rau,r a u,,POLLEX,518,false
-Mangareva-208_fifty-1,,Mangareva,208_fifty,rima rongo'uru,rima rongo'uru,r i m a _ r o ŋ o + ʔ u r u,,POLLEX,1,false
+Mangareva-208_fifty-1,,Mangareva,208_fifty,rima rongo'uru,rima rongo'uru,r i m a + r o ŋ o + ʔ u r u,,POLLEX,1,false
 Mangareva-207_twenty-1,,Mangareva,207_twenty,takau,takau,t a k a u,,POLLEX,805,false
 Mangareva-206_ten-1,,Mangareva,206_ten,rongo'uru,rongo'uru,r o ŋ o + ʔ u r u,,POLLEX,946,false
 Mangareva-205_nine-1,,Mangareva,205_nine,iva,iva,i v a,,POLLEX,945,false
@@ -1862,7 +1862,7 @@ Mangareva-174_ininside-1,,Mangareva,174_ininside,roto,roto,r o t o,,POLLEX,956,f
 Mangareva-173_at-1,,Mangareva,173_at,i/ki,ki,k i,,POLLEX,11,false
 Mangareva-172_toclimb-1,,Mangareva,172_toclimb,piki,piki,p i k i,,POLLEX,1101,false
 Mangareva-171_tohide-1,,Mangareva,171_tohide,pupuni,pupuni,p u + p u n i,,POLLEX,91,false
-Mangareva-170_when-1,,Mangareva,170_when,a 'ea,a 'ea,a _ ʔ e a,,POLLEX,970,false
+Mangareva-170_when-1,,Mangareva,170_when,a 'ea,a 'ea,a + ʔ e a,,POLLEX,970,false
 Mangareva-169_year-1,,Mangareva,169_year,ano,ano,a n o,L from French,POLLEX,471,true
 Mangareva-169_year-2,,Mangareva,169_year,tau,tau,t a u,"Season, year",POLLEX,112,false
 Mangareva-168_day-1,,Mangareva,168_day,ao,ao,a o,,POLLEX,18,false
@@ -1957,7 +1957,7 @@ Mangareva-101_tofly-1,,Mangareva,101_tofly,rere,rere,r e r e,,POLLEX,205,false
 Mangareva-100_wing-1,,Mangareva,100_wing,pererau,pererau,p e r e r a u,,POLLEX,1421,false
 Mangareva-100_wing-2,,Mangareva,100_wing,pehau,pehau,p e + h a u,,POLLEX,109,false
 Mangareva-99_feather-1,,Mangareva,99_feather,'uru,'uru,ʔ u r u,,POLLEX,28,false
-Mangareva-98_egg-1,,Mangareva,98_egg,māmari moa,māmari moa,m aː m a r i _ m o a,,POLLEX,1088,false
+Mangareva-98_egg-1,,Mangareva,98_egg,māmari moa,māmari moa,m aː m a r i + m o a,,POLLEX,1088,false
 Mangareva-97_bird-1,,Mangareva,97_bird,manu,manu,m a n u,,POLLEX,14,false
 Mangareva-96_dog-1,,Mangareva,96_dog,kurī,kurī,k u r iː,,POLLEX,1213,false
 Mangareva-95_tofall-1,,Mangareva,95_tofall,topa,topa,t o p a,,POLLEX,312,false
@@ -2074,8 +2074,8 @@ Mangareva-5_towalk-1,,Mangareva,5_towalk,'ere,'ere,ʔ e r e,,POLLEX,1109,false
 Mangareva-4_legfoot-1,,Mangareva,4_legfoot,a'ape,a'ape,a ʔ a p e,,POLLEX,570,false
 Mangareva-2_left-1,,Mangareva,2_left,'ema,'ema,ʔ e m a,,POLLEX,196,false
 Mangareva-1_hand-1,,Mangareva,1_hand,rima,rima,r i m a,,POLLEX,36,false
-Luangiua-210_onethousand-1,,Luangiua,210_onethousand,simaka hokahi,simaka hokahi,s i m a k a _ h o k a h i,one thousand,POLLEX,571,false
-Luangiua-209_onehundred-1,,Luangiua,209_onehundred,hui kalau,hui kalau,h u i _ k a + l a u,one hundred,POLLEX,518,false
+Luangiua-210_onethousand-1,,Luangiua,210_onethousand,simaka hokahi,simaka hokahi,s i m a k a + h o k a h i,one thousand,POLLEX,571,false
+Luangiua-209_onehundred-1,,Luangiua,209_onehundred,hui kalau,hui kalau,h u i + k a + l a u,one hundred,POLLEX,518,false
 Luangiua-206_ten-1,,Luangiua,206_ten,saŋahulu,saŋahulu,s a ŋ a + h u l u,Ten.(Source: Pollex),POLLEX,946,false
 Luangiua-205_nine-1,,Luangiua,205_nine,sivo,sivo,s i v o,Nine.(Source: Pollex),POLLEX,945,false
 Luangiua-204_eight-1,,Luangiua,204_eight,valu,valu,v a l u,Pollex 06: Valu. :Eight.,POLLEX,663,false
@@ -2093,7 +2093,7 @@ Luangiua-193_if-1,,Luangiua,193_if,po/i,po,p o,"Pollex 06: Po/i. :If, as if.",PO
 Luangiua-192_and-1,,Luangiua,192_and,maa,maa,m aː,With (Smd),POLLEX,520,false
 Luangiua-191_all-1,,Luangiua,191_all,h/aakoa,aakoa,aː + k o a,All,POLLEX,293,false
 Luangiua-189_who-1,,Luangiua,189_who,ai,ai,a i,Who?,POLLEX,106,false
-Luangiua-188_what-1,,Luangiua,188_what,ke a,ke a,k e _ a,what?,POLLEX,104,false
+Luangiua-188_what-1,,Luangiua,188_what,ke a,ke a,k e + a,what?,POLLEX,104,false
 Luangiua-187_they-1,,Luangiua,187_they,lāua,lāua,l aː + u a,they (3du),POLLEX,1469,false
 Luangiua-187_they-2,,Luangiua,187_they,lākou,lākou,l aː + k o u,they (3pl),POLLEX,73,false
 Luangiua-186_you-1,,Luangiua,186_you,oolua,oolua,oː + l u a,Second person dual pronoun you (Tpe),POLLEX,1477,false
@@ -2107,14 +2107,14 @@ Luangiua-182_i-1,,Luangiua,182_i,aŋau,aŋau,a ŋ a u,I (Tpe),POLLEX,4,false
 Luangiua-181_where-1,,Luangiua,181_where,hea,hea,h e a,Where?,POLLEX,679,false
 Luangiua-180_far-1,,Luangiua,180_far,mao,mao,m a o,"Pollex 06: Mao. :Far off (Hbn); far, distant (Smd).",POLLEX,297,false
 Luangiua-179_near-1,,Luangiua,179_near,ŋei,ŋei,ŋ e i,"Pollex 06: 9ei. :Here, near speaker.",POLLEX,698,false
-Luangiua-177_this-1,,Luangiua,177_this,ke ŋei,ke ŋei,k e _ ŋ e i,this,POLLEX,1224,false
+Luangiua-177_this-1,,Luangiua,177_this,ke ŋei,ke ŋei,k e + ŋ e i,this,POLLEX,1224,false
 Luangiua-176_below-1,,Luangiua,176_below,lalo,lalo,l a l o,Below,POLLEX,1315,false
 Luangiua-175_above-1,,Luangiua,175_above,luŋa,luŋa,l u ŋ a,Above (Fts),POLLEX,1382,false
 Luangiua-174_ininside-1,,Luangiua,174_ininside,loko,loko,l o k o,Pollex 06: Loko. :Inside.,POLLEX,956,false
 Luangiua-173_at-1,,Luangiua,173_at,i,i,i,At,POLLEX,11,false
 Luangiua-172_toclimb-1,,Luangiua,172_toclimb,à'e,à'e,ʔ a ʔ e,Climb,POLLEX,707,false
 Luangiua-171_tohide-1,,Luangiua,171_tohide,muŋi,muŋi,m u ŋ i,Hidden,POLLEX,91,false
-Luangiua-170_when-1,,Luangiua,170_when,ke ao he,ke ao he,k e _ a o _ h e,when?,POLLEX,970,false
+Luangiua-170_when-1,,Luangiua,170_when,ke ao he,ke ao he,k e + a o + h e,when?,POLLEX,970,false
 Luangiua-169_year-1,,Luangiua,169_year,he/kau/,kau,k a u,Year,POLLEX,112,false
 Luangiua-168_day-1,,Luangiua,168_day,aho,aho,a h o,Pollex 06: Aho. :Day.,POLLEX,18,false
 Luangiua-167_night-1,,Luangiua,167_night,poo,poo,p oː,Pollex 06: Poo. :Night (Tpe).,POLLEX,54,false
@@ -2195,7 +2195,7 @@ Luangiua-91_tobuy-1,,Luangiua,91_tobuy,sui,sui,s u i,Buy,POLLEX,1327,false
 Luangiua-90_todig-1,,Luangiua,90_todig,'eli,'eli,ʔ e l i,Dig,POLLEX,85,false
 Luangiua-89_tohold-1,,Luangiua,89_tohold,kaohi,kaohi,k a o h i,hold,POLLEX,1019,false
 Luangiua-88_tosqueeze-1,,Luangiua,88_tosqueeze,lomi,lomi,l o m i,Squeeze down,POLLEX,152,false
-Luangiua-87_toswell-1,,Luangiua,87_toswell,ehula,ehula,e _ h u l a,swell,POLLEX,1239,false
+Luangiua-87_toswell-1,,Luangiua,87_toswell,ehula,ehula,e + h u l a,swell,POLLEX,1239,false
 Luangiua-86_togrow-1,,Luangiua,86_togrow,kipu,kipu,k i p u,Grow (Tpe),POLLEX,89,false
 Luangiua-86_togrow-2,,Luangiua,86_togrow,somo,somo,s o m o,Grow (Tpe),POLLEX,1231,false
 Luangiua-85_tochoose-1,,Luangiua,85_tochoose,hili,hili,h i l i,Choose,POLLEX,80,false
@@ -2283,17 +2283,17 @@ Luangiua-10_dirty-1,,Luangiua,10_dirty,sava,sava,s a v a,"Soiled, dirty",POLLEX,
 Luangiua-9_toswim-1,,Luangiua,9_toswim,àu(àu),àu,ʔ a u,Bathe,POLLEX,969,false
 Luangiua-8_toturn-1,,Luangiua,8_toturn,huli,huli,h u l i,turn,POLLEX,385,false
 Luangiua-8_toturn-2,,Luangiua,8_toturn,hakiʔe,hakiʔe,h a k i ʔ e,turn,POLLEX,589,false
-Luangiua-7_tocome-1,,Luangiua,7_tocome,hā mai,hā mai,h aː _ m a i,come,POLLEX,81,false
+Luangiua-7_tocome-1,,Luangiua,7_tocome,hā mai,hā mai,h aː + m a i,come,POLLEX,81,false
 Luangiua-6_roadpath-1,,Luangiua,6_roadpath,ala,ala,a l a,Road,POLLEX,61,false
 Luangiua-5_towalk-1,,Luangiua,5_towalk,haele,haele,h a e l e,Go,POLLEX,1109,false
 Luangiua-4_legfoot-1,,Luangiua,4_legfoot,vae,vae,v a e,Leg,POLLEX,44,false
 Luangiua-4_legfoot-2,,Luangiua,4_legfoot,kapuae,kapuae,k a p u a e,"Feet, shoe",POLLEX,816,false
 Luangiua-3_right-1,,Luangiua,3_right,lāua,lāua,l aː u a,right,POLLEX,590,false
-Luangiua-2_left-1,,Luangiua,2_left,kevahi selaua,kevahi selaua,k e v a h i _ s e l a u a,,POLLEX,591,false
+Luangiua-2_left-1,,Luangiua,2_left,kevahi selaua,kevahi selaua,k e v a h i + s e l a u a,,POLLEX,591,false
 Luangiua-1_hand-1,,Luangiua,1_hand,lima,lima,l i m a,Five; hand-arm,POLLEX,36,false
 TongatongaIslands-210_onethousand-1,,TongatongaIslands,210_onethousand,afe,afe,a f e,Thousand.(Source: Pollex),117207,665,false
 TongatongaIslands-209_onehundred-1,,TongatongaIslands,209_onehundred,-nge/au/,-nge,ŋ e,Hundreds.(Source: Pollex),117207,518,false
-TongatongaIslands-208_fifty-1,,TongatongaIslands,208_fifty,nimangofulu,nimangofulu,n i m a _ ŋ o + f u l u,,117207,1,false
+TongatongaIslands-208_fifty-1,,TongatongaIslands,208_fifty,nimangofulu,nimangofulu,n i m a + ŋ o + f u l u,,117207,1,false
 TongatongaIslands-207_twenty-1,,TongatongaIslands,207_twenty,tekau,tekau,t e k a u,"Twenty, score (Cwd).(Source: Pollex)",117207,805,false
 TongatongaIslands-206_ten-1,,TongatongaIslands,206_ten,hongofulu,hongofulu,h o ŋ o + f u l u,Ten.(Source: Pollex),117207,946,false
 TongatongaIslands-205_nine-1,,TongatongaIslands,205_nine,hiva,hiva,h i v a,Nine.(Source: Pollex),117207,945,false
@@ -2322,18 +2322,18 @@ TongatongaIslands-185_we-2,,TongatongaIslands,185_we,kitautolu,kitautolu,k i + t
 TongatongaIslands-184_heshe-1,,TongatongaIslands,184_heshe,ia,ia,i a,,117207,37,false
 TongatongaIslands-183_thou-1,,TongatongaIslands,183_thou,koe,koe,k o e,,117207,76,false
 TongatongaIslands-182_i-1,,TongatongaIslands,182_i,ou,ou,o u,,117207,4,false
-TongatongaIslands-181_where-1,,TongatongaIslands,181_where,ʔi fē,ʔi fē,ʔ i _ f eː,,117207,679,false
+TongatongaIslands-181_where-1,,TongatongaIslands,181_where,ʔi fē,ʔi fē,ʔ i + f eː,,117207,679,false
 TongatongaIslands-180_far-1,,TongatongaIslands,180_far,mamaʔo,mamaʔo,m a + m a ʔ o,,117207,297,false
 TongatongaIslands-179_near-1,,TongatongaIslands,179_near,ofi,ofi,o f i,,117207,893,false
-TongatongaIslands-178_that-1,,TongatongaIslands,178_that,ko ena,ko ena,k o _ e + n a,,117207,71,false
-TongatongaIslands-177_this-1,,TongatongaIslands,177_this,ko eni,ko eni,k o _ e + n i,,117207,75,false
-TongatongaIslands-176_below-1,,TongatongaIslands,176_below,ʔi lalo,ʔi lalo,ʔ i _ l a l o,,117207,1315,false
-TongatongaIslands-175_above-1,,TongatongaIslands,175_above,ʔi ʔoluŋa,ʔi ʔoluŋa,ʔ i _ ʔ o + l u ŋ a,,117207,1382,false
-TongatongaIslands-174_ininside-1,,TongatongaIslands,174_ininside,ʔi loto,ʔi loto,ʔ i _ l o t o,,117207,956,false
+TongatongaIslands-178_that-1,,TongatongaIslands,178_that,ko ena,ko ena,k o + e + n a,,117207,71,false
+TongatongaIslands-177_this-1,,TongatongaIslands,177_this,ko eni,ko eni,k o + e + n i,,117207,75,false
+TongatongaIslands-176_below-1,,TongatongaIslands,176_below,ʔi lalo,ʔi lalo,ʔ i + l a l o,,117207,1315,false
+TongatongaIslands-175_above-1,,TongatongaIslands,175_above,ʔi ʔoluŋa,ʔi ʔoluŋa,ʔ i + ʔ o + l u ŋ a,,117207,1382,false
+TongatongaIslands-174_ininside-1,,TongatongaIslands,174_ininside,ʔi loto,ʔi loto,ʔ i + l o t o,,117207,956,false
 TongatongaIslands-173_at-1,,TongatongaIslands,173_at,ʔi,ʔi,ʔ i,,117207,563,false
 TongatongaIslands-172_toclimb-1,,TongatongaIslands,172_toclimb,kaka,kaka,k a k a,,117207,707,false
 TongatongaIslands-171_tohide-1,,TongatongaIslands,171_tohide,toi,toi,t o i,,117207,592,false
-TongatongaIslands-170_when-1,,TongatongaIslands,170_when,ʔane fē,ʔane fē,ʔ a n e _ f eː,,117207,970,false
+TongatongaIslands-170_when-1,,TongatongaIslands,170_when,ʔane fē,ʔane fē,ʔ a n e + f eː,,117207,970,false
 TongatongaIslands-169_year-1,,TongatongaIslands,169_year,taʔu,taʔu,t a ʔ u,,117207,112,false
 TongatongaIslands-168_day-1,,TongatongaIslands,168_day,ʔaho,ʔaho,ʔ a h o,,117207,18,false
 TongatongaIslands-167_night-1,,TongatongaIslands,167_night,pō,pō,p oː,,117207,54,false
@@ -2408,7 +2408,7 @@ TongatongaIslands-102_rat-1,,TongatongaIslands,102_rat,kumā,kumā,k u m aː,,11
 TongatongaIslands-101_tofly-1,,TongatongaIslands,101_tofly,puna,puna,p u n a,,117207,600,false
 TongatongaIslands-100_wing-1,,TongatongaIslands,100_wing,kapakau,kapakau,k a p a + k a u,,117207,109,false
 TongatongaIslands-99_feather-1,,TongatongaIslands,99_feather,fulufulu,fulufulu,f u l u + f u l u,,117207,28,false
-TongatongaIslands-98_egg-1,,TongatongaIslands,98_egg,foʔi manu,foʔi manu,f o ʔ i _ m a n u,,117207,950,false
+TongatongaIslands-98_egg-1,,TongatongaIslands,98_egg,foʔi manu,foʔi manu,f o ʔ i + m a n u,,117207,950,false
 TongatongaIslands-97_bird-1,,TongatongaIslands,97_bird,manu,manu,m a n u,,117207,14,false
 TongatongaIslands-96_dog-1,,TongatongaIslands,96_dog,kulī,kulī,k u l iː,,117207,1213,false
 TongatongaIslands-95_tofall-1,,TongatongaIslands,95_tofall,tō,tō,t oː,,117207,352,false
@@ -2439,7 +2439,7 @@ TongatongaIslands-72_tohit-1,,TongatongaIslands,72_tohit,tā,tā,t aː,,117207,1
 TongatongaIslands-71_tostabpierce-1,,TongatongaIslands,71_tostabpierce,tuiʔi,tuiʔi,t u i ʔ i,,117207,1001,false
 TongatongaIslands-71_tostabpierce-2,,TongatongaIslands,71_tostabpierce,hoka,hoka,h o k a,,117207,1185,false
 TongatongaIslands-70_toshoot-1,,TongatongaIslands,70_toshoot,fana,fana,f a n a,,117207,96,false
-TongatongaIslands-69_tohunt-1,,TongatongaIslands,69_tohunt,tuli manu,tuli manu,t u l i _ m a n u,,117207,1333,false
+TongatongaIslands-69_tohunt-1,,TongatongaIslands,69_tohunt,tuli manu,tuli manu,t u l i + m a n u,,117207,1333,false
 TongatongaIslands-68_needle-1,,TongatongaIslands,68_needle,hui-tuitui,hui-tuitui,h u i + t u i + t u i,,117207,1170,false
 TongatongaIslands-67_tosew-1,,TongatongaIslands,67_tosew,tuitui,tuitui,t u i + t u i,,117207,316,false
 TongatongaIslands-66_totieupfasten-1,,TongatongaIslands,66_totieupfasten,nonoʔo,nonoʔo,n o + n o ʔ o,,117207,384,false
@@ -2471,7 +2471,7 @@ TongatongaIslands-42_tosuck-1,,TongatongaIslands,42_tosuck,huhu,huhu,h u + h u,,
 TongatongaIslands-41_tobite-1,,TongatongaIslands,41_tobite,uʔu,uʔu,u ʔ u,,117207,1324,false
 TongatongaIslands-40_todrink-1,,TongatongaIslands,40_todrink,inu,inu,i n u,,117207,86,false
 TongatongaIslands-39_tocook-1,,TongatongaIslands,39_tocook,feitunu,feitunu,f e i + t u n u,,117207,1404,false
-TongatongaIslands-39_tocook-2,,TongatongaIslands,39_tocook,feimeʔakai,feimeʔakai,f e i _ m e ʔ a _ k a i,,117207,607,false
+TongatongaIslands-39_tocook-2,,TongatongaIslands,39_tocook,feimeʔakai,feimeʔakai,f e i + m e ʔ a + k a i,,117207,607,false
 TongatongaIslands-38_tochew-1,,TongatongaIslands,38_tochew,mama,mama,m a + m a,,117207,79,false
 TongatongaIslands-38_tochew-2,,TongatongaIslands,38_tochew,lamu,lamu,l a m u,,117207,1229,false
 TongatongaIslands-37_toeat-1,,TongatongaIslands,37_toeat,kai,kai,k a i,,117207,87,false
@@ -2505,7 +2505,7 @@ TongatongaIslands-10_dirty-1,,TongatongaIslands,10_dirty,ʔuli,ʔuli,ʔ u l i,,1
 TongatongaIslands-9_toswim-1,,TongatongaIslands,9_toswim,kakau,kakau,k a + k a u,,117207,969,false
 TongatongaIslands-8_toturn-1,,TongatongaIslands,8_toturn,liliu,liliu,l i + l i u,,117207,534,false
 TongatongaIslands-8_toturn-2,,TongatongaIslands,8_toturn,tāafeafe,tāafeafe,t aː + a f e + a f e,,117207,610,false
-TongatongaIslands-7_tocome-1,,TongatongaIslands,7_tocome,ō mai,ō mai,oː _ m a i,,117207,81,false
+TongatongaIslands-7_tocome-1,,TongatongaIslands,7_tocome,ō mai,ō mai,oː + m a i,,117207,81,false
 TongatongaIslands-7_tocome-2,,TongatongaIslands,7_tocome,haʔu,haʔu,h a ʔ u,,117207,881,false
 TongatongaIslands-6_roadpath-1,,TongatongaIslands,6_roadpath,hala,hala,h a l a,,117207,61,false
 TongatongaIslands-5_towalk-1,,TongatongaIslands,5_towalk,ʔalu,ʔalu,ʔ a l u,Cognate in Ponapean ?,117207,724,false
@@ -2519,7 +2519,7 @@ RakahangaManihiki-201_five-2,,RakahangaManihiki,201_five,lima,lima,l i m a,,Clar
 RakahangaManihiki-200_four-1,,RakahangaManihiki,200_four,faa,faa,f aː,,Clark-589-2008,3,false
 RakahangaManihiki-199_three-1,,RakahangaManihiki,199_three,toru,toru,t o r u,,Clark-589-2008,8,false
 RakahangaManihiki-198_two-1,,RakahangaManihiki,198_two,lua,lua,l u a,,Clark-589-2008,9,false
-RakahangaManihiki-197_one-1,,RakahangaManihiki,197_one,tetahi,tetahi,t e _ t a h i,,Clark-589-2008,335,false
+RakahangaManihiki-197_one-1,,RakahangaManihiki,197_one,tetahi,tetahi,t e + t a h i,,Clark-589-2008,335,false
 RakahangaManihiki-196_tocount-1,,RakahangaManihiki,196_tocount,tatauanga,tatauanga,t a + t a u + a ŋ a,counting,Clark-589-2008,1330,false
 RakahangaManihiki-196_tocount-2,,RakahangaManihiki,196_tocount,taale,taale,t aː l e,to count,Clark-589-2008,866,false
 RakahangaManihiki-195_nonot-1,,RakahangaManihiki,195_nonot,ekore,ekore,e + k o r e,,Clark-589-2008,198,false
@@ -2528,9 +2528,9 @@ RakahangaManihiki-193_if-1,,RakahangaManihiki,193_if,naringa,naringa,n a r i ŋ 
 RakahangaManihiki-192_and-1,,RakahangaManihiki,192_and,e,e,e,,Clark-589-2008,1313,false
 RakahangaManihiki-191_all-1,,RakahangaManihiki,191_all,kaatoatoa,kaatoatoa,k aː + t o a + t o a,,Clark-589-2008,293,false
 RakahangaManihiki-191_all-2,,RakahangaManihiki,191_all,pauroa,pauroa,p a u + r o a,,Clark-589-2008,1075,false
-RakahangaManihiki-190_other-1,,RakahangaManihiki,190_other,teetahi atu,teetahi atu,t eː + t a h i _ a t u,,Clark-589-2008,1221,false
+RakahangaManihiki-190_other-1,,RakahangaManihiki,190_other,teetahi atu,teetahi atu,t eː + t a h i + a t u,,Clark-589-2008,1221,false
 RakahangaManihiki-189_who-1,,RakahangaManihiki,189_who,koai,koai,k o + a i,,Clark-589-2008,106,false
-RakahangaManihiki-188_what-1,,RakahangaManihiki,188_what,e aha,e aha,e _ a h a,,Clark-589-2008,104,false
+RakahangaManihiki-188_what-1,,RakahangaManihiki,188_what,e aha,e aha,e + a h a,,Clark-589-2008,104,false
 RakahangaManihiki-187_they-1,,RakahangaManihiki,187_they,raaua,raaua,r aː + u a,(dual),Clark-589-2008,1469,false
 RakahangaManihiki-187_they-2,,RakahangaManihiki,187_they,raatou,raatou,r aː + t o u,(plural),Clark-589-2008,73,false
 RakahangaManihiki-186_you-1,,RakahangaManihiki,186_you,kootou,kootou,k oː + t o u,(plural),Clark-589-2008,407,false
@@ -2608,7 +2608,7 @@ RakahangaManihiki-132_fog-1,,RakahangaManihiki,132_fog,kohu,kohu,k o h u,,Clark-
 RakahangaManihiki-131_cloud-1,,RakahangaManihiki,131_cloud,kapua,kapua,k a p u + a,cloud,Clark-589-2008,239,false
 RakahangaManihiki-131_cloud-2,,RakahangaManihiki,131_cloud,kaikainga,kaikainga,k a i + k a i + ŋ a,cloud,Clark-589-2008,624,false
 RakahangaManihiki-131_cloud-3,,RakahangaManihiki,131_cloud,ao,ao,a o,cloud/day/world,Clark-589-2008,239,false
-RakahangaManihiki-130_star-1,,RakahangaManihiki,130_star,vairanga kaveinga,vairanga kaveinga,v a i r a ŋ a _ k a v e i ŋ a,navigation stars,Clark-589-2008,625,false
+RakahangaManihiki-130_star-1,,RakahangaManihiki,130_star,vairanga kaveinga,vairanga kaveinga,v a i r a ŋ a + k a v e i ŋ a,navigation stars,Clark-589-2008,625,false
 RakahangaManihiki-130_star-2,,RakahangaManihiki,130_star,feetuu,feetuu,f eː t uː,star,Clark-589-2008,68,false
 RakahangaManihiki-129_moon-1,,RakahangaManihiki,129_moon,marama,marama,m a r a m a,moon/lunar month,Clark-589-2008,1218,false
 RakahangaManihiki-128_sky-1,,RakahangaManihiki,128_sky,langi,langi,l a ŋ i,,Clark-589-2008,66,false
@@ -2621,7 +2621,7 @@ RakahangaManihiki-121_sand-1,,RakahangaManihiki,121_sand,one,one,o n e,,Clark-58
 RakahangaManihiki-120_stone-1,,RakahangaManihiki,120_stone,fatu,fatu,f a t u,stone,Clark-589-2008,70,false
 RakahangaManihiki-120_stone-2,,RakahangaManihiki,120_stone,toka,toka,t o k a,stone (?),Clark-589-2008,626,false
 RakahangaManihiki-120_stone-3,,RakahangaManihiki,120_stone,poohatu,poohatu,p oː + h a t u,stone,Clark-589-2008,70,false
-RakahangaManihiki-117_fruit-1,,RakahangaManihiki,117_fruit,hua raakau,hua raakau,h u a _ r aː k a u,,Clark-589-2008,33,false
+RakahangaManihiki-117_fruit-1,,RakahangaManihiki,117_fruit,hua raakau,hua raakau,h u a + r aː k a u,,Clark-589-2008,33,false
 RakahangaManihiki-116_flower-1,,RakahangaManihiki,116_flower,tiare,tiare,t i a r e,,Clark-589-2008,1215,false
 RakahangaManihiki-115_root-1,,RakahangaManihiki,115_root,aka,aka,a k a,,Clark-589-2008,525,false
 RakahangaManihiki-113_branch-1,,RakahangaManihiki,113_branch,tauru,tauru,t a u r u,small branch (?),Clark-589-2008,627,false
@@ -2661,7 +2661,7 @@ RakahangaManihiki-75_todiebedead-1,,RakahangaManihiki,75_todiebedead,hiti,hiti,h
 RakahangaManihiki-75_todiebedead-2,,RakahangaManihiki,75_todiebedead,mate,mate,m a t e,to die,Clark-589-2008,84,false
 RakahangaManihiki-74_tokill-1,,RakahangaManihiki,74_tokill,taa,taa,t aː,,Clark-589-2008,530,false
 RakahangaManihiki-74_tokill-2,,RakahangaManihiki,74_tokill,patu,patu,p a t u,to kill,Clark-589-2008,1409,false
-RakahangaManihiki-74_tokill-3,,RakahangaManihiki,74_tokill,pehi ki te toka,pehi ki te toka,p e h i _ k i _ t e _ t o k a,killed with stones,Clark-589-2008,1348,false
+RakahangaManihiki-74_tokill-3,,RakahangaManihiki,74_tokill,pehi ki te toka,pehi ki te toka,p e h i + k i + t e + t o k a,killed with stones,Clark-589-2008,1348,false
 RakahangaManihiki-73_tosteal-1,,RakahangaManihiki,73_tosteal,kaiaa,kaiaa,k a i aː,,Clark-589-2008,1237,false
 RakahangaManihiki-72_tohit-1,,RakahangaManihiki,72_tohit,patu,patu,p a t u,"to hit, kill",Clark-589-2008,1232,false
 RakahangaManihiki-72_tohit-2,,RakahangaManihiki,72_tohit,uu,uu,uː,"to hit, collide, bump into'",Clark-589-2008,206,false
@@ -2690,7 +2690,7 @@ RakahangaManihiki-62_thatchroof-2,,RakahangaManihiki,62_thatchroof,ato,ato,a t o
 RakahangaManihiki-61_house-1,,RakahangaManihiki,61_house,fare,fare,f a r e,,Clark-589-2008,342,false
 RakahangaManihiki-60_father-1,,RakahangaManihiki,60_father,paapaa,paapaa,p aː p aː,borrowing?-MW,Clark-589-2008,952,true
 RakahangaManihiki-60_father-2,,RakahangaManihiki,60_father,maatua (tangata),maatua,m aː t u a,,Clark-589-2008,27,false
-RakahangaManihiki-59_mother-1,,RakahangaManihiki,59_mother,matua vahine,matua vahine,m a t u a _ v a h i n e,,Clark-589-2008,809,false
+RakahangaManihiki-59_mother-1,,RakahangaManihiki,59_mother,matua vahine,matua vahine,m a t u a + v a h i n e,,Clark-589-2008,809,false
 RakahangaManihiki-59_mother-2,,RakahangaManihiki,59_mother,maamaa,maamaa,m aː m aː,borrowing?-MW,Clark-589-2008,957,true
 RakahangaManihiki-58_wife-1,,RakahangaManihiki,58_wife,vahine,vahine,v a + h i n e,,Clark-589-2008,971,false
 RakahangaManihiki-57_husband-1,,RakahangaManihiki,57_husband,tokotua,tokotua,t o k o + t u a,,Clark-589-2008,1297,false
@@ -2709,7 +2709,7 @@ RakahangaManihiki-49_toliedown-1,,RakahangaManihiki,49_toliedown,takato,takato,t
 RakahangaManihiki-49_toliedown-2,,RakahangaManihiki,49_toliedown,roharoha,roharoha,r o h a + r o h a,lie spread out,Clark-589-2008,1347,false
 RakahangaManihiki-48_tosleep-1,,RakahangaManihiki,48_tosleep,moe,moe,m o e,,Clark-589-2008,150,false
 RakahangaManihiki-47_toyawn-1,,RakahangaManihiki,47_toyawn,haamama,haamama,h aː + m a + m a,,Clark-589-2008,479,false
-RakahangaManihiki-46_tosee-1,,RakahangaManihiki,46_tosee,titi tiro,titi tiro,t i t i _ t i r o,to see,Clark-589-2008,513,false
+RakahangaManihiki-46_tosee-1,,RakahangaManihiki,46_tosee,titi tiro,titi tiro,t i t i + t i r o,to see,Clark-589-2008,513,false
 RakahangaManihiki-45_eye-1,,RakahangaManihiki,45_eye,kanohi,kanohi,k a n o h i,eye,Clark-589-2008,808,false
 RakahangaManihiki-45_eye-2,,RakahangaManihiki,45_eye,mata,mata,m a t a,eye/drill point/spear point,Clark-589-2008,24,false
 RakahangaManihiki-44_tohear-1,,RakahangaManihiki,44_tohear,langona,langona,l a ŋ o + n a,,Clark-589-2008,90,false
@@ -2753,7 +2753,7 @@ RakahangaManihiki-18_breast-3,,RakahangaManihiki,18_breast,alo,alo,a l o,"""fron
 RakahangaManihiki-17_liver-1,,RakahangaManihiki,17_liver,ate,ate,a t e,,Clark-589-2008,45,false
 RakahangaManihiki-16_intestines-1,,RakahangaManihiki,16_intestines,ngaakau,ngaakau,ŋ aː + k a u,,Clark-589-2008,244,false
 RakahangaManihiki-15_bone-1,,RakahangaManihiki,15_bone,ivi,ivi,i v i,,Clark-589-2008,987,false
-RakahangaManihiki-14_belly-1,,RakahangaManihiki,14_belly,manava nui,manava nui,m a n a v a _ n u i,gluttonous,Clark-589-2008,1385,false
+RakahangaManihiki-14_belly-1,,RakahangaManihiki,14_belly,manava nui,manava nui,m a n a v a + n u i,gluttonous,Clark-589-2008,1385,false
 RakahangaManihiki-14_belly-2,,RakahangaManihiki,14_belly,koopuu,koopuu,k oː p uː,,Clark-589-2008,521,false
 RakahangaManihiki-13_back-1,,RakahangaManihiki,13_back,tua,tua,t u a,back,Clark-589-2008,188,false
 RakahangaManihiki-13_back-2,,RakahangaManihiki,13_back,muri,muri,m u r i,"back, behind [not certain that this is 'back' as in bodypart -MW]",Clark-589-2008,667,false
@@ -2762,16 +2762,16 @@ RakahangaManihiki-11_dust-1,,RakahangaManihiki,11_dust,puehu,puehu,p u + e h u,,
 RakahangaManihiki-10_dirty-1,,RakahangaManihiki,10_dirty,lepo,lepo,l e p o,to defecate (arch),Clark-589-2008,1388,false
 RakahangaManihiki-10_dirty-2,,RakahangaManihiki,10_dirty,parapara,parapara,p a r a + p a r a,,Clark-589-2008,1212,false
 RakahangaManihiki-9_toswim-1,,RakahangaManihiki,9_toswim,kaukau,kaukau,k a u + k a u,swim,Clark-589-2008,969,false
-RakahangaManihiki-9_toswim-2,,RakahangaManihiki,9_toswim,hopu vai,hopu vai,h o p u _ v a i,bathe,Clark-589-2008,1369,false
+RakahangaManihiki-9_toswim-2,,RakahangaManihiki,9_toswim,hopu vai,hopu vai,h o p u + v a i,bathe,Clark-589-2008,1369,false
 RakahangaManihiki-8_toturn-1,,RakahangaManihiki,8_toturn,(faka)ue,ue,u e,to turn to the side,Clark-589-2008,638,false
 RakahangaManihiki-8_toturn-2,,RakahangaManihiki,8_toturn,fakaninihi,fakaninihi,f a k a + n i + n i h i,"to turn from side to side, not go straight (of canoe)",Clark-589-2008,616,false
 RakahangaManihiki-8_toturn-3,,RakahangaManihiki,8_toturn,(pa)pale,pale,p a l e,"to turn, divert (e.g. of canoe)",Clark-589-2008,214,false
 RakahangaManihiki-8_toturn-4,,RakahangaManihiki,8_toturn,huri,huri,h u r i,"to turn (aside), turn around",Clark-589-2008,385,false
-RakahangaManihiki-7_tocome-1,,RakahangaManihiki,7_tocome,nau mai,nau mai,n a u _ m a i,[honorific],Clark-589-2008,81,false
-RakahangaManihiki-7_tocome-2,,RakahangaManihiki,7_tocome,tau mai,tau mai,t a u _ m a i,,Clark-589-2008,81,false
-RakahangaManihiki-7_tocome-3,,RakahangaManihiki,7_tocome,hano mai,hano mai,h a n o _ m a i,,Clark-589-2008,81,false
-RakahangaManihiki-7_tocome-4,,RakahangaManihiki,7_tocome,romai,romai,r o _ m a i,,Clark-589-2008,81,false
-RakahangaManihiki-7_tocome-5,,RakahangaManihiki,7_tocome,haere mai,haere mai,h a e r e _ m a i,,Clark-589-2008,81,false
+RakahangaManihiki-7_tocome-1,,RakahangaManihiki,7_tocome,nau mai,nau mai,n a u + m a i,[honorific],Clark-589-2008,81,false
+RakahangaManihiki-7_tocome-2,,RakahangaManihiki,7_tocome,tau mai,tau mai,t a u + m a i,,Clark-589-2008,81,false
+RakahangaManihiki-7_tocome-3,,RakahangaManihiki,7_tocome,hano mai,hano mai,h a n o + m a i,,Clark-589-2008,81,false
+RakahangaManihiki-7_tocome-4,,RakahangaManihiki,7_tocome,romai,romai,r o + m a i,,Clark-589-2008,81,false
+RakahangaManihiki-7_tocome-5,,RakahangaManihiki,7_tocome,haere mai,haere mai,h a e r e + m a i,,Clark-589-2008,81,false
 RakahangaManihiki-7_tocome-6,,RakahangaManihiki,7_tocome,aro,aro,a r o,,Clark-589-2008,1329,false
 RakahangaManihiki-6_roadpath-1,,RakahangaManihiki,6_roadpath,ara,ara,a r a,,Clark-589-2008,61,false
 RakahangaManihiki-6_roadpath-2,,RakahangaManihiki,6_roadpath,puruumu,puruumu,p u r uː m u,,Clark-589-2008,670,false
@@ -2819,12 +2819,12 @@ Tikopia-179_near-1,,Tikopia,179_near,piri,piri,p i r i,"Pollex 06: Piri. :Near, 
 Tikopia-178_that-1,,Tikopia,178_that,na,na,n a,"Pollex 06: Na. :There, that (Fth).",POLLEX,71,false
 Tikopia-177_this-1,,Tikopia,177_this,nei,nei,n e i,"Pollex 06: Nei. :This, here (Fth).",POLLEX,75,false
 Tikopia-176_below-1,,Tikopia,176_below,raro,raro,r a r o,"Down, below; the sun goes down; softly, quietly (Fth)",POLLEX,1315,false
-Tikopia-175_above-1,,Tikopia,175_above,luga. ruga,luga. ruga,l u g a _ r u g a,Top,POLLEX,1382,false
+Tikopia-175_above-1,,Tikopia,175_above,luga. ruga,luga. ruga,l u g a + r u g a,Top,POLLEX,1382,false
 Tikopia-174_ininside-1,,Tikopia,174_ininside,roto,roto,r o t o,"Inside, lake",POLLEX,956,false
 Tikopia-173_at-1,,Tikopia,173_at,i,i,i,at,POLLEX,11,false
 Tikopia-172_toclimb-1,,Tikopia,172_toclimb,kake,kake,k a k e,"Climb, ascend, come up into (Fth)",POLLEX,707,false
 Tikopia-171_tohide-1,,Tikopia,171_tohide,funa,funa,f u n a,Pollex 06: Funa. :Hide.,POLLEX,91,false
-Tikopia-170_when-1,,Tikopia,170_when,afea,afea,a _ f e a,When? (Fth),POLLEX,970,false
+Tikopia-170_when-1,,Tikopia,170_when,afea,afea,a + f e a,When? (Fth),POLLEX,970,false
 Tikopia-169_year-1,,Tikopia,169_year,tau,tau,t a u,"Season, period",POLLEX,112,false
 Tikopia-168_day-1,,Tikopia,168_day,aso,aso,a s o,"Day, as time span (Fth)",POLLEX,18,false
 Tikopia-167_night-1,,Tikopia,167_night,poo,poo,p oː,Night,POLLEX,54,false
@@ -3058,12 +3058,12 @@ Sikaiana-182_i-1,,Sikaiana,182_i,n/au/,au,a u,"I, me B. [<]",POLLEX,4,true
 Sikaiana-181_where-1,,Sikaiana,181_where,hea,hea,h e a,Where?,POLLEX,679,false
 Sikaiana-180_far-1,,Sikaiana,180_far,mmao,mmao,m m a o,Far (Clk),POLLEX,297,false
 Sikaiana-179_near-1,,Sikaiana,179_near,taupili,taupili,t a u + p i l i,near,POLLEX,682,false
-Sikaiana-177_this-1,,Sikaiana,177_this,te nei,te nei,t e _ n e i,this,POLLEX,1224,false
+Sikaiana-177_this-1,,Sikaiana,177_this,te nei,te nei,t e + n e i,this,POLLEX,1224,false
 Sikaiana-176_below-1,,Sikaiana,176_below,lalo,lalo,l a l o,"Down, below (Fth)",POLLEX,1315,false
-Sikaiana-174_ininside-1,,Sikaiana,174_ininside,i loto,i loto,i _ l o t o,in,POLLEX,956,false
+Sikaiana-174_ininside-1,,Sikaiana,174_ininside,i loto,i loto,i + l o t o,in,POLLEX,956,false
 Sikaiana-173_at-1,,Sikaiana,173_at,i,i,i,At,POLLEX,11,false
 Sikaiana-172_toclimb-1,,Sikaiana,172_toclimb,kake,kake,k a k e,Climb,POLLEX,707,false
-Sikaiana-170_when-1,,Sikaiana,170_when,ite moko ahea,ite moko ahea,i t e _ m o k o _ a _ h e a,when?,POLLEX,970,false
+Sikaiana-170_when-1,,Sikaiana,170_when,ite moko ahea,ite moko ahea,i t e + m o k o + a + h e a,when?,POLLEX,970,false
 Sikaiana-169_year-1,,Sikaiana,169_year,tau,tau,t a u,Year,POLLEX,112,false
 Sikaiana-168_day-1,,Sikaiana,168_day,aso,aso,a s o,Day,POLLEX,18,false
 Sikaiana-167_night-1,,Sikaiana,167_night,poo,poo,p oː,Night,POLLEX,54,false
@@ -3231,7 +3231,7 @@ Sikaiana-10_dirty-1,,Sikaiana,10_dirty,sava,sava,s a v a,Filthy,POLLEX,1319,fals
 Sikaiana-10_dirty-2,,Sikaiana,10_dirty,pela,pela,p e l a,"Dirty, decayed (Sps)",POLLEX,1212,false
 Sikaiana-9_toswim-1,,Sikaiana,9_toswim,koukou,koukou,k o u + k o u,,POLLEX,969,false
 Sikaiana-8_toturn-1,,Sikaiana,8_toturn,tahuli,tahuli,t a + h u l i,turn,POLLEX,385,false
-Sikaiana-7_tocome-1,,Sikaiana,7_tocome,hale mai,hale mai,h a l e _ m a i,come,POLLEX,81,false
+Sikaiana-7_tocome-1,,Sikaiana,7_tocome,hale mai,hale mai,h a l e + m a i,come,POLLEX,81,false
 Sikaiana-6_roadpath-1,,Sikaiana,6_roadpath,ala,ala,a l a,Road,POLLEX,61,false
 Sikaiana-5_towalk-1,,Sikaiana,5_towalk,saele,saele,s a e l e,Go (Sps),POLLEX,1109,false
 Sikaiana-4_legfoot-1,,Sikaiana,4_legfoot,vae,vae,v a e,Leg,POLLEX,44,false
@@ -3283,14 +3283,14 @@ NorthMarquesan-174_ininside-1,,NorthMarquesan,174_ininside,'oto,'oto,ʔ o t o,In
 NorthMarquesan-173_at-1,,NorthMarquesan,173_at,i,i,i,Preposition indicating location,POLLEX,11,false
 NorthMarquesan-172_toclimb-1,,NorthMarquesan,172_toclimb,hiti,hiti,h i t i,,POLLEX,1101,false
 NorthMarquesan-171_tohide-1,,NorthMarquesan,171_tohide,hakanaa,hakanaa,h a k a + n aː,,POLLEX,716,false
-NorthMarquesan-170_when-1,,NorthMarquesan,170_when,aahea,aahea,aː _ h e a,When (future interrogative),POLLEX,970,false
+NorthMarquesan-170_when-1,,NorthMarquesan,170_when,aahea,aahea,aː + h e a,When (future interrogative),POLLEX,970,false
 NorthMarquesan-169_year-1,,NorthMarquesan,169_year,hua'a,hua'a,h u a ʔ a,,POLLEX,650,false
 NorthMarquesan-169_year-2,,NorthMarquesan,169_year,tau,tau,t a u,Year consisting of ten moons,POLLEX,112,false
 NorthMarquesan-168_day-1,,NorthMarquesan,168_day,oatea,oatea,o a + t e a,daylight,POLLEX,633,false
 NorthMarquesan-168_day-2,,NorthMarquesan,168_day,ao,ao,a o,Jour oppose a nuit (Dln),POLLEX,18,false
 NorthMarquesan-167_night-1,,NorthMarquesan,167_night,poo,poo,p oː,"Nuit, tenebres, jour de vingt-quatre heures (Dln)",POLLEX,54,false
 NorthMarquesan-166_correcttrue-1,,NorthMarquesan,166_correcttrue,toitoi,toitoi,t o i + t o i,,POLLEX,835,false
-NorthMarquesan-166_correcttrue-2,,NorthMarquesan,166_correcttrue,mea hei,mea hei,m e a _ h e i,,POLLEX,717,false
+NorthMarquesan-166_correcttrue-2,,NorthMarquesan,166_correcttrue,mea hei,mea hei,m e a + h e i,,POLLEX,717,false
 NorthMarquesan-165_badevil-1,,NorthMarquesan,165_badevil,hauhau,hauhau,h a u + h a u,bad/evil,POLLEX,703,false
 NorthMarquesan-165_badevil-2,,NorthMarquesan,165_badevil,ìno,ìno,ʔ i n o,"Mechant, mauvais, chiche (Dln)",POLLEX,1384,false
 NorthMarquesan-164_good-1,,NorthMarquesan,164_good,kanahau,kanahau,k a n a + h a u,good,POLLEX,1124,false
@@ -3350,7 +3350,7 @@ NorthMarquesan-130_star-1,,NorthMarquesan,130_star,fettoe,fettoe,f e t o e,Star,
 NorthMarquesan-129_moon-1,,NorthMarquesan,129_moon,me'ama,me'ama,m e ʔ a m a,,POLLEX,761,false
 NorthMarquesan-128_sky-1,,NorthMarquesan,128_sky,de ahgy,ʔaŋi,ʔ a ŋ i,Heaven or sky (Rbt),POLLEX,66,false
 NorthMarquesan-127_woodsforest-1,,NorthMarquesan,127_woodsforest,vao,vao,v a o,Forest (I),POLLEX,360,false
-NorthMarquesan-126_lake-1,,NorthMarquesan,126_lake,vai óto,vai óto,v a i _ ʔ o t o,,POLLEX,1091,false
+NorthMarquesan-126_lake-1,,NorthMarquesan,126_lake,vai óto,vai óto,v a i + ʔ o t o,,POLLEX,1091,false
 NorthMarquesan-125_salt-1,,NorthMarquesan,125_salt,pa'atai,pa'atai,p a ʔ a + t a i,(ripe saltwater?),POLLEX,540,false
 NorthMarquesan-125_salt-2,,NorthMarquesan,125_salt,puhinaú,puhinaú,p u h i + n a ʔ u,,POLLEX,725,false
 NorthMarquesan-125_salt-3,,NorthMarquesan,125_salt,kanatai,kanatai,k a n a + t a i,,POLLEX,540,false
@@ -3372,26 +3372,26 @@ NorthMarquesan-112_rotten-1,,NorthMarquesan,112_rotten,pee,pee,p eː,rotten (Tah
 NorthMarquesan-112_rotten-2,,NorthMarquesan,112_rotten,paà,paà,p a ʔ a,Ripe (I),POLLEX,305,false
 NorthMarquesan-111_fish-1,,NorthMarquesan,111_fish,ià,ià,i ʔ a,Fish (Mqs),POLLEX,30,false
 NorthMarquesan-110_spider-1,,NorthMarquesan,110_spider,puna/vèevèe/,vèevèe,v e ʔ e + v e ʔ e,,POLLEX,67,false
-NorthMarquesan-109_mosquito-1,,NorthMarquesan,109_mosquito,nono purutia,nono purutia,n o + n o _ p u r u t i a,"(German nono) the sand fly purportedly introducted by a freighter unloading ballast with sand (and eggs) from PGN (then a German colony? or just ""German"" because of its ferociousness?)",POLLEX,48,false
+NorthMarquesan-109_mosquito-1,,NorthMarquesan,109_mosquito,nono purutia,nono purutia,n o + n o + p u r u t i a,"(German nono) the sand fly purportedly introducted by a freighter unloading ballast with sand (and eggs) from PGN (then a German colony? or just ""German"" because of its ferociousness?)",POLLEX,48,false
 NorthMarquesan-108_louse-1,,NorthMarquesan,108_louse,'utu,'utu,ʔ u t u,Louse,POLLEX,46,false
-NorthMarquesan-108_louse-2,,NorthMarquesan,108_louse,kutu papa,kutu papa,k u t u _ p a p a,Crab lice,POLLEX,46,false
+NorthMarquesan-108_louse-2,,NorthMarquesan,108_louse,kutu papa,kutu papa,k u t u + p a p a,Crab lice,POLLEX,46,false
 NorthMarquesan-107_wormearthworm-1,,NorthMarquesan,107_wormearthworm,toke,toke,t o k e,Worm,POLLEX,1244,false
-NorthMarquesan-106_snake-1,,NorthMarquesan,106_snake,puhi henua,puhi henua,p u h i _ h e n u a,'land eel'-MW,POLLEX,726,false
+NorthMarquesan-106_snake-1,,NorthMarquesan,106_snake,puhi henua,puhi henua,p u h i + h e n u a,'land eel'-MW,POLLEX,726,false
 NorthMarquesan-105_tail-1,,NorthMarquesan,105_tail,vèo,vèo,v e ʔ o,Queue d'un animal (Dln),POLLEX,137,false
 NorthMarquesan-105_tail-2,,NorthMarquesan,105_tail,hiku,hiku,h i k u,"Tail, rear portion (of fish)",POLLEX,309,false
 NorthMarquesan-104_fatgrease-1,,NorthMarquesan,104_fatgrease,kerehi,kerehi,k e r e h i,(Eng?),POLLEX,727,true
-NorthMarquesan-104_fatgrease-2,,NorthMarquesan,104_fatgrease,hinu àma,hinu àma,h i n u _ ʔ a m a,Huile noiratre qui decoule de lama (Dln),POLLEX,242,false
+NorthMarquesan-104_fatgrease-2,,NorthMarquesan,104_fatgrease,hinu àma,hinu àma,h i n u + ʔ a m a,Huile noiratre qui decoule de lama (Dln),POLLEX,242,false
 NorthMarquesan-103_meatflesh-1,,NorthMarquesan,103_meatflesh,kiko,kiko,k i k o,Flesh,POLLEX,126,false
 NorthMarquesan-102_rat-1,,NorthMarquesan,102_rat,kumakuma,kumakuma,k u m a + k u m a,Rat (Dln),POLLEX,303,false
 NorthMarquesan-102_rat-2,,NorthMarquesan,102_rat,kio'e,kio'e,k i o ʔ e,Rat,POLLEX,250,false
 NorthMarquesan-101_tofly-1,,NorthMarquesan,101_tofly,ona,ona,o n a,insect?,POLLEX,728,false
 NorthMarquesan-100_wing-1,,NorthMarquesan,100_wing,pekeu,pekeu,p e + k e u,,POLLEX,109,false
-NorthMarquesan-99_feather-1,,NorthMarquesan,99_feather,huú manu,huú manu,h u ʔ u _ m a n u,,POLLEX,28,false
+NorthMarquesan-99_feather-1,,NorthMarquesan,99_feather,huú manu,huú manu,h u ʔ u + m a n u,,POLLEX,28,false
 NorthMarquesan-98_egg-1,,NorthMarquesan,98_egg,mama'i,mama'i,m a m a ʔ i,,POLLEX,1088,false
 NorthMarquesan-97_bird-1,,NorthMarquesan,97_bird,manu,manu,m a n u,Bird,POLLEX,14,false
 NorthMarquesan-96_dog-1,,NorthMarquesan,96_dog,nuhe,nuhe,n u h e,"Southern MRQ, problematic?",POLLEX,729,false
 NorthMarquesan-96_dog-2,,NorthMarquesan,96_dog,ku'i,ku'i,k u ʔ i,Probable arch. form - as dogs were lost in the Marquesas by the time the Europeans arrived.,POLLEX,1213,false
-NorthMarquesan-95_tofall-1,,NorthMarquesan,95_tofall,huu te henua,huu te henua,h uː _ t e _ h e n u a,to fall in the sense of an avalanche or rock slide,POLLEX,730,false
+NorthMarquesan-95_tofall-1,,NorthMarquesan,95_tofall,huu te henua,huu te henua,h uː + t e + h e n u a,to fall in the sense of an avalanche or rock slide,POLLEX,730,false
 NorthMarquesan-95_tofall-2,,NorthMarquesan,95_tofall,vi'i,vi'i,v i ʔ i,"to fall (in the sense of becoming unbalanced, slipping)",POLLEX,1365,false
 NorthMarquesan-95_tofall-3,,NorthMarquesan,95_tofall,topa,topa,t o p a,,POLLEX,312,false
 NorthMarquesan-95_tofall-4,,NorthMarquesan,95_tofall,hina,hina,h i n a,,POLLEX,882,false
@@ -3431,7 +3431,7 @@ NorthMarquesan-74_tokill-1,,NorthMarquesan,74_tokill,pehi,pehi,p e h i,,POLLEX,1
 NorthMarquesan-74_tokill-2,,NorthMarquesan,74_tokill,kukumi,kukumi,k u + k u m i,,POLLEX,649,false
 NorthMarquesan-74_tokill-3,,NorthMarquesan,74_tokill,haámate,haámate,h a ʔ a + m a t e,,POLLEX,530,false
 NorthMarquesan-73_tosteal-1,,NorthMarquesan,73_tosteal,kamo,kamo,k a m o,"Voler, voleur (Dln)",POLLEX,1107,false
-NorthMarquesan-73_tosteal-2,,NorthMarquesan,73_tosteal,kai hue,kai hue,k a i _ h u e,(Mot etranger) voleur (Dln),POLLEX,967,false
+NorthMarquesan-73_tosteal-2,,NorthMarquesan,73_tosteal,kai hue,kai hue,k a i + h u e,(Mot etranger) voleur (Dln),POLLEX,967,false
 NorthMarquesan-72_tohit-1,,NorthMarquesan,72_tohit,ta,ta,t a,"""to strike"" (perhaps taa)",POLLEX,146,false
 NorthMarquesan-72_tohit-2,,NorthMarquesan,72_tohit,pehi,pehi,p e h i,hit generally,POLLEX,734,false
 NorthMarquesan-72_tohit-3,,NorthMarquesan,72_tohit,tuì,tuì,t u ʔ i,"Battre, ecrasser, piler (Dln)",POLLEX,1332,false
@@ -3461,7 +3461,7 @@ NorthMarquesan-55_womanfemale-2,,NorthMarquesan,55_womanfemale,vehine,vehine,v e
 NorthMarquesan-54_manmale-1,,NorthMarquesan,54_manmale,toa,toa,t o a,male (of animals),POLLEX,1465,false
 NorthMarquesan-54_manmale-2,,NorthMarquesan,54_manmale,heko,heko,h e k o,male,POLLEX,451,false
 NorthMarquesan-54_manmale-3,,NorthMarquesan,54_manmale,tane,tane,t a n e,Fortement (Dln),POLLEX,47,false
-NorthMarquesan-54_manmale-4,,NorthMarquesan,54_manmale,tama 'oa,tama 'oa,t a m a _ ʔ o a,male child,POLLEX,125,false
+NorthMarquesan-54_manmale-4,,NorthMarquesan,54_manmale,tama 'oa,tama 'oa,t a m a + ʔ o a,male child,POLLEX,125,false
 NorthMarquesan-53_personhumanbeing-1,,NorthMarquesan,53_personhumanbeing,kenana,kenana,k e n a n a,"Homme, en general (Dln)",POLLEX,58,false
 NorthMarquesan-53_personhumanbeing-2,,NorthMarquesan,53_personhumanbeing,'enata,'enata,ʔ e n a t a,"Homme, en general (Dln)",POLLEX,58,false
 NorthMarquesan-52_tostand-1,,NorthMarquesan,52_tostand,tuu,tuu,t uː,"Etre debout, se tenir debout, droit (Dln)",POLLEX,533,false
@@ -3504,7 +3504,7 @@ NorthMarquesan-22_tofear-1,,NorthMarquesan,22_tofear,ha'ameta'u,ha'ameta'u,h a �
 NorthMarquesan-21_tothink-1,,NorthMarquesan,21_tothink,maákau,maákau,m a ʔ a + k a u,,POLLEX,1240,false
 NorthMarquesan-20_toknowbeknowledgeable-1,,NorthMarquesan,20_toknowbeknowledgeable,hani,hani,h a n i,"Accoutume, habituee, fait a, avour l'habitude de, etre accoutume (Dln)",POLLEX,741,false
 NorthMarquesan-19_shoulder-1,,NorthMarquesan,19_shoulder,paufifi,paufifi,p a u + f i + f i,,POLLEX,1323,false
-NorthMarquesan-18_breast-1,,NorthMarquesan,18_breast,ki'i nene,ki'i nene,k i ʔ i _ n e n e,,POLLEX,742,false
+NorthMarquesan-18_breast-1,,NorthMarquesan,18_breast,ki'i nene,ki'i nene,k i ʔ i + n e n e,,POLLEX,742,false
 NorthMarquesan-18_breast-2,,NorthMarquesan,18_breast,u,u,u,"Sein, mamelle, gorge (Dln)",POLLEX,16,false
 NorthMarquesan-17_liver-1,,NorthMarquesan,17_liver,ate,ate,a t e,Foie (Dln),POLLEX,45,false
 NorthMarquesan-16_intestines-1,,NorthMarquesan,16_intestines,koekoe,koekoe,k o e + k o e,,POLLEX,696,false
@@ -3517,19 +3517,19 @@ NorthMarquesan-10_dirty-1,,NorthMarquesan,10_dirty,hava,hava,h a v a,"Souille, s
 NorthMarquesan-10_dirty-2,,NorthMarquesan,10_dirty,paàpaà,paàpaà,p a ʔ a + p a ʔ a,"Tres mur, gate, pourri (Dln)",POLLEX,1212,false
 NorthMarquesan-9_toswim-1,,NorthMarquesan,9_toswim,kau,kau,k a u,"Nager, aller a la nage (Dln)",POLLEX,969,false
 NorthMarquesan-8_toturn-1,,NorthMarquesan,8_toturn,kavií,kavií,k a + v i ʔ i,,POLLEX,1424,false
-NorthMarquesan-7_tocome-1,,NorthMarquesan,7_tocome,he'e  mai,he'e  mai,h e ʔ e _ m a i,,POLLEX,81,false
+NorthMarquesan-7_tocome-1,,NorthMarquesan,7_tocome,he'e  mai,he'e  mai,h e ʔ e + m a i,,POLLEX,81,false
 NorthMarquesan-7_tocome-2,,NorthMarquesan,7_tocome,tihe,tihe,t i h e,to arrive,POLLEX,743,false
 NorthMarquesan-6_roadpath-1,,NorthMarquesan,6_roadpath,vaà/nui,vaà,v a ʔ a,Road,POLLEX,575,false
 NorthMarquesan-5_towalk-1,,NorthMarquesan,5_towalk,hèe,hèe,h e ʔ e,Go (I),POLLEX,1109,false
 NorthMarquesan-4_legfoot-1,,NorthMarquesan,4_legfoot,vae,vae,v a e,Leg (I),POLLEX,44,false
-NorthMarquesan-3_right-1,,NorthMarquesan,3_right,'ima oko,'ima oko,ʔ i m a _ o k o,right hand,POLLEX,712,false
+NorthMarquesan-3_right-1,,NorthMarquesan,3_right,'ima oko,'ima oko,ʔ i m a + o k o,right hand,POLLEX,712,false
 NorthMarquesan-3_right-2,,NorthMarquesan,3_right,atamai,atamai,a t a + m a i,"Droit, a droit (Dln)",POLLEX,1222,false
-NorthMarquesan-2_left-1,,NorthMarquesan,2_left,'ima a'ea'e,'ima a'ea'e,ʔ i m a _ a ʔ e + a ʔ e,left hand,POLLEX,565,false
+NorthMarquesan-2_left-1,,NorthMarquesan,2_left,'ima a'ea'e,'ima a'ea'e,ʔ i m a + a ʔ e + a ʔ e,left hand,POLLEX,565,false
 NorthMarquesan-1_hand-1,,NorthMarquesan,1_hand,ìma,ìma,ʔ i m a,"Five, hand",POLLEX,36,false
 EastFutuna-210_onethousand-1,,EastFutuna,210_onethousand,afe,afe,a f e,Thousand (Bgs).(Source: Pollex),POLLEX,665,false
-EastFutuna-209_onehundred-1,,EastFutuna,209_onehundred,kaulelau,kaulelau,k a u _ l e + l a u,,POLLEX,518,false
+EastFutuna-209_onehundred-1,,EastFutuna,209_onehundred,kaulelau,kaulelau,k a u + l e + l a u,,POLLEX,518,false
 EastFutuna-208_fifty-1,,EastFutuna,208_fifty,kaulima,kaulima,k a u + l i m a,,POLLEX,292,false
-EastFutuna-207_twenty-1,,EastFutuna,207_twenty,kaulua,kaulua,k a u _ l u a,,POLLEX,947,false
+EastFutuna-207_twenty-1,,EastFutuna,207_twenty,kaulua,kaulua,k a u + l u a,,POLLEX,947,false
 EastFutuna-206_ten-1,,EastFutuna,206_ten,kau/agafulu/,agafulu,a ŋ a + f u l u,Ten.(Source: Pollex),POLLEX,946,false
 EastFutuna-205_nine-1,,EastFutuna,205_nine,iva,iva,i v a,Nine.(Source: Pollex),POLLEX,945,false
 EastFutuna-204_eight-1,,EastFutuna,204_eight,valu,valu,v a l u,,POLLEX,663,false
@@ -3576,7 +3576,7 @@ EastFutuna-173_at-2,,EastFutuna,173_at,i,i,i,,POLLEX,11,false
 EastFutuna-173_at-3,,EastFutuna,173_at,teì(teì),teì,t e ʔ i,"Sur le point de...presque, peu s'en faut,  peu peu s'en est fallu (Gzl) [<]",POLLEX,948,true
 EastFutuna-172_toclimb-1,,EastFutuna,172_toclimb,kake,kake,k a k e,"Monter, grimper (Gzl)",POLLEX,707,false
 EastFutuna-171_tohide-1,,EastFutuna,171_tohide,mu(muni),mu,m u,Se cacher,POLLEX,91,false
-EastFutuna-170_when-1,,EastFutuna,170_when,aafea,aafea,aː _ f e a,When? (future) (Bgs),POLLEX,970,false
+EastFutuna-170_when-1,,EastFutuna,170_when,aafea,aafea,aː + f e a,When? (future) (Bgs),POLLEX,970,false
 EastFutuna-169_year-1,,EastFutuna,169_year,ta'u,ta'u,t a ʔ u,Yam season,POLLEX,112,false
 EastFutuna-168_day-1,,EastFutuna,168_day,àso,àso,ʔ a s o,Day (period of time),POLLEX,18,false
 EastFutuna-167_night-1,,EastFutuna,167_night,poo'uli,poo'uli,p oː + ʔ u l i,"Night, be night B. [<]",POLLEX,54,true
@@ -3607,7 +3607,7 @@ EastFutuna-149_red-3,,EastFutuna,149_red,(soa)soata,soata,s o a t a,Red (Gzl) [<
 EastFutuna-148_white-1,,EastFutuna,148_white,tea,tea,t e a,"Blanc, blanche (Gzl)",POLLEX,1342,false
 EastFutuna-147_black-1,,EastFutuna,147_black,'uli,'uli,ʔ u l i,"Black, dark",POLLEX,1209,false
 EastFutuna-146_ashes-1,,EastFutuna,146_ashes,lafu,lafu,l a f u,Ashes B. (Bgs) [<],POLLEX,1183,true
-EastFutuna-146_ashes-2,,EastFutuna,146_ashes,mugālafu,mugālafu,m u _ ŋ aː + l a f u,,POLLEX,10,false
+EastFutuna-146_ashes-2,,EastFutuna,146_ashes,mugālafu,mugālafu,m u + ŋ aː + l a f u,,POLLEX,10,false
 EastFutuna-145_smoke-1,,EastFutuna,145_smoke,aau-sia,aau-sia,aː u + s i a,Enfume (Mfr) [<],POLLEX,527,true
 EastFutuna-144_toburn-1,,EastFutuna,144_toburn,susunu,susunu,s u + s u n u,,POLLEX,1099,false
 EastFutuna-143_fire-1,,EastFutuna,143_fire,afi,afi,a f i,Fire,POLLEX,29,false
@@ -3730,7 +3730,7 @@ EastFutuna-61_house-1,,EastFutuna,61_house,fale,fale,f a l e,House,POLLEX,342,fa
 EastFutuna-61_house-2,,EastFutuna,61_house,kaaiga,kaaiga,k aː i ŋ a,"Maison, habitation famille, parente",POLLEX,1089,false
 EastFutuna-60_father-1,,EastFutuna,60_father,tama/na,tama,t a m a,Father,POLLEX,27,false
 EastFutuna-59_mother-1,,EastFutuna,59_mother,tinana,tinana,t i n a n a,"Mother, dam",POLLEX,49,false
-EastFutuna-58_wife-1,,EastFutuna,58_wife,finematuà,finematuà,f i n e _ m a t u ʔ a,"wife (Bgs), (Rch)",POLLEX,971,false
+EastFutuna-58_wife-1,,EastFutuna,58_wife,finematuà,finematuà,f i n e + m a t u ʔ a,"wife (Bgs), (Rch)",POLLEX,971,false
 EastFutuna-57_husband-1,,EastFutuna,57_husband,àavaga,àavaga,ʔ a a v a ŋ a,"Spouse, marry (Bgs)",POLLEX,300,false
 EastFutuna-56_child-1,,EastFutuna,56_child,tamaliki,tamaliki,t a m a + l i k i,Petits enfants de deux sexes (Gzl),POLLEX,1086,false
 EastFutuna-56_child-2,,EastFutuna,56_child,tama,tama,t a m a,"Child, boy (Bgs)",POLLEX,1086,false
@@ -3771,7 +3771,7 @@ EastFutuna-29_tosniffsmell-1,,EastFutuna,29_tosniffsmell,sogi,sogi,s o ŋ i,Touc
 EastFutuna-28_tobreathe-1,,EastFutuna,28_tobreathe,ga'ega'esā,ga'ega'esā,ŋ a ʔ e + ŋ a ʔ e + s aː,out of breath,POLLEX,140,false
 EastFutuna-28_tobreathe-2,,EastFutuna,28_tobreathe,maanava,maanava,m aː n a v a,"Breath, breathe (Bgs)",POLLEX,78,false
 EastFutuna-27_nose-1,,EastFutuna,27_nose,isu,isu,i s u,Nose,POLLEX,55,false
-EastFutuna-26_hair-1,,EastFutuna,26_hair,lau ulu,lau ulu,l a u _ u l u,Cheveux de la tete (Gzl),POLLEX,815,false
+EastFutuna-26_hair-1,,EastFutuna,26_hair,lau ulu,lau ulu,l a u + u l u,Cheveux de la tete (Gzl),POLLEX,815,false
 EastFutuna-26_hair-2,,EastFutuna,26_hair,fulu,fulu,f u l u,"Hair, feather",POLLEX,695,false
 EastFutuna-25_neck-1,,EastFutuna,25_neck,'ua,'ua,ʔ u a,Neck (Bgs),POLLEX,458,false
 EastFutuna-24_head-1,,EastFutuna,24_head,'ulu,'ulu,ʔ u l u,Head,POLLEX,38,false
@@ -3807,14 +3807,14 @@ EastFutuna-3_right-1,,EastFutuna,3_right,'atamai,'atamai,ʔ a + t a + m a i,"Int
 EastFutuna-2_left-1,,EastFutuna,2_left,sema,sema,s e m a,Left (Hand),POLLEX,196,false
 EastFutuna-1_hand-1,,EastFutuna,1_hand,lima,lima,l i m a,"Five, hand",POLLEX,36,false
 Pukapuka-210_onethousand-1,,Pukapuka,210_onethousand,mano,mano,m a n o,Thousand (Bge).(Source: Pollex),Salisbury-152-2005,519,false
-Pukapuka-209_onehundred-1,,Pukapuka,209_onehundred,tino-we-lau,tino-we-lau,t i n o _ w e + l a u,100 people,Salisbury-152-2005,518,false
+Pukapuka-209_onehundred-1,,Pukapuka,209_onehundred,tino-we-lau,tino-we-lau,t i n o + w e + l a u,100 people,Salisbury-152-2005,518,false
 Pukapuka-209_onehundred-2,,Pukapuka,209_onehundred,ānele,ānele,aː n e l e,(Eng),Salisbury-152-2005,186,true
-Pukapuka-208_fifty-1,,Pukapuka,208_fifty,tinolima,tinolima,t i n o _ l i m a,50 people,Salisbury-152-2005,779,false
+Pukapuka-208_fifty-1,,Pukapuka,208_fifty,tinolima,tinolima,t i n o + l i m a,50 people,Salisbury-152-2005,779,false
 Pukapuka-208_fifty-2,,Pukapuka,208_fifty,laulima,laulima,l a u + l i m a,traditional,Salisbury-152-2005,292,false
-Pukapuka-208_fifty-3,,Pukapuka,208_fifty,limangaulu,limangaulu,l i m a _ ŋ a + u l u,(Raro.),Salisbury-152-2005,1,true
-Pukapuka-207_twenty-1,,Pukapuka,207_twenty,laulua,laulua,l a u _ l u a,traditional Puk.,Salisbury-152-2005,947,false
-Pukapuka-207_twenty-2,,Pukapuka,207_twenty,luangaulu,luangaulu,l u a _ ŋ a u l u,(Rarotongan),Salisbury-152-2005,666,true
-Pukapuka-207_twenty-3,,Pukapuka,207_twenty,tinolua,tinolua,t i n o _ l u a,20 people,Salisbury-152-2005,666,false
+Pukapuka-208_fifty-3,,Pukapuka,208_fifty,limangaulu,limangaulu,l i m a + ŋ a + u l u,(Raro.),Salisbury-152-2005,1,true
+Pukapuka-207_twenty-1,,Pukapuka,207_twenty,laulua,laulua,l a u + l u a,traditional Puk.,Salisbury-152-2005,947,false
+Pukapuka-207_twenty-2,,Pukapuka,207_twenty,luangaulu,luangaulu,l u a + ŋ a u l u,(Rarotongan),Salisbury-152-2005,666,true
+Pukapuka-207_twenty-3,,Pukapuka,207_twenty,tinolua,tinolua,t i n o + l u a,20 people,Salisbury-152-2005,666,false
 Pukapuka-206_ten-1,,Pukapuka,206_ten,laungaulu,laungaulu,l a u + ŋ a + u l u,,Salisbury-152-2005,946,false
 Pukapuka-205_nine-1,,Pukapuka,205_nine,iva,iva,i v a,Nine (Bge).(Source: Pollex),Salisbury-152-2005,945,false
 Pukapuka-204_eight-1,,Pukapuka,204_eight,valu,valu,v a l u,,Salisbury-152-2005,663,false
@@ -3847,8 +3847,8 @@ Pukapuka-187_they-1,,Pukapuka,187_they,lātou,lātou,l aː + t o u,,Salisbury-15
 Pukapuka-187_they-2,,Pukapuka,187_they,lāua,lāua,l aː + u a,,Salisbury-152-2005,1469,false
 Pukapuka-186_you-1,,Pukapuka,186_you,kōtou,kōtou,k oː + t o u,,Salisbury-152-2005,407,false
 Pukapuka-186_you-2,,Pukapuka,186_you,kōlua,kōlua,k oː + l u a,,Salisbury-152-2005,1477,false
-Pukapuka-185_we-1,,Pukapuka,185_we,a tāua,a tāua,a _ t aː + u a,,Salisbury-152-2005,103,false
-Pukapuka-185_we-2,,Pukapuka,185_we,a māua,a māua,a _ m aː + u a,,Salisbury-152-2005,537,false
+Pukapuka-185_we-1,,Pukapuka,185_we,a tāua,a tāua,a + t aː + u a,,Salisbury-152-2005,103,false
+Pukapuka-185_we-2,,Pukapuka,185_we,a māua,a māua,a + m aː + u a,,Salisbury-152-2005,537,false
 Pukapuka-185_we-3,,Pukapuka,185_we,mātou,mātou,m aː + t o u,,Salisbury-152-2005,537,false
 Pukapuka-185_we-4,,Pukapuka,185_we,tātou,tātou,t aː + t o u,,Salisbury-152-2005,103,false
 Pukapuka-184_heshe-1,,Pukapuka,184_heshe,-ona,-ona,o n a,-ona (after ko),Salisbury-152-2005,954,false
@@ -3857,7 +3857,7 @@ Pukapuka-183_thou-1,,Pukapuka,183_thou,-ou,-ou,o u,-ou after ko,Salisbury-152-20
 Pukapuka-183_thou-2,,Pukapuka,183_thou,koe,koe,k o e,koe,Salisbury-152-2005,76,false
 Pukapuka-182_i-1,,Pukapuka,182_i,aku,aku,a k u,(preverbal),Salisbury-152-2005,1460,false
 Pukapuka-182_i-2,,Pukapuka,182_i,au,au,a u,,Salisbury-152-2005,4,false
-Pukapuka-181_where-1,,Pukapuka,181_where,i wea,i wea,i _ w e a,,Salisbury-152-2005,679,false
+Pukapuka-181_where-1,,Pukapuka,181_where,i wea,i wea,i + w e a,,Salisbury-152-2005,679,false
 Pukapuka-180_far-1,,Pukapuka,180_far,mamao,mamao,m a + m a o,,Salisbury-152-2005,297,false
 Pukapuka-179_near-1,,Pukapuka,179_near,vātata,vātata,v aː + t a + t a,,Salisbury-152-2005,1393,false
 Pukapuka-179_near-2,,Pukapuka,179_near,pili,pili,p i l i,,Salisbury-152-2005,682,false
@@ -3869,7 +3869,7 @@ Pukapuka-176_below-1,,Pukapuka,176_below,lalo,lalo,l a l o,,Salisbury-152-2005,1
 Pukapuka-175_above-1,,Pukapuka,175_above,lunga,lunga,l u ŋ a,,Salisbury-152-2005,1382,false
 Pukapuka-174_ininside-1,,Pukapuka,174_ininside,loto,loto,l o t o,,Salisbury-152-2005,956,false
 Pukapuka-173_at-1,,Pukapuka,173_at,i,i,i,,Salisbury-152-2005,11,false
-Pukapuka-172_toclimb-1,,Pukapuka,172_toclimb,wiwiti ki lunga,wiwiti ki lunga,w i + w i t i _ k i _ l u ŋ a,,Salisbury-152-2005,1101,false
+Pukapuka-172_toclimb-1,,Pukapuka,172_toclimb,wiwiti ki lunga,wiwiti ki lunga,w i + w i t i + k i + l u ŋ a,,Salisbury-152-2005,1101,false
 Pukapuka-172_toclimb-2,,Pukapuka,172_toclimb,kake,kake,k a k e,,Salisbury-152-2005,707,false
 Pukapuka-171_tohide-1,,Pukapuka,171_tohide,nanā,nanā,n a n aː,,Salisbury-152-2005,428,false
 Pukapuka-170_when-1,,Pukapuka,170_when,wea,wea,w e a,,Salisbury-152-2005,970,false
@@ -4029,8 +4029,8 @@ Pukapuka-64_tosay-1,,Pukapuka,64_tosay,mea,mea,m e a,,Salisbury-152-2005,1367,fa
 Pukapuka-63_name-1,,Pukapuka,63_name,ingoa,ingoa,i ŋ o a,,Salisbury-152-2005,1096,false
 Pukapuka-62_thatchroof-1,,Pukapuka,62_thatchroof,ato,ato,a t o,,Salisbury-152-2005,72,false
 Pukapuka-61_house-1,,Pukapuka,61_house,wale,wale,w a l e,,Salisbury-152-2005,342,false
-Pukapuka-60_father-1,,Pukapuka,60_father,matua tāne,matua tāne,m a t u a _ t aː n e,,Salisbury-152-2005,27,false
-Pukapuka-59_mother-1,,Pukapuka,59_mother,matua wawine,matua wawine,m a t u a _ w a w i n e,,Salisbury-152-2005,809,false
+Pukapuka-60_father-1,,Pukapuka,60_father,matua tāne,matua tāne,m a t u a + t aː n e,,Salisbury-152-2005,27,false
+Pukapuka-59_mother-1,,Pukapuka,59_mother,matua wawine,matua wawine,m a t u a + w a w i n e,,Salisbury-152-2005,809,false
 Pukapuka-58_wife-1,,Pukapuka,58_wife,wawine,wawine,w a + w i n e,,Salisbury-152-2005,971,false
 Pukapuka-57_husband-1,,Pukapuka,57_husband,tāne,tāne,t aː n e,,Salisbury-152-2005,343,false
 Pukapuka-56_child-1,,Pukapuka,56_child,tamaliki,tamaliki,t a m a + l i k i,(pl),Salisbury-152-2005,1086,false
@@ -4044,7 +4044,7 @@ Pukapuka-52_tostand-1,,Pukapuka,52_tostand,wetū,wetū,w e t uː,(pl),Salisbury-
 Pukapuka-51_tosit-1,,Pukapuka,51_tosit,nōnō,nōnō,n oː + n oː,(pl),Salisbury-152-2005,404,false
 Pukapuka-50_todream-1,,Pukapuka,50_todream,moemiti,moemiti,m o e + m i t i,moemiti = (rar),Salisbury-152-2005,1230,false
 Pukapuka-50_todream-2,,Pukapuka,50_todream,miti,miti,m i t i,,Salisbury-152-2005,751,false
-Pukapuka-49_toliedown-1,,Pukapuka,49_toliedown,moe ki lalo,moe ki lalo,m o e _ k i _ l a l o,,Salisbury-152-2005,1105,false
+Pukapuka-49_toliedown-1,,Pukapuka,49_toliedown,moe ki lalo,moe ki lalo,m o e + k i + l a l o,,Salisbury-152-2005,1105,false
 Pukapuka-49_toliedown-2,,Pukapuka,49_toliedown,takoto,takoto,t a + k o t o,,Salisbury-152-2005,1235,false
 Pukapuka-48_tosleep-1,,Pukapuka,48_tosleep,lowi,lowi,l o w i,,Salisbury-152-2005,840,false
 Pukapuka-48_tosleep-2,,Pukapuka,48_tosleep,momoe,momoe,m o + m o e,pl,Salisbury-152-2005,150,false
@@ -4058,7 +4058,7 @@ Pukapuka-42_tosuck-2,,Pukapuka,42_tosuck,miti,miti,m i t i,,Salisbury-152-2005,1
 Pukapuka-41_tobite-1,,Pukapuka,41_tobite,kati,kati,k a t i,,Salisbury-152-2005,77,false
 Pukapuka-40_todrink-1,,Pukapuka,40_todrink,inu,inu,i n u,,Salisbury-152-2005,86,false
 Pukapuka-39_tocook-1,,Pukapuka,39_tocook,tao,tao,t a o,'cook in oven',Salisbury-152-2005,142,false
-Pukapuka-39_tocook-2,,Pukapuka,39_tocook,tunu pāni,tunu pāni,t u n u _ p aː n i,,Salisbury-152-2005,1404,false
+Pukapuka-39_tocook-2,,Pukapuka,39_tocook,tunu pāni,tunu pāni,t u n u + p aː n i,,Salisbury-152-2005,1404,false
 Pukapuka-38_tochew-1,,Pukapuka,38_tochew,ngaungau,ngaungau,ŋ a u + ŋ a u,,Salisbury-152-2005,1328,false
 Pukapuka-37_toeat-1,,Pukapuka,37_toeat,tamitami,tamitami,t a m i + t a m i,,Salisbury-152-2005,841,false
 Pukapuka-37_toeat-2,,Pukapuka,37_toeat,kaikai,kaikai,k a i + k a i,,Salisbury-152-2005,87,false
@@ -4100,7 +4100,7 @@ Pukapuka-13_back-1,,Pukapuka,13_back,muli,muli,m u l i,"back, rear [not certain 
 Pukapuka-13_back-2,,Pukapuka,13_back,tua,tua,t u a,,Salisbury-152-2005,188,false
 Pukapuka-12_skin-1,,Pukapuka,12_skin,kili,kili,k i l i,,Salisbury-152-2005,65,false
 Pukapuka-11_dust-1,,Pukapuka,11_dust,lewu,lewu,l e w u,,Salisbury-152-2005,21,false
-Pukapuka-10_dirty-1,,Pukapuka,10_dirty,palanui,palanui,p a l a _ n u i,,Salisbury-152-2005,1212,false
+Pukapuka-10_dirty-1,,Pukapuka,10_dirty,palanui,palanui,p a l a + n u i,,Salisbury-152-2005,1212,false
 Pukapuka-10_dirty-2,,Pukapuka,10_dirty,pakuongea,pakuongea,p a k u + o ŋ e a,,Salisbury-152-2005,759,false
 Pukapuka-10_dirty-3,,Pukapuka,10_dirty,lepo,lepo,l e p o,,Salisbury-152-2005,1388,false
 Pukapuka-9_toswim-1,,Pukapuka,9_toswim,tākele,tākele,t aː + k e l e,,Salisbury-152-2005,969,false
@@ -4109,7 +4109,7 @@ Pukapuka-8_toturn-2,,Pukapuka,8_toturn,pale,pale,p a l e,,Salisbury-152-2005,214
 Pukapuka-8_toturn-3,,Pukapuka,8_toturn,tipa,tipa,t i p a,,Salisbury-152-2005,236,false
 Pukapuka-8_toturn-4,,Pukapuka,8_toturn,niniwi,niniwi,n i + n i w i,,Salisbury-152-2005,616,false
 Pukapuka-8_toturn-5,,Pukapuka,8_toturn,wuli,wuli,w u l i,,Salisbury-152-2005,385,false
-Pukapuka-7_tocome-1,,Pukapuka,7_tocome,lolo mai,lolo mai,l o l o _ m a i,,Salisbury-152-2005,81,false
+Pukapuka-7_tocome-1,,Pukapuka,7_tocome,lolo mai,lolo mai,l o l o + m a i,,Salisbury-152-2005,81,false
 Pukapuka-7_tocome-2,,Pukapuka,7_tocome,yau,yau,j a u,(sg),Salisbury-152-2005,881,false
 Pukapuka-6_roadpath-1,,Pukapuka,6_roadpath,ngutuala,ngutuala,ŋ u t u + a l a,,Salisbury-152-2005,61,false
 Pukapuka-5_towalk-1,,Pukapuka,5_towalk,yāeleele,yāeleele,j aː e l eː + l e,"pl. - because there is a reduplication, macrons don't span morpheme boundaries",Salisbury-152-2005,1109,false
@@ -4120,13 +4120,13 @@ Pukapuka-1_hand-1,,Pukapuka,1_hand,lima,lima,l i m a,,Salisbury-152-2005,36,fals
 MeleFila-206_ten-1,,MeleFila,206_ten,siŋofuru,siŋofuru,s i ŋ o + f u r u,,52375,946,false
 MeleFila-205_nine-1,,MeleFila,205_nine,siwa,siwa,s i w a,,52375,945,false
 MeleFila-204_eight-1,,MeleFila,204_eight,eβaru,eβaru,β a r u,,52375,663,false
-MeleFila-203_seven-1,,MeleFila,203_seven,eβitu,eβitu,e _ β i t u,,52375,6,false
-MeleFila-202_six-1,,MeleFila,202_six,e-ono,e-ono,e _ o n o,,52375,7,false
-MeleFila-201_five-1,,MeleFila,201_five,e-rima,e-rima,e _ r i m a,,52375,2,false
-MeleFila-200_four-1,,MeleFila,200_four,e-fa,e-fa,e _ f a,,52375,3,false
-MeleFila-199_three-1,,MeleFila,199_three,e-toru,e-toru,e _ t o r u,,52375,8,false
+MeleFila-203_seven-1,,MeleFila,203_seven,eβitu,eβitu,e + β i t u,,52375,6,false
+MeleFila-202_six-1,,MeleFila,202_six,e-ono,e-ono,e + o n o,,52375,7,false
+MeleFila-201_five-1,,MeleFila,201_five,e-rima,e-rima,e + r i m a,,52375,2,false
+MeleFila-200_four-1,,MeleFila,200_four,e-fa,e-fa,e + f a,,52375,3,false
+MeleFila-199_three-1,,MeleFila,199_three,e-toru,e-toru,e + t o r u,,52375,8,false
 MeleFila-198_two-1,,MeleFila,198_two,rua,rua,r u a,,52375,9,false
-MeleFila-197_one-1,,MeleFila,197_one,etasi,etasi,e _ t a s i,,52375,335,false
+MeleFila-197_one-1,,MeleFila,197_one,etasi,etasi,e + t a s i,,52375,335,false
 MeleFila-196_tocount-1,,MeleFila,196_tocount,tao,tao,t a o,,52375,1330,false
 MeleFila-195_nonot-1,,MeleFila,195_nonot,sai,sai,s a i,,52375,129,false
 MeleFila-194_how-1,,MeleFila,194_how,efia,efia,e + f i a,,52375,194,false
@@ -4147,13 +4147,13 @@ MeleFila-185_we-4,,MeleFila,185_we,tatou,tatou,t a + t o u,pl. incl.,52375,103,f
 MeleFila-184_heshe-1,,MeleFila,184_heshe,eia,eia,e i a,,52375,37,false
 MeleFila-183_thou-1,,MeleFila,183_thou,akoe,akoe,a k o e,,52375,76,false
 MeleFila-182_i-1,,MeleFila,182_i,aβau,aβau,a β a u,,52375,4,false
-MeleFila-181_where-1,,MeleFila,181_where,ifia,ifia,i _ f i a,,52375,679,false
-MeleFila-180_far-1,,MeleFila,180_far,imao,imao,i _ m a o,,52375,297,false
+MeleFila-181_where-1,,MeleFila,181_where,ifia,ifia,i + f i a,,52375,679,false
+MeleFila-180_far-1,,MeleFila,180_far,imao,imao,i + m a o,,52375,297,false
 MeleFila-179_near-1,,MeleFila,179_near,etata,etata,e + t a + t a,,52375,1393,false
 MeleFila-178_that-1,,MeleFila,178_that,nera,nera,n e + r a,,52375,71,false
 MeleFila-177_this-1,,MeleFila,177_this,kenei,kenei,k e + n e i,,52375,1224,false
-MeleFila-174_ininside-1,,MeleFila,174_ininside,i roto,i roto,i _ r o t o,,52375,956,false
-MeleFila-170_when-1,,MeleFila,170_when,afia,afia,a _ f i a,,52375,849,false
+MeleFila-174_ininside-1,,MeleFila,174_ininside,i roto,i roto,i + r o t o,,52375,956,false
+MeleFila-170_when-1,,MeleFila,170_when,afia,afia,a + f i a,,52375,849,false
 MeleFila-169_year-1,,MeleFila,169_year,tau,tau,t a u,,52375,850,false
 MeleFila-168_day-1,,MeleFila,168_day,rea,rea,r e a,,52375,1307,false
 MeleFila-167_night-1,,MeleFila,167_night,po,po,p o,,52375,54,false
@@ -4189,7 +4189,7 @@ MeleFila-135_lightning-1,,MeleFila,135_lightning,wira,wira,w i r a,,52375,523,fa
 MeleFila-134_thunder-1,,MeleFila,134_thunder,pačiri,pačiri,p a + tʃ i r i,,52375,349,false
 MeleFila-133_rain-1,,MeleFila,133_rain,ua,ua,u a,,52375,59,false
 MeleFila-132_fog-1,,MeleFila,132_fog,mafu,mafu,m a f u,,52375,574,false
-MeleFila-131_cloud-1,,MeleFila,131_cloud,tae teraŋi,tae teraŋi,t a e _ t e _ r a ŋ i,,52375,744,false
+MeleFila-131_cloud-1,,MeleFila,131_cloud,tae teraŋi,tae teraŋi,t a e + t e + r a ŋ i,,52375,744,false
 MeleFila-130_star-1,,MeleFila,130_star,masoi,masoi,m a s o i,,52375,308,false
 MeleFila-129_moon-1,,MeleFila,129_moon,aŋa·le,aŋa·le,a ŋ a + l e,,52375,803,false
 MeleFila-128_sky-1,,MeleFila,128_sky,maloa,maloa,m a l o a,,52375,856,false
@@ -4212,7 +4212,7 @@ MeleFila-112_rotten-1,,MeleFila,112_rotten,popo,popo,p o + p o,,52375,347,false
 MeleFila-111_fish-1,,MeleFila,111_fish,ika,ika,i k a,,52375,30,false
 MeleFila-109_mosquito-1,,MeleFila,109_mosquito,namu,namu,n a m u,,52375,48,false
 MeleFila-108_louse-1,,MeleFila,108_louse,kutu,kutu,k u t u,,52375,46,false
-MeleFila-106_snake-1,,MeleFila,106_snake,ŋata sai,ŋata sai,ŋ a t a _ s a i,,52375,253,false
+MeleFila-106_snake-1,,MeleFila,106_snake,ŋata sai,ŋata sai,ŋ a t a + s a i,,52375,253,false
 MeleFila-105_tail-1,,MeleFila,105_tail,rapue,rapue,r a p u e,,52375,200,false
 MeleFila-104_fatgrease-1,,MeleFila,104_fatgrease,kanainai,kanainai,k a n a i + n a i,,52375,859,false
 MeleFila-103_meatflesh-1,,MeleFila,103_meatflesh,pakasi,pakasi,p a k a + s i,,52375,452,false
@@ -4238,7 +4238,7 @@ MeleFila-78_tocuthack-1,,MeleFila,78_tocuthack,teia,teia,t e i a,,52375,83,false
 MeleFila-77_toscratch-1,,MeleFila,77_toscratch,sakaroa,sakaroa,s a k a + r o a,,52375,1452,false
 MeleFila-76_tolivebealive-1,,MeleFila,76_tolivebealive,mouri,mouri,m o u r i,,52375,93,false
 MeleFila-75_todiebedead-1,,MeleFila,75_todiebedead,mate,mate,m a t e,,52375,84,false
-MeleFila-74_tokill-1,,MeleFila,74_tokill,teia-matia,teia-matia,t e i a _ m a t i + a,,52375,1334,false
+MeleFila-74_tokill-1,,MeleFila,74_tokill,teia-matia,teia-matia,t e i a + m a t i + a,,52375,1334,false
 MeleFila-72_tohit-1,,MeleFila,72_tohit,teia,teia,t e + i a,,52375,146,false
 MeleFila-71_tostabpierce-1,,MeleFila,71_tostabpierce,sukia,sukia,s u k i a,,52375,98,false
 MeleFila-69_tohunt-1,,MeleFila,69_tohunt,palako,palako,p a l a k o,,52375,871,false
@@ -4248,7 +4248,7 @@ MeleFila-65_rope-1,,MeleFila,65_rope,wawa,wawa,w a + w a,,52375,661,false
 MeleFila-65_rope-2,,MeleFila,65_rope,mea,mea,m e a,,52375,132,false
 MeleFila-64_tosay-1,,MeleFila,64_tosay,tokua,tokua,t o k u a,,52375,637,false
 MeleFila-63_name-1,,MeleFila,63_name,iŋoa,iŋoa,i ŋ o a,,52375,1096,false
-MeleFila-61_house-1,,MeleFila,61_house,te-fare,te-fare,t e _ f a r e,,52375,342,false
+MeleFila-61_house-1,,MeleFila,61_house,te-fare,te-fare,t e + f a r e,,52375,342,false
 MeleFila-60_father-1,,MeleFila,60_father,mamau,mamau,m a + m a u,Address term,52375,27,false
 MeleFila-59_mother-1,,MeleFila,59_mother,leita,leita,l e i t a,,52375,872,false
 MeleFila-58_wife-1,,MeleFila,58_wife,tefine,tefine,t e + f i n e,,52375,971,false
@@ -4299,7 +4299,7 @@ MeleFila-11_dust-1,,MeleFila,11_dust,motamota,motamota,m o t a + m o t a,,52375,
 MeleFila-10_dirty-1,,MeleFila,10_dirty,paku,paku,p a k u,black,52375,759,false
 MeleFila-9_toswim-1,,MeleFila,9_toswim,kaukau,kaukau,k a u + k a u,,52375,969,false
 MeleFila-8_toturn-1,,MeleFila,8_toturn,firiu,firiu,f i r i u,,52375,534,false
-MeleFila-7_tocome-1,,MeleFila,7_tocome,fenmai,fenmai,f e n _ m a i,,52375,81,false
+MeleFila-7_tocome-1,,MeleFila,7_tocome,fenmai,fenmai,f e n + m a i,,52375,81,false
 MeleFila-6_roadpath-1,,MeleFila,6_roadpath,ara,ara,a r a,,52375,61,false
 MeleFila-5_towalk-1,,MeleFila,5_towalk,saria,saria,s a r i + a,,52375,1207,false
 MeleFila-4_legfoot-1,,MeleFila,4_legfoot,βae,βae,β a e,,52375,44,false
@@ -4309,8 +4309,8 @@ MeleFila-1_hand-1,,MeleFila,1_hand,rima,rima,r i m a,,52375,36,false
 AustralA-210_onethousand-1,,AustralA,210_onethousand,mano,mano,m a n o,,Tamaititahio-1213-2015,519,false
 AustralA-210_onethousand-2,,AustralA,210_onethousand,tauatini,tauatini,t a u a t i n i,,Tamaititahio-1213-2015,187,true
 AustralA-209_onehundred-1,,AustralA,209_onehundred,Gau,Gau,ɢ a u,,Tamaititahio-1213-2015,518,false
-AustralA-208_fifty-1,,AustralA,208_fifty,pae ʔahuGu,pae ʔahuGu,p a e _ ʔ a + h u ɢ u,Likely a Tahitian borrowing,Tamaititahio-1213-2015,1380,true
-AustralA-207_twenty-1,,AustralA,207_twenty,piti ʔahuGu,piti ʔahuGu,p i t i _ ʔ a h u ɢ u,Likely a Tahitian borrowing,Tamaititahio-1213-2015,646,true
+AustralA-208_fifty-1,,AustralA,208_fifty,pae ʔahuGu,pae ʔahuGu,p a e + ʔ a + h u ɢ u,Likely a Tahitian borrowing,Tamaititahio-1213-2015,1380,true
+AustralA-207_twenty-1,,AustralA,207_twenty,piti ʔahuGu,piti ʔahuGu,p i t i + ʔ a h u ɢ u,Likely a Tahitian borrowing,Tamaititahio-1213-2015,646,true
 AustralA-206_ten-1,,AustralA,206_ten,ʔahuGu,ʔahuGu,ʔ a + h u ɢ u,Likely a Tahitian borrowing and hyper-nativization,Tamaititahio-1213-2015,946,true
 AustralA-205_nine-1,,AustralA,205_nine,iva,iva,i v a,,Tamaititahio-1213-2015,945,false
 AustralA-204_eight-1,,AustralA,204_eight,vaGu,vaGu,v a ɢ u,,Tamaititahio-1213-2015,663,false
@@ -4323,7 +4323,7 @@ AustralA-198_two-1,,AustralA,198_two,piti,piti,p i t i,Likely a Tahitian borrowi
 AustralA-197_one-1,,AustralA,197_one,hoʔe,hoʔe,h o ʔ e,Likely a Tahitian borrowing,Tamaititahio-1213-2015,373,true
 AustralA-196_tocount-1,,AustralA,196_tocount,taiʔo,taiʔo,t a i ʔ o,,Tamaititahio-1213-2015,1405,false
 AustralA-195_nonot-1,,AustralA,195_nonot,eʔere,eʔere,e + ʔ e r e,Tahitian borrowing,Tamaititahio-1213-2015,1429,true
-AustralA-194_how-1,,AustralA,194_how,nā hea,nā hea,n aː _ h e a,,Tamaititahio-1213-2015,194,false
+AustralA-194_how-1,,AustralA,194_how,nā hea,nā hea,n aː + h e a,,Tamaititahio-1213-2015,194,false
 AustralA-192_and-1,,AustralA,192_and,e,e,e,,Tamaititahio-1213-2015,1313,false
 AustralA-191_all-1,,AustralA,191_all,ʔatoʔa,ʔatoʔa,ʔ a + t o ʔ a,,Tamaititahio-1213-2015,293,false
 AustralA-189_who-1,,AustralA,189_who,vai,vai,v a i,possible loan from Tahitian,Tamaititahio-1213-2015,106,true
@@ -4347,7 +4347,7 @@ AustralA-174_ininside-1,,AustralA,174_ininside,Goto,Goto,ɢ o t o,,Tamaititahio-
 AustralA-173_at-1,,AustralA,173_at,i,i,i,,Tamaititahio-1213-2015,11,false
 AustralA-172_toclimb-1,,AustralA,172_toclimb,piʔi,piʔi,p i ʔ i,,Tamaititahio-1213-2015,1101,false
 AustralA-171_tohide-1,,AustralA,171_tohide,tāponiponi,tāponiponi,t aː + p o n i + p o n i,,Tamaititahio-1213-2015,91,false
-AustralA-170_when-1,,AustralA,170_when,ahea,ahea,a _ h e a,,Tamaititahio-1213-2015,970,false
+AustralA-170_when-1,,AustralA,170_when,ahea,ahea,a + h e a,,Tamaititahio-1213-2015,970,false
 AustralA-169_year-1,,AustralA,169_year,matahiti,matahiti,m a t a h i t i,,Tamaititahio-1213-2015,1245,false
 AustralA-168_day-1,,AustralA,168_day,mahana,mahana,m a + h a n a,Tahitian Loan,Tamaititahio-1213-2015,1318,true
 AustralA-167_night-1,,AustralA,167_night,pō,pō,p oː,,Tamaititahio-1213-2015,54,false
@@ -4371,8 +4371,8 @@ AustralA-150_yellow-1,,AustralA,150_yellow,GeʔaGeʔa,GeʔaGeʔa,ɢ e ʔ a + ɢ 
 AustralA-149_red-1,,AustralA,149_red,ʔuteʔute,ʔuteʔute,ʔ u t e + ʔ u t e,likely Tahitian borrowing,Tamaititahio-1213-2015,346,true
 AustralA-148_white-1,,AustralA,148_white,ʔuoʔuo,ʔuoʔuo,ʔ u o + ʔ u o,,Tamaititahio-1213-2015,884,false
 AustralA-147_black-1,,AustralA,147_black,ʔeGeʔeGe,ʔeGeʔeGe,ʔ e ɢ e + ʔ e ɢ e,,Tamaititahio-1213-2015,949,false
-AustralA-146_ashes-1,,AustralA,146_ashes,Gehu auahi,Gehu auahi,ɢ e h u _ a u + a h i,,Tamaititahio-1213-2015,1183,false
-AustralA-145_smoke-1,,AustralA,145_smoke,au auahi,au auahi,a u _ a u + a h i,,Tamaititahio-1213-2015,527,false
+AustralA-146_ashes-1,,AustralA,146_ashes,Gehu auahi,Gehu auahi,ɢ e h u + a u + a h i,,Tamaititahio-1213-2015,1183,false
+AustralA-145_smoke-1,,AustralA,145_smoke,au auahi,au auahi,a u + a u + a h i,,Tamaititahio-1213-2015,527,false
 AustralA-144_toburn-1,,AustralA,144_toburn,tutuʔi,tutuʔi,t u + t u ʔ i,,Tamaititahio-1213-2015,1227,false
 AustralA-143_fire-1,,AustralA,143_fire,auahi,auahi,a u + a h i,,Tamaititahio-1213-2015,29,false
 AustralA-142_heavy-1,,AustralA,142_heavy,toimaha,toimaha,t o i + m a h a,,Tamaititahio-1213-2015,911,false
@@ -4392,26 +4392,26 @@ AustralA-128_sky-1,,AustralA,128_sky,Gaʔi,Gaʔi,ɢ a ʔ i,,Tamaititahio-1213-20
 AustralA-125_salt-1,,AustralA,125_salt,ʔavaʔava,ʔavaʔava,ʔ a v a + ʔ a v a,this is more 'salty' or 'bitter' than 'salt (n.)',Tamaititahio-1213-2015,887,false
 AustralA-124_sea-1,,AustralA,124_sea,miti,miti,m i t i,,Tamaititahio-1213-2015,1467,false
 AustralA-123_toflow-1,,AustralA,123_toflow,tahe,tahe,t a h e,,Tamaititahio-1213-2015,145,false
-AustralA-122_water-1,,AustralA,122_water,pape māʔaGo,pape māʔaGo,p a p e _ m aː ʔ a ɢ o,Tahitian borrowing with hyper-nativization,Tamaititahio-1213-2015,919,true
+AustralA-122_water-1,,AustralA,122_water,pape māʔaGo,pape māʔaGo,p a p e + m aː ʔ a ɢ o,Tahitian borrowing with hyper-nativization,Tamaititahio-1213-2015,919,true
 AustralA-121_sand-1,,AustralA,121_sand,one,one,o n e,,Tamaititahio-1213-2015,62,false
 AustralA-120_stone-1,,AustralA,120_stone,ʔohai,ʔohai,ʔ o h a i,Tahitian borrowing with hyper-nativization,Tamaititahio-1213-2015,674,true
 AustralA-119_earthsoil-1,,AustralA,119_earthsoil,Gepo,Gepo,ɢ e p o,,Tamaititahio-1213-2015,192,false
 AustralA-116_flower-1,,AustralA,116_flower,tiaGe,tiaGe,t i a ɢ e,,Tamaititahio-1213-2015,1215,false
 AustralA-115_root-1,,AustralA,115_root,aʔa,aʔa,a ʔ a,,Tamaititahio-1213-2015,525,false
 AustralA-114_leaf-1,,AustralA,114_leaf,GaueGe,GaueGe,ɢ a u + e ɢ e,,Tamaititahio-1213-2015,42,false
-AustralA-113_branch-1,,AustralA,113_branch,ʔāmama Gāʔau,ʔāmama Gāʔau,ʔ aː m a m a _ ɢ aː + ʔ a u,,Tamaititahio-1213-2015,522,false
+AustralA-113_branch-1,,AustralA,113_branch,ʔāmama Gāʔau,ʔāmama Gāʔau,ʔ aː m a m a + ɢ aː + ʔ a u,,Tamaititahio-1213-2015,522,false
 AustralA-112_rotten-1,,AustralA,112_rotten,henoheno,henoheno,h e n o + h e n o,,Tamaititahio-1213-2015,888,false
 AustralA-111_fish-1,,AustralA,111_fish,iʔa,iʔa,i ʔ a,,Tamaititahio-1213-2015,30,false
 AustralA-110_spider-1,,AustralA,110_spider,tuʔunui,tuʔunui,t u ʔ u + n u i,,Tamaititahio-1213-2015,959,false
 AustralA-109_mosquito-1,,AustralA,109_mosquito,naonao,naonao,n a o + n a o,,Tamaititahio-1213-2015,48,false
 AustralA-108_louse-1,,AustralA,108_louse,ʔutuʔu,ʔutuʔu,ʔ u t u + ʔ u,,Tamaititahio-1213-2015,46,false
-AustralA-107_wormearthworm-1,,AustralA,107_wormearthworm,toʔe Gepo,toʔe Gepo,t o ʔ e _ ɢ e p o,,Tamaititahio-1213-2015,1244,false
+AustralA-107_wormearthworm-1,,AustralA,107_wormearthworm,toʔe Gepo,toʔe Gepo,t o ʔ e + ɢ e p o,,Tamaititahio-1213-2015,1244,false
 AustralA-104_fatgrease-1,,AustralA,104_fatgrease,poGia,poGia,p o ɢ i a,,Tamaititahio-1213-2015,889,false
 AustralA-103_meatflesh-1,,AustralA,103_meatflesh,ʔiʔo,ʔiʔo,ʔ i ʔ o,,Tamaititahio-1213-2015,126,false
 AustralA-102_rat-1,,AustralA,102_rat,ʔioGe,ʔioGe,ʔ i o ɢ e,,Tamaititahio-1213-2015,250,false
 AustralA-101_tofly-1,,AustralA,101_tofly,GeGe,GeGe,ɢ e ɢ e,,Tamaititahio-1213-2015,205,false
 AustralA-100_wing-1,,AustralA,100_wing,maiti,maiti,m a i t i,,Tamaititahio-1213-2015,890,false
-AustralA-99_feather-1,,AustralA,99_feather,huGuhuGu manu,huGuhuGu manu,h u ɢ u + h u ɢ u _ m a n u,,Tamaititahio-1213-2015,28,false
+AustralA-99_feather-1,,AustralA,99_feather,huGuhuGu manu,huGuhuGu manu,h u ɢ u + h u ɢ u + m a n u,,Tamaititahio-1213-2015,28,false
 AustralA-98_egg-1,,AustralA,98_egg,hueGo,hueGo,h u e ɢ o,borrowing from Tahitian,Tamaititahio-1213-2015,1435,true
 AustralA-97_bird-1,,AustralA,97_bird,manu,manu,m a n u,,Tamaititahio-1213-2015,14,false
 AustralA-96_dog-1,,AustralA,96_dog,ʔuGi,ʔuGi,ʔ u ɢ i,,Tamaititahio-1213-2015,1213,false
@@ -4430,7 +4430,7 @@ AustralA-83_towork-1,,AustralA,83_towork,ʔohipa,ʔohipa,ʔ o h i p a,tahitian l
 AustralA-82_dullblunt-1,,AustralA,82_dullblunt,papa,papa,p a p a,,Tamaititahio-1213-2015,899,false
 AustralA-81_sharp-1,,AustralA,81_sharp,ʔoi,ʔoi,ʔ o i,,Tamaititahio-1213-2015,348,false
 AustralA-80_tosplit-1,,AustralA,80_tosplit,pāhaGa,pāhaGa,p aː h a ɢ a,,Tamaititahio-1213-2015,900,false
-AustralA-78_tocuthack-1,,AustralA,78_tocuthack,tapu te Ga'au,tapu te Ga'au,t a p u _ t e _ ɢ a ʔ a u,Tahitian loan,Tamaititahio-1213-2015,255,true
+AustralA-78_tocuthack-1,,AustralA,78_tocuthack,tapu te Ga'au,tapu te Ga'au,t a p u + t e + ɢ a ʔ a u,Tahitian loan,Tamaititahio-1213-2015,255,true
 AustralA-77_toscratch-1,,AustralA,77_toscratch,maʔeGo,maʔeGo,m a ʔ e ɢ o,,Tamaititahio-1213-2015,1168,false
 AustralA-76_tolivebealive-1,,AustralA,76_tolivebealive,haʔaea,haʔaea,h a ʔ a + e a,"'stay or live, as in inhabit'-MW",Tamaititahio-1213-2015,1474,false
 AustralA-75_todiebedead-1,,AustralA,75_todiebedead,mate,mate,m a t e,,Tamaititahio-1213-2015,84,false
@@ -4445,10 +4445,10 @@ AustralA-66_totieupfasten-1,,AustralA,66_totieupfasten,tāʔamu,tāʔamu,t aː +
 AustralA-65_rope-1,,AustralA,65_rope,nape,nape,n a p e,,Tamaititahio-1213-2015,902,false
 AustralA-64_tosay-1,,AustralA,64_tosay,paGaupaGau,paGaupaGau,p a ɢ a u + p a ɢ a u,,Tamaititahio-1213-2015,261,false
 AustralA-63_name-1,,AustralA,63_name,iʔoa,iʔoa,i ʔ o a,,Tamaititahio-1213-2015,1096,false
-AustralA-62_thatchroof-1,,AustralA,62_thatchroof,haGe niʔau,haGe niʔau,h a ɢ e _ n i ʔ a u,,Tamaititahio-1213-2015,903,false
+AustralA-62_thatchroof-1,,AustralA,62_thatchroof,haGe niʔau,haGe niʔau,h a ɢ e + n i ʔ a u,,Tamaititahio-1213-2015,903,false
 AustralA-61_house-1,,AustralA,61_house,haGe,haGe,h a ɢ e,,Tamaititahio-1213-2015,342,false
-AustralA-60_father-1,,AustralA,60_father,metua tāne,metua tāne,m e t u a _ t aː n e,,Tamaititahio-1213-2015,27,false
-AustralA-59_mother-1,,AustralA,59_mother,metua vahine,metua vahine,m e t u a _ v a h i n e,,Tamaititahio-1213-2015,809,false
+AustralA-60_father-1,,AustralA,60_father,metua tāne,metua tāne,m e t u a + t aː n e,,Tamaititahio-1213-2015,27,false
+AustralA-59_mother-1,,AustralA,59_mother,metua vahine,metua vahine,m e t u a + v a h i n e,,Tamaititahio-1213-2015,809,false
 AustralA-58_wife-1,,AustralA,58_wife,vahine,vahine,v a + h i n e,,Tamaititahio-1213-2015,971,false
 AustralA-57_husband-1,,AustralA,57_husband,tāne,tāne,t aː n e,,Tamaititahio-1213-2015,343,false
 AustralA-56_child-1,,AustralA,56_child,tamaGiʔi,tamaGiʔi,t a m a + ɢ i ʔ i,,Tamaititahio-1213-2015,1086,false
@@ -4461,7 +4461,7 @@ AustralA-51_tosit-1,,AustralA,51_tosit,nohotu,nohotu,n o h o t u,,Tamaititahio-1
 AustralA-50_todream-1,,AustralA,50_todream,moemoeā,moemoeā,m o e + m o e + aː,,Tamaititahio-1213-2015,1230,false
 AustralA-49_toliedown-1,,AustralA,49_toliedown,tīGaha,tīGaha,t iː + ɢ a h a,,Tamaititahio-1213-2015,1350,false
 AustralA-48_tosleep-1,,AustralA,48_tosleep,moe,moe,m o e,,Tamaititahio-1213-2015,905,false
-AustralA-47_toyawn-1,,AustralA,47_toyawn,hāmama te vaha,hāmama te vaha,h aː + m a + m a _ t e _ v a h a,,Tamaititahio-1213-2015,479,false
+AustralA-47_toyawn-1,,AustralA,47_toyawn,hāmama te vaha,hāmama te vaha,h aː + m a + m a + t e + v a h a,,Tamaititahio-1213-2015,479,false
 AustralA-46_tosee-1,,AustralA,46_tosee,ʔite,ʔite,ʔ i t e,,Tamaititahio-1213-2015,95,false
 AustralA-45_eye-1,,AustralA,45_eye,mata,mata,m a t a,,Tamaititahio-1213-2015,24,false
 AustralA-44_tohear-1,,AustralA,44_tohear,haʔaGoʔo,haʔaGoʔo,h a ʔ a + ɢ o ʔ o,,Tamaititahio-1213-2015,90,false
@@ -4469,7 +4469,7 @@ AustralA-43_ear-1,,AustralA,43_ear,taGiʔa,taGiʔa,t a ɢ i ʔ a,,Tamaititahio-1
 AustralA-42_tosuck-1,,AustralA,42_tosuck,ʔote,ʔote,ʔ o t e,,Tamaititahio-1213-2015,1415,false
 AustralA-40_todrink-1,,AustralA,40_todrink,inu,inu,i n u,,Tamaititahio-1213-2015,86,false
 AustralA-39_tocook-1,,AustralA,39_tocook,tunu,tunu,t u n u,,Tamaititahio-1213-2015,1404,false
-AustralA-38_tochew-1,,AustralA,38_tochew,ʔaʔa maGu,ʔaʔa maGu,ʔ a ʔ a _ m a ɢ u,,Tamaititahio-1213-2015,1229,false
+AustralA-38_tochew-1,,AustralA,38_tochew,ʔaʔa maGu,ʔaʔa maGu,ʔ a ʔ a + m a ɢ u,,Tamaititahio-1213-2015,1229,false
 AustralA-37_toeat-1,,AustralA,37_toeat,ʔamu,ʔamu,ʔ a m u,Borrowed from Tahitian,Tamaititahio-1213-2015,87,true
 AustralA-36_tospit-1,,AustralA,36_tospit,tūtuha,tūtuha,t uː + t u h a,,Tamaititahio-1213-2015,478,false
 AustralA-35_tovomit-1,,AustralA,35_tovomit,pihaʔe,pihaʔe,p i h a ʔ e,Tahitian borrowing,Tamaititahio-1213-2015,686,true
@@ -4479,9 +4479,9 @@ AustralA-32_tongue-1,,AustralA,32_tongue,aGeGo,aGeGo,a ɢ e ɢ o,,Tamaititahio-1
 AustralA-31_tooth-1,,AustralA,31_tooth,niho,niho,n i h o,,Tamaititahio-1213-2015,101,false
 AustralA-30_mouth-1,,AustralA,30_mouth,vaha,vaha,v a h a,,Tamaititahio-1213-2015,50,false
 AustralA-29_tosniffsmell-1,,AustralA,29_tosniffsmell,hauʔa,hauʔa,h a u ʔ a,,Tamaititahio-1213-2015,151,false
-AustralA-28_tobreathe-1,,AustralA,28_tobreathe,huti te aho,huti te aho,h u t i _ t e _ a h o,,Tamaititahio-1213-2015,1401,false
+AustralA-28_tobreathe-1,,AustralA,28_tobreathe,huti te aho,huti te aho,h u t i + t e + a h o,,Tamaititahio-1213-2015,1401,false
 AustralA-27_nose-1,,AustralA,27_nose,ihu,ihu,i h u,,Tamaititahio-1213-2015,55,false
-AustralA-26_hair-1,,AustralA,26_hair,huGuhuGu poʔo,huGuhuGu poʔo,h u ɢ u + h u ɢ u _ p o ʔ o,,Tamaititahio-1213-2015,695,false
+AustralA-26_hair-1,,AustralA,26_hair,huGuhuGu poʔo,huGuhuGu poʔo,h u ɢ u + h u ɢ u + p o ʔ o,,Tamaititahio-1213-2015,695,false
 AustralA-25_neck-1,,AustralA,25_neck,ʔaGapoʔa,ʔaGapoʔa,ʔ a ɢ a + p o ʔ a,,Tamaititahio-1213-2015,906,false
 AustralA-24_head-1,,AustralA,24_head,upoʔo,upoʔo,u + p o ʔ o,,Tamaititahio-1213-2015,124,false
 AustralA-23_blood-1,,AustralA,23_blood,toto,toto,t o t o,,Tamaititahio-1213-2015,807,false
@@ -4499,7 +4499,7 @@ AustralA-12_skin-1,,AustralA,12_skin,ʔiGi,ʔiGi,ʔ i ɢ i,,Tamaititahio-1213-20
 AustralA-10_dirty-1,,AustralA,10_dirty,Gepo,Gepo,ɢ e p o,,Tamaititahio-1213-2015,1388,false
 AustralA-9_toswim-1,,AustralA,9_toswim,ʔau,ʔau,ʔ a u,,Tamaititahio-1213-2015,969,false
 AustralA-8_toturn-1,,AustralA,8_toturn,tāviGi,tāviGi,t aː + v i ɢ i,PPN *r/l > Rai G,Tamaititahio-1213-2015,1424,false
-AustralA-7_tocome-1,,AustralA,7_tocome,haeGe mai,haeGe mai,h a e ɢ e _ m a i,,Tamaititahio-1213-2015,81,false
+AustralA-7_tocome-1,,AustralA,7_tocome,haeGe mai,haeGe mai,h a e ɢ e + m a i,,Tamaititahio-1213-2015,81,false
 AustralA-6_roadpath-1,,AustralA,6_roadpath,puGumu,puGumu,p u ɢ u m u,tahitian borrowing,Tamaititahio-1213-2015,670,true
 AustralA-5_towalk-1,,AustralA,5_towalk,haeGe,haeGe,h a e ɢ e,,Tamaititahio-1213-2015,1109,false
 AustralA-4_legfoot-1,,AustralA,4_legfoot,umaha,umaha,u m a h a,,Tamaititahio-1213-2015,909,false
@@ -4687,8 +4687,8 @@ Tuamotuan-64_tosay-1,,Tuamotuan,64_tosay,parau,parau,p a r a u,,POLLEX,261,false
 Tuamotuan-63_name-1,,Tuamotuan,63_name,iŋoa,iŋoa,i ŋ o a,Name,POLLEX,1096,false
 Tuamotuan-62_thatchroof-1,,Tuamotuan,62_thatchroof,ato,ato,a t o,Thatch,POLLEX,72,false
 Tuamotuan-61_house-1,,Tuamotuan,61_house,hare,hare,h a r e,House,POLLEX,342,false
-Tuamotuan-60_father-1,,Tuamotuan,60_father,metua taane,metua taane,m e t u a _ t aː n e,,POLLEX,27,false
-Tuamotuan-59_mother-1,,Tuamotuan,59_mother,metua vahine,metua vahine,m e t u a _ v a h i n e,,POLLEX,809,false
+Tuamotuan-60_father-1,,Tuamotuan,60_father,metua taane,metua taane,m e t u a + t aː n e,,POLLEX,27,false
+Tuamotuan-59_mother-1,,Tuamotuan,59_mother,metua vahine,metua vahine,m e t u a + v a h i n e,,POLLEX,809,false
 Tuamotuan-58_wife-1,,Tuamotuan,58_wife,moorire,moorire,m oː r i r e,"Pollex 06: <Moorire. :Woman, wife>.",POLLEX,925,false
 Tuamotuan-57_husband-1,,Tuamotuan,57_husband,taane,taane,t aː n e,"Male human being, husband (Stn)",POLLEX,343,false
 Tuamotuan-56_child-1,,Tuamotuan,56_child,tamaariki,tamaariki,t a m aː + r i k i,Children (Stn),POLLEX,1086,false
@@ -4764,8 +4764,8 @@ Tuamotuan-2_left-1,,Tuamotuan,2_left,hema,hema,h e m a,Left (Hand),POLLEX,196,fa
 Tuamotuan-1_hand-1,,Tuamotuan,1_hand,rima,rima,r i m a,"Five, hand",POLLEX,36,false
 Tuamotuan-1_hand-2,,Tuamotuan,1_hand,kapu,kapu,r i m a,"Sole of the foot, palm of the hand (Stn)",POLLEX,1216,false
 Niuean-210_onethousand-1,,Niuean,210_onethousand,afe,afe,a f e,Thousand (Sph).(Source: Pollex),POLLEX,665,false
-Niuean-209_onehundred-1,,Niuean,209_onehundred,te au,te au,t e _ a u,Hundred (McE).(Source: Pollex),POLLEX,518,false
-Niuean-208_fifty-1,,Niuean,208_fifty,lima fiha,lima fiha,l i m a _ f i h a,,POLLEX,932,false
+Niuean-209_onehundred-1,,Niuean,209_onehundred,te au,te au,t e + a u,Hundred (McE).(Source: Pollex),POLLEX,518,false
+Niuean-208_fifty-1,,Niuean,208_fifty,lima fiha,lima fiha,l i m a + f i h a,,POLLEX,932,false
 Niuean-207_twenty-1,,Niuean,207_twenty,tekau,tekau,t e k a u,Twenty (only used in counting fish).(Source: Pollex),POLLEX,805,false
 Niuean-206_ten-1,,Niuean,206_ten,hongofulu,hongofulu,h o ŋ o + f u l u,Ten.(Source: Pollex),POLLEX,946,false
 Niuean-205_nine-1,,Niuean,205_nine,hiva,hiva,h i v a,Nine.(Source: Pollex),POLLEX,945,false
@@ -4824,7 +4824,7 @@ Niuean-154_short-1,,Niuean,154_short,puku/puku,puku,p u k u,"Small, medium-sized
 Niuean-153_big-1,,Niuean,153_big,lahi,lahi,l a h i,Large,POLLEX,238,false
 Niuean-152_small-1,,Niuean,152_small,puku/puku,puku,p u k u,"Small, medium-sized (McE)",POLLEX,252,false
 Niuean-152_small-2,,Niuean,152_small,liki/liki,liki,l i k i,Small (Motu dialect) (McE),POLLEX,1171,false
-Niuean-151_green-1,,Niuean,151_green,lanu laukou,lanu laukou,l a n u _ l a u k o u,,POLLEX,243,false
+Niuean-151_green-1,,Niuean,151_green,lanu laukou,lanu laukou,l a n u + l a u k o u,,POLLEX,243,false
 Niuean-150_yellow-1,,Niuean,150_yellow,ago,ago,a g o,,POLLEX,1423,false
 Niuean-149_red-1,,Niuean,149_red,kula,kula,k u l a,Red,POLLEX,304,false
 Niuean-148_white-1,,Niuean,148_white,tea,tea,t e a,"White, light-coloured, fair skinned (McE)",POLLEX,1342,false
@@ -4888,7 +4888,7 @@ Niuean-101_tofly-1,,Niuean,101_tofly,lele,lele,l e l e,Fly (McE),POLLEX,205,fals
 Niuean-100_wing-1,,Niuean,100_wing,peehau,peehau,p eː + h a u,Wing of a bird or other flying creature (McE),POLLEX,109,false
 Niuean-100_wing-2,,Niuean,100_wing,tapakau,tapakau,t a p a + k a u,"Wing of a bird, fin of a fish (McE)",POLLEX,109,false
 Niuean-99_feather-1,,Niuean,99_feather,palaa,palaa,p a l aː,Long tail-feathers of a bird (McE),POLLEX,953,false
-Niuean-97_bird-1,,Niuean,97_bird,manu lele,manu lele,m a n u _ l e l e,Bird (not animal),POLLEX,14,false
+Niuean-97_bird-1,,Niuean,97_bird,manu lele,manu lele,m a n u + l e l e,Bird (not animal),POLLEX,14,false
 Niuean-96_dog-1,,Niuean,96_dog,kulii,kulii,k u l iː,Dog,POLLEX,1213,false
 Niuean-95_tofall-1,,Niuean,95_tofall,mokulu,mokulu,m o k u l u,Fall (as ripe fruit) (McE),POLLEX,204,false
 Niuean-94_tothrow-1,,Niuean,94_tothrow,velo,velo,v e l o,Pollex 06: Velo. :Throw (Mce).,POLLEX,777,false
@@ -4930,13 +4930,13 @@ Niuean-68_needle-1,,Niuean,68_needle,hika,hika,h i k a,Net needle (i),POLLEX,139
 Niuean-67_tosew-1,,Niuean,67_tosew,tui,tui,t u i,"Thread pierced objects, sew (I)(McE)",POLLEX,316,false
 Niuean-66_totieupfasten-1,,Niuean,66_totieupfasten,lilii,lilii,l i + l iː,Bind,POLLEX,359,false
 Niuean-65_rope-1,,Niuean,65_rope,toua,toua,t o u a,"Rope, cord (McE) (Tgr)",POLLEX,1396,false
-Niuean-64_tosay-1,,Niuean,64_tosay,ke pehe,ke pehe,k e _ p e h e,,POLLEX,1070,false
+Niuean-64_tosay-1,,Niuean,64_tosay,ke pehe,ke pehe,k e + p e h e,,POLLEX,1070,false
 Niuean-63_name-1,,Niuean,63_name,higoa,higoa,h i g o a,,POLLEX,1096,false
 Niuean-62_thatchroof-1,,Niuean,62_thatchroof,ato,ato,a t o,"To cover (mainly refers to covering a shelter with leaves, or to cover an area of land with leaves (Sph)",POLLEX,72,false
 Niuean-61_house-1,,Niuean,61_house,fale,fale,f a l e,Pn loan,POLLEX,342,true
 Niuean-61_house-2,,Niuean,61_house,kaina,kaina,k a i n a,"Home, land, homeland (Sph)",POLLEX,1089,false
-Niuean-60_father-1,,Niuean,60_father,matua taane,matua taane,m a t u a _ t aː n e,parent male,POLLEX,27,false
-Niuean-59_mother-1,,Niuean,59_mother,matua fifina,matua fifina,m a t u a _ f i f i n a,parent female,POLLEX,809,false
+Niuean-60_father-1,,Niuean,60_father,matua taane,matua taane,m a t u a + t aː n e,parent male,POLLEX,27,false
+Niuean-59_mother-1,,Niuean,59_mother,matua fifina,matua fifina,m a t u a + f i f i n a,parent female,POLLEX,809,false
 Niuean-58_wife-1,,Niuean,58_wife,hoana,hoana,h o a n a,,POLLEX,1379,false
 Niuean-57_husband-1,,Niuean,57_husband,taane,taane,t aː n e,"Male, husband (Mce)",POLLEX,343,false
 Niuean-56_child-1,,Niuean,56_child,tamaikiiki,tamaikiiki,t a m a + i k i + i k i,Children (McE),POLLEX,1086,false
@@ -5004,8 +5004,8 @@ Niuean-2_left-1,,Niuean,2_left,hema,hema,h e m a,The left (side or hand) (Tgr),P
 Niuean-1_hand-1,,Niuean,1_hand,lima,lima,l i m a,"Five, hand",POLLEX,36,false
 AustralB-210_onethousand-1,,AustralB,210_onethousand,tauatini,tauatini,t a u a t i n i,English Loan,Meyer-128-2005,187,true
 AustralB-209_onehundred-1,,AustralB,209_onehundred,ʔaanere,ʔaanere,ʔ aː n e r e,English loan,Meyer-128-2005,186,true
-AustralB-208_fifty-1,,AustralB,208_fifty,pae ʔaʔuru,pae ʔaʔuru,p a e _ ʔ a + ʔ u r u,Tahitian loan with hyper-nativization,Meyer-128-2005,1380,true
-AustralB-207_twenty-1,,AustralB,207_twenty,piti ʔaʔuru,piti ʔaʔuru,p i t i _ ʔ a ʔ u r u,Tahitian borrowing,Meyer-128-2005,646,true
+AustralB-208_fifty-1,,AustralB,208_fifty,pae ʔaʔuru,pae ʔaʔuru,p a e + ʔ a + ʔ u r u,Tahitian loan with hyper-nativization,Meyer-128-2005,1380,true
+AustralB-207_twenty-1,,AustralB,207_twenty,piti ʔaʔuru,piti ʔaʔuru,p i t i + ʔ a ʔ u r u,Tahitian borrowing,Meyer-128-2005,646,true
 AustralB-206_ten-1,,AustralB,206_ten,ʔaʔuru,ʔaʔuru,ʔ a + ʔ u r u,,Meyer-128-2005,946,true
 AustralB-205_nine-1,,AustralB,205_nine,iva,iva,i v a,,Meyer-128-2005,945,false
 AustralB-204_eight-1,,AustralB,204_eight,vaʔu,vaʔu,v a ʔ u,,Meyer-128-2005,663,false
@@ -5018,10 +5018,10 @@ AustralB-198_two-1,,AustralB,198_two,rua,rua,r u a,,Meyer-128-2005,9,false
 AustralB-198_two-2,,AustralB,198_two,piti,piti,p i t i,Tahitian borrowing,Meyer-128-2005,806,true
 AustralB-197_one-1,,AustralB,197_one,taʔi,taʔi,t a ʔ i,,Meyer-128-2005,335,false
 AustralB-196_tocount-1,,AustralB,196_tocount,taiʔo,taiʔo,t a i ʔ o,,Meyer-128-2005,1405,false
-AustralB-195_nonot-1,,AustralB,195_nonot,e ʔore,e ʔore,e _ ʔ o r e,/e Ê”ore/ (not - imperfect aspect),Meyer-128-2005,198,false
+AustralB-195_nonot-1,,AustralB,195_nonot,e ʔore,e ʔore,e + ʔ o r e,/e Ê”ore/ (not - imperfect aspect),Meyer-128-2005,198,false
 AustralB-194_how-1,,AustralB,194_how,naaʔea,naaʔea,n aː + ʔ e a,,Meyer-128-2005,194,false
 AustralB-193_if-1,,AustralB,193_if,ʔaʔiri,ʔaʔiri,ʔ a ʔ i r i,(if - unreal proposition),Meyer-128-2005,978,false
-AustralB-193_if-2,,AustralB,193_if,mai te paʔau,mai te paʔau,m a i _ t e _ p a ʔ a u,(if - literally 'like the thing/manner'),Meyer-128-2005,1076,false
+AustralB-193_if-2,,AustralB,193_if,mai te paʔau,mai te paʔau,m a i + t e + p a ʔ a u,(if - literally 'like the thing/manner'),Meyer-128-2005,1076,false
 AustralB-192_and-1,,AustralB,192_and,ʔee,ʔee,ʔ eː,,Meyer-128-2005,1313,false
 AustralB-191_all-1,,AustralB,191_all,paaʔaatoʔa,paaʔaatoʔa,p aː ʔ aː + t o ʔ a,(entirety),Meyer-128-2005,293,false
 AustralB-190_other-1,,AustralB,190_other,vetaʔi,vetaʔi,v e + t a ʔ i,,Meyer-128-2005,1221,false
@@ -5051,12 +5051,12 @@ AustralB-174_ininside-1,,AustralB,174_ininside,roto,roto,r o t o,,Meyer-128-2005
 AustralB-173_at-1,,AustralB,173_at,i,i,i,,Meyer-128-2005,11,false
 AustralB-172_toclimb-1,,AustralB,172_toclimb,piʔi,piʔi,p i ʔ i,,Meyer-128-2005,1101,false
 AustralB-171_tohide-1,,AustralB,171_tohide,ʔuna,ʔuna,ʔ u n a,,Meyer-128-2005,91,false
-AustralB-170_when-1,,AustralB,170_when,inaaʔea,inaaʔea,i n aː _ ʔ e a,(when - in the past),Meyer-128-2005,970,false
+AustralB-170_when-1,,AustralB,170_when,inaaʔea,inaaʔea,i n aː + ʔ e a,(when - in the past),Meyer-128-2005,970,false
 AustralB-169_year-1,,AustralB,169_year,mataʔiti,mataʔiti,m a t a ʔ i t i,,Meyer-128-2005,1245,false
 AustralB-168_day-1,,AustralB,168_day,maʔana,maʔana,m a + ʔ a n a,Tahitian Loan,Meyer-128-2005,1318,true
 AustralB-168_day-2,,AustralB,168_day,ao,ao,a o,,Meyer-128-2005,18,false
 AustralB-167_night-1,,AustralB,167_night,poo,poo,p oː,,Meyer-128-2005,54,false
-AustralB-166_correcttrue-1,,AustralB,166_correcttrue,parau mau,parau mau,p a r a u _ m a u,Tahitian Loan (the truth - literally 'true word'),Meyer-128-2005,118,true
+AustralB-166_correcttrue-1,,AustralB,166_correcttrue,parau mau,parau mau,p a r a u + m a u,Tahitian Loan (the truth - literally 'true word'),Meyer-128-2005,118,true
 AustralB-166_correcttrue-2,,AustralB,166_correcttrue,ʔaafaro,ʔaafaro,ʔ aː f a r o,likely a recent Tahitian loanword as /f/ -> /Ê”/ has not occurred),Meyer-128-2005,782,true
 AustralB-166_correcttrue-3,,AustralB,166_correcttrue,tano,tano,t a n o,correct,Meyer-128-2005,1371,false
 AustralB-165_badevil-1,,AustralB,165_badevil,manuenu,manuenu,m a n u e n u,"(disgusting, vile)",Meyer-128-2005,981,false
@@ -5147,7 +5147,7 @@ AustralB-93_topoundbeat-1,,AustralB,93_topoundbeat,paʔi,paʔi,p a ʔ i,(to poun
 AustralB-93_topoundbeat-2,,AustralB,93_topoundbeat,tuʔi,tuʔi,t u ʔ i,(to pound),Meyer-128-2005,532,false
 AustralB-92_toopenuncover-1,,AustralB,92_toopenuncover,ʔuaʔi,ʔuaʔi,ʔ u a ʔ i,(to uncover),Meyer-128-2005,1335,false
 AustralB-92_toopenuncover-2,,AustralB,92_toopenuncover,ʔiriti,ʔiriti,ʔ i r i t i,(to open),Meyer-128-2005,846,false
-AustralB-91_tobuy-1,,AustralB,91_tobuy,ʔoʔo mai,ʔoʔo mai,ʔ o ʔ o _ m a i,,Meyer-128-2005,1228,false
+AustralB-91_tobuy-1,,AustralB,91_tobuy,ʔoʔo mai,ʔoʔo mai,ʔ o ʔ o + m a i,,Meyer-128-2005,1228,false
 AustralB-90_todig-1,,AustralB,90_todig,paʔi,paʔi,p a ʔ i,,Meyer-128-2005,995,false
 AustralB-90_todig-2,,AustralB,90_todig,ʔiri,ʔiri,ʔ i r i,,Meyer-128-2005,85,false
 AustralB-89_tohold-1,,AustralB,89_tohold,taapeʔa,taapeʔa,t aː + p e ʔ a,,Meyer-128-2005,207,false
@@ -5161,7 +5161,7 @@ AustralB-83_towork-1,,AustralB,83_towork,ʔatapu,ʔatapu,ʔ a t a p u,,Meyer-128
 AustralB-82_dullblunt-1,,AustralB,82_dullblunt,mania,mania,m a + n i a,,Meyer-128-2005,191,false
 AustralB-82_dullblunt-2,,AustralB,82_dullblunt,tuumuu,tuumuu,t uː + m uː,,Meyer-128-2005,120,false
 AustralB-81_sharp-1,,AustralB,81_sharp,ʔoi,ʔoi,ʔ o i,,Meyer-128-2005,348,false
-AustralB-80_tosplit-1,,AustralB,80_tosplit,piʔi ai,piʔi ai,p i ʔ i _ a i,(to split pandanus leaves for weaving),Meyer-128-2005,997,false
+AustralB-80_tosplit-1,,AustralB,80_tosplit,piʔi ai,piʔi ai,p i ʔ i + a i,(to split pandanus leaves for weaving),Meyer-128-2005,997,false
 AustralB-80_tosplit-2,,AustralB,80_tosplit,naʔaʔa,naʔaʔa,n a ʔ a ʔ a,(to split in many places),Meyer-128-2005,965,false
 AustralB-80_tosplit-3,,AustralB,80_tosplit,vaavaaʔi,vaavaaʔi,v aː + v aː ʔ i,(to split),Meyer-128-2005,813,false
 AustralB-79_stickwood-1,,AustralB,79_stickwood,raaʔau,raaʔau,r aː + ʔ a u,,Meyer-128-2005,69,false
@@ -5184,11 +5184,11 @@ AustralB-66_totieupfasten-1,,AustralB,66_totieupfasten,purei,purei,p u r e i,,Me
 AustralB-65_rope-1,,AustralB,65_rope,taura,taura,t a u r a,,Meyer-128-2005,1396,false
 AustralB-64_tosay-1,,AustralB,64_tosay,parau,parau,p a r a u,,Meyer-128-2005,261,false
 AustralB-63_name-1,,AustralB,63_name,iʔoa,iʔoa,i ʔ o a,,Meyer-128-2005,1096,false
-AustralB-62_thatchroof-1,,AustralB,62_thatchroof,taapoʔi ʔare,taapoʔi ʔare,t aː + p o ʔ i _ ʔ a r e,Literally 'house cover',Meyer-128-2005,138,false
+AustralB-62_thatchroof-1,,AustralB,62_thatchroof,taapoʔi ʔare,taapoʔi ʔare,t aː + p o ʔ i + ʔ a r e,Literally 'house cover',Meyer-128-2005,138,false
 AustralB-61_house-1,,AustralB,61_house,ʔare,ʔare,ʔ a r e,,Meyer-128-2005,342,false
-AustralB-60_father-1,,AustralB,60_father,metua taane,metua taane,m e t u a _ t aː n e,,Meyer-128-2005,27,false
+AustralB-60_father-1,,AustralB,60_father,metua taane,metua taane,m e t u a + t aː n e,,Meyer-128-2005,27,false
 AustralB-60_father-2,,AustralB,60_father,paapaa,paapaa,p aː p aː,borrowing from French-MW,Meyer-128-2005,952,true
-AustralB-59_mother-1,,AustralB,59_mother,metua vaʔine,metua vaʔine,m e t u a _ v a ʔ i n e,,Meyer-128-2005,809,false
+AustralB-59_mother-1,,AustralB,59_mother,metua vaʔine,metua vaʔine,m e t u a + v a ʔ i n e,,Meyer-128-2005,809,false
 AustralB-59_mother-2,,AustralB,59_mother,maamaa,maamaa,m aː m aː,borrowing?-MW,Meyer-128-2005,957,true
 AustralB-58_wife-1,,AustralB,58_wife,vaʔine,vaʔine,v a + ʔ i n e,,Meyer-128-2005,971,false
 AustralB-57_husband-1,,AustralB,57_husband,taane,taane,t aː n e,,Meyer-128-2005,343,false
@@ -5227,8 +5227,8 @@ AustralB-32_tongue-1,,AustralB,32_tongue,arero,arero,a r e r o,,Meyer-128-2005,3
 AustralB-31_tooth-1,,AustralB,31_tooth,niʔo,niʔo,n i ʔ o,,Meyer-128-2005,101,false
 AustralB-30_mouth-1,,AustralB,30_mouth,vaʔa,vaʔa,v a ʔ a,,Meyer-128-2005,50,false
 AustralB-29_tosniffsmell-1,,AustralB,29_tosniffsmell,ʔauʔa,ʔauʔa,ʔ a u ʔ a,,Meyer-128-2005,151,false
-AustralB-28_tobreathe-1,,AustralB,28_tobreathe,ʔuti i te aʔo,ʔuti i te aʔo,ʔ u t i _ i _ t e _ a ʔ o,Literally 'to pull breath',Meyer-128-2005,1401,false
-AustralB-27_nose-1,,AustralB,27_nose,puta eʔu,puta eʔu,p u t a _ e ʔ u,,Meyer-128-2005,55,false
+AustralB-28_tobreathe-1,,AustralB,28_tobreathe,ʔuti i te aʔo,ʔuti i te aʔo,ʔ u t i + i + t e + a ʔ o,Literally 'to pull breath',Meyer-128-2005,1401,false
+AustralB-27_nose-1,,AustralB,27_nose,puta eʔu,puta eʔu,p u t a + e ʔ u,,Meyer-128-2005,55,false
 AustralB-26_hair-1,,AustralB,26_hair,rouru,rouru,r o u + r u,,Meyer-128-2005,815,false
 AustralB-25_neck-1,,AustralB,25_neck,ʔaʔii,ʔaʔii,ʔ a ʔ iː,,Meyer-128-2005,539,false
 AustralB-24_head-1,,AustralB,24_head,pao,pao,p a o,animal head,Meyer-128-2005,341,false
@@ -5247,17 +5247,17 @@ AustralB-17_liver-2,,AustralB,17_liver,ʔupaʔa,ʔupaʔa,ʔ u p a ʔ a,liver of 
 AustralB-16_intestines-1,,AustralB,16_intestines,ʔaaʔau,ʔaaʔau,ʔ aː ʔ a u,,Meyer-128-2005,244,false
 AustralB-15_bone-1,,AustralB,15_bone,ivi,ivi,i v i,,Meyer-128-2005,987,false
 AustralB-14_belly-1,,AustralB,14_belly,ʔoopuu,ʔoopuu,ʔ oː p uː,,Meyer-128-2005,521,false
-AustralB-13_back-1,,AustralB,13_back,tautua,tautua,t a u _ t u a,,Meyer-128-2005,188,false
+AustralB-13_back-1,,AustralB,13_back,tautua,tautua,t a u + t u a,,Meyer-128-2005,188,false
 AustralB-12_skin-1,,AustralB,12_skin,ʔiri,ʔiri,ʔ i r i,,Meyer-128-2005,65,false
 AustralB-11_dust-1,,AustralB,11_dust,ʔuʔaʔuʔa,ʔuʔaʔuʔa,ʔ u ʔ a + ʔ u ʔ a,loan from Tahitian,Meyer-128-2005,1458,true
 AustralB-10_dirty-1,,AustralB,10_dirty,repo,repo,r e p o,,Meyer-128-2005,1388,false
 AustralB-9_toswim-1,,AustralB,9_toswim,ʔau,ʔau,ʔ a u,,Meyer-128-2005,969,false
 AustralB-8_toturn-1,,AustralB,8_toturn,tiipuʔu,tiipuʔu,t iː + p u ʔ u,,Meyer-128-2005,157,false
-AustralB-7_tocome-1,,AustralB,7_tocome,ʔaere mai,ʔaere mai,ʔ a e r e _ m a i,/Ê”aere/ is likely a Tahitian loanword,Meyer-128-2005,81,true
-AustralB-7_tocome-2,,AustralB,7_tocome,ʔano mai,ʔano mai,ʔ a n o _ m a i,,Meyer-128-2005,81,false
+AustralB-7_tocome-1,,AustralB,7_tocome,ʔaere mai,ʔaere mai,ʔ a e r e + m a i,/Ê”aere/ is likely a Tahitian loanword,Meyer-128-2005,81,true
+AustralB-7_tocome-2,,AustralB,7_tocome,ʔano mai,ʔano mai,ʔ a n o + m a i,,Meyer-128-2005,81,false
 AustralB-6_roadpath-1,,AustralB,6_roadpath,araʔaraʔa,araʔaraʔa,a r a ʔ a + r a ʔ a,winding road,Meyer-128-2005,61,false
 AustralB-6_roadpath-2,,AustralB,6_roadpath,puruumu,puruumu,p u r uː m u,road,Meyer-128-2005,670,true
-AustralB-5_towalk-1,,AustralB,5_towalk,ʔano rimo ʔaere,ʔano rimo ʔaere,ʔ a n o _ r i m o _ ʔ a e r e,to take a stroll,Meyer-128-2005,1109,false
+AustralB-5_towalk-1,,AustralB,5_towalk,ʔano rimo ʔaere,ʔano rimo ʔaere,ʔ a n o + r i m o + ʔ a e r e,to take a stroll,Meyer-128-2005,1109,false
 AustralB-5_towalk-2,,AustralB,5_towalk,rimorimo,rimorimo,r i m o + r i m o,to take a stroll,Meyer-128-2005,1007,false
 AustralB-5_towalk-3,,AustralB,5_towalk,ʔano,ʔano,ʔ a n o,go,Meyer-128-2005,535,false
 AustralB-4_legfoot-1,,AustralB,4_legfoot,ʔaavae,ʔaavae,ʔ aː + v a e,,Meyer-128-2005,44,false
@@ -5296,7 +5296,7 @@ FutunaAniwa-179_near-1,,FutunaAniwa,179_near,tata,tata,t a t a,,POLLEX,1393,fals
 FutunaAniwa-178_that-1,,FutunaAniwa,178_that,tena,tena,t e + n a,,POLLEX,71,false
 FutunaAniwa-177_this-1,,FutunaAniwa,177_this,tenei,tenei,t e + n e i,,POLLEX,1224,false
 FutunaAniwa-176_below-1,,FutunaAniwa,176_below,raro,raro,r a r o,"Below,  underneath,  down (Dty)",POLLEX,1315,false
-FutunaAniwa-175_above-1,,FutunaAniwa,175_above,weihlunga,weihlunga,w e i _ ʰl u ŋ a,,POLLEX,1382,false
+FutunaAniwa-175_above-1,,FutunaAniwa,175_above,weihlunga,weihlunga,w e i + ʰl u ŋ a,,POLLEX,1382,false
 FutunaAniwa-174_ininside-1,,FutunaAniwa,174_ininside,weitakoro,weitakoro,w e i + t a + k o r o,,POLLEX,1008,false
 FutunaAniwa-173_at-1,,FutunaAniwa,173_at,i,i,i,,POLLEX,11,false
 FutunaAniwa-172_toclimb-1,,FutunaAniwa,172_toclimb,fishi,fishi,f i ʃ i,,POLLEX,1101,false
@@ -5326,15 +5326,15 @@ FutunaAniwa-153_big-1,,FutunaAniwa,153_big,efa,efa,e f a,Big (Ply),POLLEX,294,fa
 FutunaAniwa-153_big-2,,FutunaAniwa,153_big,sore,sore,s o r e,,POLLEX,1251,false
 FutunaAniwa-152_small-1,,FutunaAniwa,152_small,sisi,sisi,s i + s i,,POLLEX,1346,false
 FutunaAniwa-151_green-1,,FutunaAniwa,151_green,moto,moto,m o t o,"Green,  bitter,  unripe (Dty)",POLLEX,123,false
-FutunaAniwa-151_green-2,,FutunaAniwa,151_green,raunea mahmata,raunea mahmata,r a u n e a _ m a ʰm a t a,,POLLEX,35,false
+FutunaAniwa-151_green-2,,FutunaAniwa,151_green,raunea mahmata,raunea mahmata,r a u n e a + m a ʰm a t a,,POLLEX,35,false
 FutunaAniwa-150_yellow-1,,FutunaAniwa,150_yellow,fero,fero,f e r o,Yellow (Dty),POLLEX,218,false
-FutunaAniwa-150_yellow-2,,FutunaAniwa,150_yellow,raunea hleu [ḷeu],raunea hleu,r a u + n e a _ ʰl e u,,POLLEX,1016,false
+FutunaAniwa-150_yellow-2,,FutunaAniwa,150_yellow,raunea hleu [ḷeu],raunea hleu,r a u + n e a + ʰl e u,,POLLEX,1016,false
 FutunaAniwa-149_red-1,,FutunaAniwa,149_red,mea,mea,m e a,"Brown,  red",POLLEX,60,false
 FutunaAniwa-148_white-1,,FutunaAniwa,148_white,tea,tea,t e a,White,POLLEX,1342,false
 FutunaAniwa-148_white-2,,FutunaAniwa,148_white,hkengo [kʰeŋa],hkengo,kʰ e ŋ o,,POLLEX,160,false
 FutunaAniwa-147_black-1,,FutunaAniwa,147_black,uri,uri,u r i,,POLLEX,1209,false
-FutunaAniwa-146_ashes-1,,FutunaAniwa,146_ashes,magarafu,magarafu,m a _ g a + r a f u,,POLLEX,1183,false
-FutunaAniwa-146_ashes-2,,FutunaAniwa,146_ashes,namuhlanga,namuhlanga,n a m u _ ʰl a ŋ a,,POLLEX,877,false
+FutunaAniwa-146_ashes-1,,FutunaAniwa,146_ashes,magarafu,magarafu,m a + g a + r a f u,,POLLEX,1183,false
+FutunaAniwa-146_ashes-2,,FutunaAniwa,146_ashes,namuhlanga,namuhlanga,n a m u + ʰl a ŋ a,,POLLEX,877,false
 FutunaAniwa-145_smoke-1,,FutunaAniwa,145_smoke,au,au,a u,Smoke (Dty),POLLEX,527,false
 FutunaAniwa-144_toburn-1,,FutunaAniwa,144_toburn,tuŋ/tuŋia/,tuŋia,t u ŋ i + a,Burn many things,POLLEX,1227,false
 FutunaAniwa-143_fire-1,,FutunaAniwa,143_fire,afi,afi,a f i,,POLLEX,29,false
@@ -5357,7 +5357,7 @@ FutunaAniwa-131_cloud-1,,FutunaAniwa,131_cloud,boa,boa,b o a,,POLLEX,239,false
 FutunaAniwa-130_star-1,,FutunaAniwa,130_star,fatū,fatū,f a t uː,,POLLEX,68,false
 FutunaAniwa-129_moon-1,,FutunaAniwa,129_moon,mrama,mrama,m a r a m a,"Pollex 06: Mrama. :Moon, month.",POLLEX,1218,false
 FutunaAniwa-128_sky-1,,FutunaAniwa,128_sky,ragi,ragi,r a g i,"Sky,  heaven (Dty)",POLLEX,66,false
-FutunaAniwa-127_woodsforest-1,,FutunaAniwa,127_woodsforest,ngamotu hmara [ṃara],ngamotu hmara,ŋ a m o t u _ ʰm a r a,,POLLEX,1182,false
+FutunaAniwa-127_woodsforest-1,,FutunaAniwa,127_woodsforest,ngamotu hmara [ṃara],ngamotu hmara,ŋ a m o t u + ʰm a r a,,POLLEX,1182,false
 FutunaAniwa-126_lake-1,,FutunaAniwa,126_lake,namo,namo,n a m o,[=small pool],POLLEX,1217,false
 FutunaAniwa-125_salt-1,,FutunaAniwa,125_salt,sol,sol,s o l,borrowed,POLLEX,1017,true
 FutunaAniwa-124_sea-1,,FutunaAniwa,124_sea,tai,tai,t a i,,POLLEX,63,false
@@ -5416,7 +5416,7 @@ FutunaAniwa-78_tocuthack-3,,FutunaAniwa,78_tocuthack,saua,saua,s a u a,,POLLEX,1
 FutunaAniwa-77_toscratch-1,,FutunaAniwa,77_toscratch,arajia,arajia,a r a + ʃ i a,"Scratch,  engrave,  claw (Dty)",POLLEX,149,false
 FutunaAniwa-76_tolivebealive-1,,FutunaAniwa,76_tolivebealive,mouri,mouri,m o u r i,,POLLEX,93,false
 FutunaAniwa-75_todiebedead-1,,FutunaAniwa,75_todiebedead,mate,mate,m a t e,,POLLEX,84,false
-FutunaAniwa-74_tokill-1,,FutunaAniwa,74_tokill,jia ka mate,jia ka mate,ʃ i a _ k a + m a t e,,POLLEX,530,false
+FutunaAniwa-74_tokill-1,,FutunaAniwa,74_tokill,jia ka mate,jia ka mate,ʃ i a + k a + m a t e,,POLLEX,530,false
 FutunaAniwa-73_tosteal-1,,FutunaAniwa,73_tosteal,ʃiŋo,ʃiŋo,ʃ i ŋ o,,POLLEX,1025,false
 FutunaAniwa-72_tohit-1,,FutunaAniwa,72_tohit,tuki,tuki,t u k i,"Hit, poke, punch (Dty)",POLLEX,1332,false
 FutunaAniwa-72_tohit-2,,FutunaAniwa,72_tohit,paki,paki,p a k i,"Slap, strike with the open hand (Dty)",POLLEX,1103,false
@@ -5448,7 +5448,7 @@ FutunaAniwa-51_tosit-1,,FutunaAniwa,51_tosit,nofo,nofo,n o f o,Sit,POLLEX,404,fa
 FutunaAniwa-51_tosit-2,,FutunaAniwa,51_tosit,buku,buku,b u k u,,POLLEX,272,false
 FutunaAniwa-50_todream-1,,FutunaAniwa,50_todream,miji,miji,m i ʃ i,Dream (Dty),POLLEX,751,false
 FutunaAniwa-49_toliedown-1,,FutunaAniwa,49_toliedown,moe,moe,m o e,,POLLEX,1105,false
-FutunaAniwa-48_tosleep-1,,FutunaAniwa,48_tosleep,moeroa,moeroa,m o e _ r o a,,POLLEX,150,false
+FutunaAniwa-48_tosleep-1,,FutunaAniwa,48_tosleep,moeroa,moeroa,m o e + r o a,,POLLEX,150,false
 FutunaAniwa-47_toyawn-1,,FutunaAniwa,47_toyawn,(h)mava,mava,m a v a,"Yawn,  pull in breath (Dty)",POLLEX,479,false
 FutunaAniwa-46_tosee-1,,FutunaAniwa,46_tosee,safea,safea,s a f e a,,POLLEX,1027,false
 FutunaAniwa-45_eye-1,,FutunaAniwa,45_eye,mata,mata,m a t a,Eye,POLLEX,24,false
@@ -5507,13 +5507,13 @@ FutunaAniwa-1_hand-1,,FutunaAniwa,1_hand,rima,rima,r i m a,,POLLEX,36,false
 Hawaiian-210_onethousand-1,,Hawaiian,210_onethousand,kaukani,kaukani,k a u k a n i,,71458,187,true
 Hawaiian-209_onehundred-1,,Hawaiian,209_onehundred,hanele,hanele,h a n e l e,English loan,71458,186,true
 Hawaiian-208_fifty-1,,Hawaiian,208_fifty,kanalima,kanalima,k a n a + l i m a,,71458,1034,false
-Hawaiian-207_twenty-1,,Hawaiian,207_twenty,iwakālua,iwakālua,i w a k aː _ l u a,,71458,947,false
+Hawaiian-207_twenty-1,,Hawaiian,207_twenty,iwakālua,iwakālua,i w a k aː + l u a,,71458,947,false
 Hawaiian-206_ten-1,,Hawaiian,206_ten,'umi,'umi,ʔ u m i,"this may be a term meaning 'fathom' or similqr ,easure for water depth.  A cognate is found in Old Rapa kumi, but this should not be included for the number 10-MW",71458,1461,false
 Hawaiian-206_ten-2,,Hawaiian,206_ten,anahulu,anahulu,a n a + h u l u,Ten days.(Source: Pollex),71458,946,false
 Hawaiian-205_nine-1,,Hawaiian,205_nine,iwa,iwa,i w a,Nine.(Source: Pollex),71458,945,false
 Hawaiian-204_eight-1,,Hawaiian,204_eight,walu,walu,w a l u,Pollex 06: Walu. :Eight.,71458,663,false
 Hawaiian-203_seven-1,,Hawaiian,203_seven,hiku,hiku,h i k u,Seven.(Source: Pollex),71458,6,false
-Hawaiian-202_six-1,,Hawaiian,202_six,'eono,'eono,ʔ e _ o n o,,71458,7,false
+Hawaiian-202_six-1,,Hawaiian,202_six,'eono,'eono,ʔ e + o n o,,71458,7,false
 Hawaiian-201_five-1,,Hawaiian,201_five,lima,lima,l i m a,"Five, hand.(Source: Pollex)",71458,2,false
 Hawaiian-200_four-1,,Hawaiian,200_four,hā,hā,h aː,,71458,3,false
 Hawaiian-199_three-1,,Hawaiian,199_three,kolu,kolu,k o l u,,71458,8,false
@@ -5523,7 +5523,7 @@ Hawaiian-196_tocount-1,,Hawaiian,196_tocount,helu,helu,h e l u,,71458,1035,false
 Hawaiian-195_nonot-1,,Hawaiian,195_nonot,'ole,'ole,ʔ o l e,,71458,198,false
 Hawaiian-194_how-1,,Hawaiian,194_how,pehea,pehea,p e + h e a,,71458,194,false
 Hawaiian-193_if-1,,Hawaiian,193_if,inā,inā,i n aː,(<e),71458,1205,false
-Hawaiian-192_and-1,,Hawaiian,192_and,a me,a me,a _ m e,,71458,520,false
+Hawaiian-192_and-1,,Hawaiian,192_and,a me,a me,a + m e,,71458,520,false
 Hawaiian-191_all-1,,Hawaiian,191_all,apau,apau,a + p a u,,71458,1075,false
 Hawaiian-190_other-1,,Hawaiian,190_other,kekāhi,kekāhi,k e + k aː h i,,71458,1221,false
 Hawaiian-189_who-1,,Hawaiian,189_who,wai,wai,w a i,,71458,106,false
@@ -5539,7 +5539,7 @@ Hawaiian-185_we-4,,Hawaiian,185_we,kāua,kāua,k aː + u a,1 dual incl.,71458,10
 Hawaiian-184_heshe-1,,Hawaiian,184_heshe,['o]ia,ia,i a,,71458,37,false
 Hawaiian-183_thou-1,,Hawaiian,183_thou,'oe,'oe,ʔ o e,,71458,76,false
 Hawaiian-182_i-1,,Hawaiian,182_i,['o] au,au,a u,,71458,4,false
-Hawaiian-181_where-1,,Hawaiian,181_where,aia i hea,aia i hea,a i a _ i _ h e a,,71458,679,false
+Hawaiian-181_where-1,,Hawaiian,181_where,aia i hea,aia i hea,a i a + i + h e a,,71458,679,false
 Hawaiian-180_far-1,,Hawaiian,180_far,mamao,mamao,m a + m a o,,71458,297,false
 Hawaiian-179_near-1,,Hawaiian,179_near,kokoke,kokoke,k o + k o k e,"kela, la (far), kela, na (near hearer)",71458,1036,false
 Hawaiian-178_that-1,,Hawaiian,178_that,na,na,n a,,71458,71,false
@@ -5547,13 +5547,13 @@ Hawaiian-178_that-2,,Hawaiian,178_that,la,la,l a,,71458,1037,false
 Hawaiian-177_this-1,,Hawaiian,177_this,nei,nei,n e i,,71458,75,false
 Hawaiian-177_this-2,,Hawaiian,177_this,kēia,kēia,k eː + i a,,71458,1038,false
 Hawaiian-176_below-1,,Hawaiian,176_below,lalo,lalo,l a l o,,71458,1315,false
-Hawaiian-175_above-1,,Hawaiian,175_above,i luna,i luna,i _ l u n a,,71458,1382,false
+Hawaiian-175_above-1,,Hawaiian,175_above,i luna,i luna,i + l u n a,,71458,1382,false
 Hawaiian-174_ininside-1,,Hawaiian,174_ininside,lo|ko,loko,l o k o,,71458,956,false
 Hawaiian-173_at-1,,Hawaiian,173_at,i,i,i,,71458,11,false
 Hawaiian-173_at-2,,Hawaiian,173_at,ma,ma,m a,,71458,1039,false
 Hawaiian-172_toclimb-1,,Hawaiian,172_toclimb,pi'i,pi'i,p i ʔ i,,71458,1101,false
 Hawaiian-171_tohide-1,,Hawaiian,171_tohide,hūnā,hūnā,h uː n aː,,71458,91,false
-Hawaiian-170_when-1,,Hawaiian,170_when,ināhea,ināhea,i n aː _ h e a,,71458,970,false
+Hawaiian-170_when-1,,Hawaiian,170_when,ināhea,ināhea,i n aː + h e a,,71458,970,false
 Hawaiian-169_year-1,,Hawaiian,169_year,makahiki,makahiki,m a k a h i k i,,71458,1245,false
 Hawaiian-168_day-1,,Hawaiian,168_day,lā,lā,l aː,,71458,1211,false
 Hawaiian-167_night-1,,Hawaiian,167_night,pō,pō,p oː,,71458,54,false
@@ -5673,7 +5673,7 @@ Hawaiian-64_tosay-1,,Hawaiian,64_tosay,'ōlelo,'ōlelo,ʔ oː l e l o,,71458,208
 Hawaiian-63_name-1,,Hawaiian,63_name,inoa,inoa,i n o a,,71458,1096,false
 Hawaiian-62_thatchroof-1,,Hawaiian,62_thatchroof,ako,ako,a k o,,71458,72,false
 Hawaiian-61_house-1,,Hawaiian,61_house,hale,hale,h a l e,,71458,342,false
-Hawaiian-60_father-1,,Hawaiian,60_father,makua kāne,makua kāne,m a k u a _ k aː n e,,71458,27,false
+Hawaiian-60_father-1,,Hawaiian,60_father,makua kāne,makua kāne,m a k u a + k aː n e,,71458,27,false
 Hawaiian-59_mother-1,,Hawaiian,59_mother,makuahine,makuahine,m a k u a + h i n e,,71458,809,false
 Hawaiian-58_wife-1,,Hawaiian,58_wife,wahine,wahine,w a + h i n e,,71458,971,false
 Hawaiian-57_husband-1,,Hawaiian,57_husband,kāne,kāne,k aː n e,54/55,71458,343,false
@@ -5685,7 +5685,7 @@ Hawaiian-52_tostand-1,,Hawaiian,52_tostand,ku,ku,k u,,71458,533,false
 Hawaiian-51_tosit-1,,Hawaiian,51_tosit,noho,noho,n o h o,,71458,404,false
 Hawaiian-50_todream-1,,Hawaiian,50_todream,moemoeā,moemoeā,m o e + m o e + aː,,71458,1230,false
 Hawaiian-50_todream-2,,Hawaiian,50_todream,moe'uhane,moe'uhane,m o e + ʔ u h a n e,,71458,1230,false
-Hawaiian-49_toliedown-1,,Hawaiian,49_toliedown,hina moe,hina moe,h i n a _ m o e,,71458,1105,false
+Hawaiian-49_toliedown-1,,Hawaiian,49_toliedown,hina moe,hina moe,h i n a + m o e,,71458,1105,false
 Hawaiian-48_tosleep-1,,Hawaiian,48_tosleep,moe,moe,m o e,,71458,150,false
 Hawaiian-47_toyawn-1,,Hawaiian,47_toyawn,hāmama,hāmama,h aː + m a + m a,,71458,479,false
 Hawaiian-46_tosee-1,,Hawaiian,46_tosee,'ike,'ike,ʔ i k e,[<A],71458,95,false
@@ -5741,9 +5741,9 @@ Hawaiian-2_left-1,,Hawaiian,2_left,hema,hema,h e m a,,71458,196,false
 Hawaiian-1_hand-1,,Hawaiian,1_hand,lima,lima,l i m a,,71458,36,false
 Rarotongan-210_onethousand-1,,Rarotongan,210_onethousand,tauatini,tauatini,t a u a t i n i,English Loan,POLLEX,187,true
 Rarotongan-210_onethousand-2,,Rarotongan,210_onethousand,mano,mano,m a n o,"A thousand, or a thousand brace (Etn).(Source: Pollex)",POLLEX,519,false
-Rarotongan-209_onehundred-1,,Rarotongan,209_onehundred,tai anere,tai anere,t a i _ a n e r e,English loan (ta'i 'one' ; 'anere 'loan for hundred'),POLLEX,186,true
-Rarotongan-208_fifty-1,,Rarotongan,208_fifty,rima ngauru,rima ngauru,r i m a _ ŋ a + u r u,,POLLEX,1,false
-Rarotongan-207_twenty-1,,Rarotongan,207_twenty,rua ngauru-,rua ngauru-,r u a _ ŋ a u r u,,POLLEX,666,false
+Rarotongan-209_onehundred-1,,Rarotongan,209_onehundred,tai anere,tai anere,t a i + a n e r e,English loan (ta'i 'one' ; 'anere 'loan for hundred'),POLLEX,186,true
+Rarotongan-208_fifty-1,,Rarotongan,208_fifty,rima ngauru,rima ngauru,r i m a + ŋ a + u r u,,POLLEX,1,false
+Rarotongan-207_twenty-1,,Rarotongan,207_twenty,rua ngauru-,rua ngauru-,r u a + ŋ a u r u,,POLLEX,666,false
 Rarotongan-206_ten-1,,Rarotongan,206_ten,nga'uru,nga'uru,ŋ a + ʔ u r u,Ten.(Source: Pollex),POLLEX,946,false
 Rarotongan-205_nine-1,,Rarotongan,205_nine,iva,iva,i v a,Nine.(Source: Pollex),POLLEX,945,false
 Rarotongan-204_eight-1,,Rarotongan,204_eight,varu,varu,v a r u,Pollex 06: Varu. :Eight.,POLLEX,663,false
@@ -5786,9 +5786,9 @@ Rarotongan-175_above-1,,Rarotongan,175_above,runga,runga,r u ŋ a,Above,POLLEX,1
 Rarotongan-174_ininside-1,,Rarotongan,174_ininside,roto,roto,r o t o,"Inside, lagoon, lake",POLLEX,956,false
 Rarotongan-173_at-1,,Rarotongan,173_at,tei,tei,t e i,"At, in, in the act of (Sve), relative pronoun (past) (Bse)",POLLEX,948,false
 Rarotongan-173_at-2,,Rarotongan,173_at,i,i,i,At (preposed particle),POLLEX,11,false
-Rarotongan-172_toclimb-1,,Rarotongan,172_toclimb,kake-a -ìa -na,kake-a -ìa -na,k a k e + a _ ʔ i a _ n a,"Climb, mount, serve (Bse)",POLLEX,707,false
+Rarotongan-172_toclimb-1,,Rarotongan,172_toclimb,kake-a -ìa -na,kake-a -ìa -na,k a k e + a + ʔ i a + n a,"Climb, mount, serve (Bse)",POLLEX,707,false
 Rarotongan-171_tohide-1,,Rarotongan,171_tohide,pi(i)pini,pipini,p i + p i n i,Hide (obs.) (Bse)  Hide (Bse),POLLEX,91,false
-Rarotongan-170_when-1,,Rarotongan,170_when,aa'ea,aa'ea,aː _ ʔ e a,When? Where? (Bse),POLLEX,970,false
+Rarotongan-170_when-1,,Rarotongan,170_when,aa'ea,aa'ea,aː + ʔ e a,When? Where? (Bse),POLLEX,970,false
 Rarotongan-169_year-1,,Rarotongan,169_year,tau,tau,t a u,A season or period (Sve),POLLEX,112,false
 Rarotongan-169_year-2,,Rarotongan,169_year,mataìti,mataìti,m a t a ʔ i t i,Year (Bse),POLLEX,1245,false
 Rarotongan-168_day-1,,Rarotongan,168_day,ao,ao,a o,Day (not night),POLLEX,18,false
@@ -5836,7 +5836,7 @@ Rarotongan-142_heavy-1,,Rarotongan,142_heavy,teimaà,teimaà,t e i + m a ʔ a,"W
 Rarotongan-141_wet-1,,Rarotongan,141_wet,tārari,tārari,t aː + r a r i,,POLLEX,1418,false
 Rarotongan-141_wet-2,,Rarotongan,141_wet,mā'ū'ū,mā'ū'ū,m aː + ʔ uː ʔ uː,,POLLEX,159,false
 Rarotongan-140_dry-1,,Rarotongan,140_dry,maroo,maroo,m a r oː,"Dry, withered (Bse)",POLLEX,296,false
-Rarotongan-139_cold-1,,Rarotongan,139_cold,anu toketoke,anu toketoke,a n u _ t o k e + t o k e,Very cold (Bse),POLLEX,1316,false
+Rarotongan-139_cold-1,,Rarotongan,139_cold,anu toketoke,anu toketoke,a n u + t o k e + t o k e,Very cold (Bse),POLLEX,1316,false
 Rarotongan-139_cold-2,,Rarotongan,139_cold,anu,anu,a n u,Cold,POLLEX,1316,false
 Rarotongan-138_warm-1,,Rarotongan,138_warm,maàna,maàna,m a + ʔ a n a,Warm,POLLEX,102,false
 Rarotongan-137_toblow-1,,Rarotongan,137_toblow,puì,puì,p u ʔ i,Blow,POLLEX,1098,false
@@ -5876,7 +5876,7 @@ Rarotongan-112_rotten-2,,Rarotongan,112_rotten,para,para,p a r a,"Ripe, rotten",
 Rarotongan-111_fish-1,,Rarotongan,111_fish,ika,ika,i k a,,POLLEX,30,false
 Rarotongan-110_spider-1,,Rarotongan,110_spider,tukutuku/ra'onui,tukutuku,t u k u + t u k u,General term for spiders,POLLEX,959,false
 Rarotongan-109_mosquito-1,,Rarotongan,109_mosquito,namu,namu,n a m u,"Mosquito, gnat, midge (Bse)",POLLEX,48,false
-Rarotongan-108_louse-1,,Rarotongan,108_louse,kutu papa,kutu papa,k u t u _ p a p a,the crab louse (Pthirius pubis),POLLEX,46,false
+Rarotongan-108_louse-1,,Rarotongan,108_louse,kutu papa,kutu papa,k u t u + p a p a,the crab louse (Pthirius pubis),POLLEX,46,false
 Rarotongan-108_louse-2,,Rarotongan,108_louse,kutu,kutu,k u t u,Louse  Body lice,POLLEX,46,false
 Rarotongan-107_wormearthworm-1,,Rarotongan,107_wormearthworm,toke,toke,t o k e,Worm (Sve),POLLEX,1244,false
 Rarotongan-106_snake-1,,Rarotongan,106_snake,'ōuī,'ōuī,ʔ oː u iː,,POLLEX,635,true
@@ -5889,7 +5889,7 @@ Rarotongan-101_tofly-1,,Rarotongan,101_tofly,rere,rere,r e r e,"Jump, fly v",POL
 Rarotongan-100_wing-1,,Rarotongan,100_wing,peeàu,peeàu,p eː + ʔ a u,"Wing, pectoral fin (Bse)",POLLEX,109,false
 Rarotongan-99_feather-1,,Rarotongan,99_feather,'uru'uru,'uru'uru,ʔ u r u + ʔ u r u,feathers,POLLEX,28,false
 Rarotongan-98_egg-1,,Rarotongan,98_egg,ua,ua,u a,,POLLEX,950,false
-Rarotongan-97_bird-1,,Rarotongan,97_bird,manu rere,manu rere,m a n u _ r e r e,Birds that fly,POLLEX,14,false
+Rarotongan-97_bird-1,,Rarotongan,97_bird,manu rere,manu rere,m a n u + r e r e,Birds that fly,POLLEX,14,false
 Rarotongan-96_dog-1,,Rarotongan,96_dog,kurii,kurii,k u r iː,Dog,POLLEX,1213,false
 Rarotongan-95_tofall-1,,Rarotongan,95_tofall,topa,topa,t o p a,"Fall from a height, fallen",POLLEX,312,false
 Rarotongan-95_tofall-2,,Rarotongan,95_tofall,ìnga,ìnga,ʔ i ŋ a,"Fall over from an upright position, topple over, be overthrown (Sve)",POLLEX,882,false
@@ -6067,7 +6067,7 @@ Penrhyn-175_above-1,,Penrhyn,175_above,runga,runga,r u ŋ a,Top,POLLEX,1382,fals
 Penrhyn-173_at-1,,Penrhyn,173_at,i,i,i,At,POLLEX,11,false
 Penrhyn-172_toclimb-1,,Penrhyn,172_toclimb,kake,kake,k a k e,Climb; coitus,POLLEX,707,false
 Penrhyn-171_tohide-1,,Penrhyn,171_tohide,koopiri,koopiri,k oː p i r i,Pollex 06: <Koopiri. :To hide (Sta)>.,POLLEX,1120,false
-Penrhyn-170_when-1,,Penrhyn,170_when,aahea,aahea,aː _ h e a,When?,POLLEX,970,false
+Penrhyn-170_when-1,,Penrhyn,170_when,aahea,aahea,aː + h e a,When?,POLLEX,970,false
 Penrhyn-169_year-1,,Penrhyn,169_year,matahiti,matahiti,m a t a h i t i,Pollex 06: Matahiti. :Year (Sta).,POLLEX,1245,false
 Penrhyn-168_day-1,,Penrhyn,168_day,ao,ao,a o,The world (Cbl),POLLEX,18,false
 Penrhyn-167_night-1,,Penrhyn,167_night,poo,poo,p oː,Night,POLLEX,54,false
@@ -6240,10 +6240,10 @@ Penrhyn-4_legfoot-1,,Penrhyn,4_legfoot,vae,vae,v a e,"Pollex 06: Vae/vae. :Foot,
 Penrhyn-3_right-1,,Penrhyn,3_right,katau,katau,k a + t a u,"Pollex 06: Katau. :Right, dextral side (Sta).",POLLEX,958,false
 Penrhyn-2_left-1,,Penrhyn,2_left,kauii,kauii,k a u iː,Pollex 06: Kauii. :Left.,POLLEX,43,false
 Penrhyn-1_hand-1,,Penrhyn,1_hand,rima,rima,r i m a,Five; hand-arm,POLLEX,36,false
-Nukuria-210_onethousand-1,,Nukuria,210_onethousand,tipu te rau,tipu te rau,t i p u _ t e _ r a u,,Davletshin-1212-2015,1132,false
+Nukuria-210_onethousand-1,,Nukuria,210_onethousand,tipu te rau,tipu te rau,t i p u + t e + r a u,,Davletshin-1212-2015,1132,false
 Nukuria-209_onehundred-1,,Nukuria,209_onehundred,rau,rau,r a u,,Davletshin-1212-2015,518,false
-Nukuria-208_fifty-1,,Nukuria,208_fifty,tipu rima,tipu rima,t i p u _ r i m a,,Davletshin-1212-2015,1133,false
-Nukuria-207_twenty-1,,Nukuria,207_twenty,tipu rua,tipu rua,t i p u _ r u a,,Davletshin-1212-2015,666,false
+Nukuria-208_fifty-1,,Nukuria,208_fifty,tipu rima,tipu rima,t i p u + r i m a,,Davletshin-1212-2015,1133,false
+Nukuria-207_twenty-1,,Nukuria,207_twenty,tipu rua,tipu rua,t i p u + r u a,,Davletshin-1212-2015,666,false
 Nukuria-206_ten-1,,Nukuria,206_ten,hanahuru,hanahuru,h a n a + h u r u,,Davletshin-1212-2015,946,false
 Nukuria-205_nine-1,,Nukuria,205_nine,siva,siva,s i v a,,Davletshin-1212-2015,945,false
 Nukuria-204_eight-1,,Nukuria,204_eight,varu,varu,v a r u,,Davletshin-1212-2015,663,false
@@ -6274,15 +6274,15 @@ Nukuria-185_we-2,,Nukuria,185_we,taatou,taatou,t aː + t o u,1 pl. incl.,Davlets
 Nukuria-184_heshe-1,,Nukuria,184_heshe,ia,ia,i a,frequently unmarked,Davletshin-1212-2015,37,false
 Nukuria-183_thou-1,,Nukuria,183_thou,koe,koe,k o e,,Davletshin-1212-2015,76,false
 Nukuria-182_i-1,,Nukuria,182_i,nau,nau,n a u,,Davletshin-1212-2015,4,false
-Nukuria-181_where-1,,Nukuria,181_where,i hea,i hea,i _ h e a,,Davletshin-1212-2015,679,false
+Nukuria-181_where-1,,Nukuria,181_where,i hea,i hea,i + h e a,,Davletshin-1212-2015,679,false
 Nukuria-180_far-1,,Nukuria,180_far,mmao,mmao,m m a o,(s.),Davletshin-1212-2015,297,false
-Nukuria-179_near-1,,Nukuria,179_near,taupiri mai,taupiri mai,t a u + p i r i _ m a i,(s.),Davletshin-1212-2015,682,false
+Nukuria-179_near-1,,Nukuria,179_near,taupiri mai,taupiri mai,t a u + p i r i + m a i,(s.),Davletshin-1212-2015,682,false
 Nukuria-178_that-1,,Nukuria,178_that,raa,raa,r aː,(3rd pers.),Davletshin-1212-2015,1136,false
 Nukuria-178_that-2,,Nukuria,178_that,naa,naa,n aː,(2nd pers.),Davletshin-1212-2015,71,false
 Nukuria-177_this-1,,Nukuria,177_this,nei,nei,n e i,(1st pers.),Davletshin-1212-2015,75,false
-Nukuria-176_below-1,,Nukuria,176_below,i raro,i raro,i _ r a r o,,Davletshin-1212-2015,1315,false
-Nukuria-175_above-1,,Nukuria,175_above,i aruna,i aruna,i a _ r u n a,,Davletshin-1212-2015,1382,false
-Nukuria-174_ininside-1,,Nukuria,174_ininside,i roto,i roto,i _ r o t o,,Davletshin-1212-2015,956,false
+Nukuria-176_below-1,,Nukuria,176_below,i raro,i raro,i + r a r o,,Davletshin-1212-2015,1315,false
+Nukuria-175_above-1,,Nukuria,175_above,i aruna,i aruna,i a + r u n a,,Davletshin-1212-2015,1382,false
+Nukuria-174_ininside-1,,Nukuria,174_ininside,i roto,i roto,i + r o t o,,Davletshin-1212-2015,956,false
 Nukuria-173_at-1,,Nukuria,173_at,i,i,i,,Davletshin-1212-2015,11,false
 Nukuria-172_toclimb-1,,Nukuria,172_toclimb,kake,kake,k a k e,(s.),Davletshin-1212-2015,707,false
 Nukuria-171_tohide-1,,Nukuria,171_tohide,haka-mmuni,haka-mmuni,h a k a + m m u n i,(s.),Davletshin-1212-2015,91,false
@@ -6294,7 +6294,7 @@ Nukuria-168_day-3,,Nukuria,168_day,ao,ao,a o,"(daylight, daytime)",Davletshin-12
 Nukuria-167_night-1,,Nukuria,167_night,poo,poo,p oː,,Davletshin-1212-2015,54,false
 Nukuria-166_correcttrue-1,,Nukuria,166_correcttrue,tonu,tonu,t o n u,(s.),Davletshin-1212-2015,1142,false
 Nukuria-165_badevil-1,,Nukuria,165_badevil,takahara,takahara,t a k a + h a r a,(s.),Davletshin-1212-2015,1143,false
-Nukuria-164_good-1,,Nukuria,164_good,tau-rekareka,tau-rekareka,t a u _ r e k a + r e k a,(s.),Davletshin-1212-2015,340,false
+Nukuria-164_good-1,,Nukuria,164_good,tau-rekareka,tau-rekareka,t a u + r e k a + r e k a,(s.),Davletshin-1212-2015,340,false
 Nukuria-163_new-1,,Nukuria,163_new,hoou,hoou,h oː u,(s.),Davletshin-1212-2015,53,false
 Nukuria-162_old-1,,Nukuria,162_old,matua,matua,m a t u a,(s.),Davletshin-1212-2015,56,false
 Nukuria-161_shyashamed-1,,Nukuria,161_shyashamed,napa,napa,n a p a,(s.),Davletshin-1212-2015,928,false
@@ -6429,7 +6429,7 @@ Nukuria-65_rope-5,,Nukuria,65_rope,haha,haha,h a + h a,(to steer sail with),Davl
 Nukuria-64_tosay-1,,Nukuria,64_tosay,hua,hua,h u a,(s.),Davletshin-1212-2015,285,false
 Nukuria-64_tosay-2,,Nukuria,64_tosay,hai,hai,h a i,(s.),Davletshin-1212-2015,281,false
 Nukuria-63_name-1,,Nukuria,63_name,inoa,inoa,i n o a,,Davletshin-1212-2015,1096,false
-Nukuria-62_thatchroof-1,,Nukuria,62_thatchroof,tua hare,tua hare,t u a _ h a r e,,Davletshin-1212-2015,594,false
+Nukuria-62_thatchroof-1,,Nukuria,62_thatchroof,tua hare,tua hare,t u a + h a r e,,Davletshin-1212-2015,594,false
 Nukuria-61_house-1,,Nukuria,61_house,hare,hare,h a r e,,Davletshin-1212-2015,342,false
 Nukuria-60_father-1,,Nukuria,60_father,tamana,tamana,t a m a + n a,also: uncle,Davletshin-1212-2015,27,false
 Nukuria-59_mother-1,,Nukuria,59_mother,tinana,tinana,t i n a n a,also: auntie,Davletshin-1212-2015,49,false
@@ -6501,19 +6501,19 @@ Nukuria-1_hand-1,,Nukuria,1_hand,rima,rima,r i m a,,Davletshin-1212-2015,36,fals
 Samoan-210_onethousand-1,,Samoan,210_onethousand,mano,mano,m a n o,"10,000 (multiple thousands)",Blust-118-2005,519,false
 Samoan-210_onethousand-2,,Samoan,210_onethousand,afe,afe,a f e,Thousand (Source: Pollex),Blust-118-2005,665,false
 Samoan-209_onehundred-1,,Samoan,209_onehundred,lau,lau,l a u,Hundred (Prt).(Source: Pollex),Blust-118-2005,518,false
-Samoan-208_fifty-1,,Samoan,208_fifty,limagafulu,limagafulu,l i m a _ g a + f u l u,,Blust-118-2005,1,false
-Samoan-208_fifty-2,,Samoan,208_fifty,limasefulu,limasefulu,l i m a _ s e + f u l u,,Blust-118-2005,1,false
-Samoan-207_twenty-1,,Samoan,207_twenty,lua sefulu,lua sefulu,l u a _ s e f u l u,,Blust-118-2005,666,false
+Samoan-208_fifty-1,,Samoan,208_fifty,limagafulu,limagafulu,l i m a + g a + f u l u,,Blust-118-2005,1,false
+Samoan-208_fifty-2,,Samoan,208_fifty,limasefulu,limasefulu,l i m a + s e + f u l u,,Blust-118-2005,1,false
+Samoan-207_twenty-1,,Samoan,207_twenty,lua sefulu,lua sefulu,l u a + s e f u l u,,Blust-118-2005,666,false
 Samoan-206_ten-1,,Samoan,206_ten,sefulu,sefulu,s e + f u l u,,Blust-118-2005,946,false
 Samoan-205_nine-1,,Samoan,205_nine,iva,iva,i v a,Nine.(Source: Pollex),Blust-118-2005,945,false
 Samoan-204_eight-1,,Samoan,204_eight,valu,valu,v a l u,POllex 06: Valu. :Eight.,Blust-118-2005,663,false
 Samoan-203_seven-1,,Samoan,203_seven,fitu,fitu,f i t u,Seven.(Source: Pollex),Blust-118-2005,6,false
 Samoan-202_six-1,,Samoan,202_six,ono,ono,o n o,,Blust-118-2005,7,false
 Samoan-201_five-1,,Samoan,201_five,lima,lima,l i m a,"Five, hand.(Source: Pollex)",Blust-118-2005,2,false
-Samoan-200_four-1,,Samoan,200_four,e fā,e fā,e _ f aː,,Blust-118-2005,3,false
-Samoan-199_three-1,,Samoan,199_three,e tolu,e tolu,e _ t o l u,,Blust-118-2005,8,false
-Samoan-198_two-1,,Samoan,198_two,e lua,e lua,e _ l u a,,Blust-118-2005,9,false
-Samoan-197_one-1,,Samoan,197_one,e tasi,e tasi,e _ t a s i,,Blust-118-2005,335,false
+Samoan-200_four-1,,Samoan,200_four,e fā,e fā,e + f aː,,Blust-118-2005,3,false
+Samoan-199_three-1,,Samoan,199_three,e tolu,e tolu,e + t o l u,,Blust-118-2005,8,false
+Samoan-198_two-1,,Samoan,198_two,e lua,e lua,e + l u a,,Blust-118-2005,9,false
+Samoan-197_one-1,,Samoan,197_one,e tasi,e tasi,e + t a s i,,Blust-118-2005,335,false
 Samoan-196_tocount-1,,Samoan,196_tocount,faitau,faitau,f a i + t a u,,Blust-118-2005,1330,false
 Samoan-195_nonot-1,,Samoan,195_nonot,iʔai,iʔai,i + ʔ a i,,Blust-118-2005,129,false
 Samoan-195_nonot-2,,Samoan,195_nonot,leai,leai,l e + a i,,Blust-118-2005,330,false
@@ -6522,11 +6522,11 @@ Samoan-193_if-1,,Samoan,193_if,'afai,'afai,ʔ a f a i,,Blust-118-2005,39,false
 Samoan-193_if-2,,Samoan,193_if,ʔa|na,ʔana,ʔ a n a,,Blust-118-2005,1090,false
 Samoan-192_and-1,,Samoan,192_and,ma,ma,m a,,Blust-118-2005,520,false
 Samoan-191_all-1,,Samoan,191_all,ʔātoa,ʔātoa,ʔ aː + t o a,,Blust-118-2005,293,false
-Samoan-190_other-1,,Samoan,190_other,ʔo se tasi,ʔo se tasi,ʔ o _ s e _ t a s i,another,Blust-118-2005,1221,false
+Samoan-190_other-1,,Samoan,190_other,ʔo se tasi,ʔo se tasi,ʔ o + s e + t a s i,another,Blust-118-2005,1221,false
 Samoan-190_other-2,,Samoan,190_other,ʔese,ʔese,ʔ e s e,,Blust-118-2005,1321,false
 Samoan-190_other-3,,Samoan,190_other,isi,isi,i s i,,Blust-118-2005,1308,false
 Samoan-189_who-1,,Samoan,189_who,ʔo ai,ʔo ai,ʔ o + a i,,Blust-118-2005,106,false
-Samoan-188_what-1,,Samoan,188_what,ʔo le ā,ʔo le ā,ʔ o _ l e _ aː,,Blust-118-2005,516,false
+Samoan-188_what-1,,Samoan,188_what,ʔo le ā,ʔo le ā,ʔ o + l e + aː,,Blust-118-2005,516,false
 Samoan-187_they-1,,Samoan,187_they,lāʔua,lāʔua,l aː + ʔ u a,,Blust-118-2005,1469,false
 Samoan-187_they-2,,Samoan,187_they,lātou,lātou,l aː + t o u,,Blust-118-2005,73,false
 Samoan-186_you-1,,Samoan,186_you,'oulua,'oulua,ʔ o u + l u a,(dual),Blust-118-2005,1477,false
@@ -6536,7 +6536,7 @@ Samoan-185_we-2,,Samoan,185_we,tātou,tātou,t aː + t o u,,Blust-118-2005,103,f
 Samoan-184_heshe-1,,Samoan,184_heshe,ia,ia,i a,,Blust-118-2005,37,false
 Samoan-183_thou-1,,Samoan,183_thou,'oe,'oe,ʔ o e,(singular),Blust-118-2005,76,false
 Samoan-182_i-1,,Samoan,182_i,aʔu,aʔu,a ʔ u,,Blust-118-2005,4,false
-Samoan-181_where-1,,Samoan,181_where,ʔo fea,ʔo fea,ʔ o _ f e a,,Blust-118-2005,679,false
+Samoan-181_where-1,,Samoan,181_where,ʔo fea,ʔo fea,ʔ o + f e a,,Blust-118-2005,679,false
 Samoan-180_far-1,,Samoan,180_far,mamao,mamao,m a + m a o,,Blust-118-2005,297,false
 Samoan-179_near-1,,Samoan,179_near,vālata,vālata,v aː + l a t a,close together,Blust-118-2005,781,false
 Samoan-179_near-2,,Samoan,179_near,tafatafa,tafatafa,t a f a + t a f a,adjacent,Blust-118-2005,1449,false
@@ -6544,8 +6544,8 @@ Samoan-179_near-3,,Samoan,179_near,lata,lata,l a t a,,Blust-118-2005,1393,false
 Samoan-178_that-1,,Samoan,178_that,lela,lela,l e + l a,,Blust-118-2005,1174,false
 Samoan-178_that-2,,Samoan,178_that,le|na,lena,l e + n a,(< M),Blust-118-2005,71,false
 Samoan-177_this-1,,Samoan,177_this,lenei,lenei,l e + n e i,(cp. WBM),Blust-118-2005,75,false
-Samoan-176_below-1,,Samoan,176_below,i lalo,i lalo,i _ l a l o,,Blust-118-2005,1315,false
-Samoan-175_above-1,,Samoan,175_above,i luŋa,i luŋa,i _ l u ŋ a,,Blust-118-2005,1382,false
+Samoan-176_below-1,,Samoan,176_below,i lalo,i lalo,i + l a l o,,Blust-118-2005,1315,false
+Samoan-175_above-1,,Samoan,175_above,i luŋa,i luŋa,i + l u ŋ a,,Blust-118-2005,1382,false
 Samoan-174_ininside-1,,Samoan,174_ininside,loto,loto,l o t o,within,Blust-118-2005,956,false
 Samoan-174_ininside-2,,Samoan,174_ininside,[i]totonu[o],totonu,t o t o n u,,Blust-118-2005,1175,false
 Samoan-173_at-1,,Samoan,173_at,i,i,i,,Blust-118-2005,11,false
@@ -6553,7 +6553,7 @@ Samoan-172_toclimb-1,,Samoan,172_toclimb,piʔi,piʔi,p i ʔ i,,Blust-118-2005,11
 Samoan-172_toclimb-2,,Samoan,172_toclimb,aʔe,aʔe,a ʔ e,,Blust-118-2005,707,false
 Samoan-171_tohide-1,,Samoan,171_tohide,nanā,nanā,n a n aː,,Blust-118-2005,428,false
 Samoan-171_tohide-2,,Samoan,171_tohide,lafi,lafi,l a f i,,Blust-118-2005,1176,false
-Samoan-170_when-1,,Samoan,170_when,anafea,anafea,a n a _ f e a,,Blust-118-2005,970,false
+Samoan-170_when-1,,Samoan,170_when,anafea,anafea,a n a + f e a,,Blust-118-2005,970,false
 Samoan-169_year-1,,Samoan,169_year,tau|saŋa,tausaŋa,t a u + s a ŋ a,,Blust-118-2005,112,false
 Samoan-168_day-1,,Samoan,168_day,lā,lā,l aː,,Blust-118-2005,1211,false
 Samoan-168_day-2,,Samoan,168_day,ao,ao,a o,,Blust-118-2005,18,false
@@ -6588,7 +6588,7 @@ Samoan-153_big-2,,Samoan,153_big,nui,nui,n u i,"works as a verb ""to be great"" 
 Samoan-153_big-3,,Samoan,153_big,tele,tele,t e l e,,Blust-118-2005,1186,false
 Samoan-152_small-1,,Samoan,152_small,itiiti,itiiti,i t i + i t i,,Blust-118-2005,269,false
 Samoan-151_green-1,,Samoan,151_green,usiusi,usiusi,u s i + u s i,,Blust-118-2005,1122,false
-Samoan-151_green-2,,Samoan,151_green,lanumeamata,lanumeamata,l a n u _ m e a _ m a t a,,Blust-118-2005,35,false
+Samoan-151_green-2,,Samoan,151_green,lanumeamata,lanumeamata,l a n u + m e a + m a t a,,Blust-118-2005,35,false
 Samoan-150_yellow-1,,Samoan,150_yellow,lega,lega,l e g a,,Blust-118-2005,162,false
 Samoan-150_yellow-2,,Samoan,150_yellow,sāmasama,sāmasama,s aː m a + s a m a,,Blust-118-2005,1071,false
 Samoan-149_red-1,,Samoan,149_red,mea,mea,m e a,,Blust-118-2005,60,false
@@ -6670,7 +6670,7 @@ Samoan-100_wing-1,,Samoan,100_wing,ʔapaʔau,ʔapaʔau,ʔ a p a + ʔ a u,,Blust-
 Samoan-99_feather-1,,Samoan,99_feather,ʔula,ʔula,ʔ u l a,,Blust-118-2005,973,false
 Samoan-99_feather-2,,Samoan,99_feather,fulu,fulu,f u l u,,Blust-118-2005,28,false
 Samoan-98_egg-1,,Samoan,98_egg,fuāmoa,fuāmoa,f u aː + m o a,,Blust-118-2005,950,false
-Samoan-97_bird-1,,Samoan,97_bird,manulele,manulele,m a n u _ l e l e,,Blust-118-2005,14,false
+Samoan-97_bird-1,,Samoan,97_bird,manulele,manulele,m a n u + l e l e,,Blust-118-2005,14,false
 Samoan-96_dog-1,,Samoan,96_dog,maile,maile,m a i l e,,Blust-118-2005,1192,false
 Samoan-96_dog-2,,Samoan,96_dog,ʔulī,ʔulī,ʔ u l iː,"polite word for dog, rarely used.",Blust-118-2005,1213,false
 Samoan-95_tofall-1,,Samoan,95_tofall,tō-,tō-,t oː,,Blust-118-2005,352,false
@@ -6679,8 +6679,8 @@ Samoan-94_tothrow-1,,Samoan,94_tothrow,toŋi,toŋi,t o ŋ i,,Blust-118-2005,1193
 Samoan-93_topoundbeat-1,,Samoan,93_topoundbeat,tuʔituʔi,tuʔituʔi,t u ʔ i + t u ʔ i,,Blust-118-2005,532,false
 Samoan-92_toopenuncover-1,,Samoan,92_toopenuncover,susu'e,susu'e,s u + s u ʔ e,,Blust-118-2005,94,false
 Samoan-92_toopenuncover-2,,Samoan,92_toopenuncover,matala,matala,m a t a l a,,Blust-118-2005,1194,false
-Samoan-91_tobuy-1,,Samoan,91_tobuy,fa'atau mai,fa'atau mai,f a ʔ a + t a u _ m a i,,Blust-118-2005,1402,false
-Samoan-91_tobuy-2,,Samoan,91_tobuy,tautotoŋi,tautotoŋi,t a u _ t o + t o ŋ i,,Blust-118-2005,1402,false
+Samoan-91_tobuy-1,,Samoan,91_tobuy,fa'atau mai,fa'atau mai,f a ʔ a + t a u + m a i,,Blust-118-2005,1402,false
+Samoan-91_tobuy-2,,Samoan,91_tobuy,tautotoŋi,tautotoŋi,t a u + t o + t o ŋ i,,Blust-118-2005,1402,false
 Samoan-90_todig-1,,Samoan,90_todig,ʔeli,ʔeli,ʔ e l i,,Blust-118-2005,85,false
 Samoan-90_todig-2,,Samoan,90_todig,ʔoso,ʔoso,ʔ o s o,,Blust-118-2005,1197,false
 Samoan-89_tohold-1,,Samoan,89_tohold,ʔuʔu,ʔuʔu,ʔ u + ʔ u,,Blust-118-2005,259,false
@@ -6760,7 +6760,7 @@ Samoan-30_mouth-1,,Samoan,30_mouth,ŋutu,ŋutu,ŋ u t u,,Blust-118-2005,524,fals
 Samoan-29_tosniffsmell-1,,Samoan,29_tosniffsmell,soŋi,soŋi,s o ŋ i,,Blust-118-2005,1412,false
 Samoan-28_tobreathe-1,,Samoan,28_tobreathe,mānava,mānava,m aː n a v a,,Blust-118-2005,78,false
 Samoan-27_nose-1,,Samoan,27_nose,isu,isu,i s u,,Blust-118-2005,55,false
-Samoan-26_hair-1,,Samoan,26_hair,lau ulu,lau ulu,l a u _ u l u,,Blust-118-2005,815,false
+Samoan-26_hair-1,,Samoan,26_hair,lau ulu,lau ulu,l a u + u l u,,Blust-118-2005,815,false
 Samoan-25_neck-1,,Samoan,25_neck,ua,ua,u a,,Blust-118-2005,458,false
 Samoan-24_head-1,,Samoan,24_head,ulu,ulu,u l u,,Blust-118-2005,38,false
 Samoan-23_blood-1,,Samoan,23_blood,toto,toto,t o t o,,Blust-118-2005,807,false
@@ -6782,12 +6782,12 @@ Samoan-11_dust-1,,Samoan,11_dust,p|efu,pefu,p + e f u,,Blust-118-2005,21,false
 Samoan-10_dirty-1,,Samoan,10_dirty,ʔeleʔelea,ʔeleʔelea,ʔ e l e + ʔ e l e + a,,Blust-118-2005,119,false
 Samoan-9_toswim-1,,Samoan,9_toswim,ʔaʔau,ʔaʔau,ʔ a + ʔ a u,,Blust-118-2005,969,false
 Samoan-8_toturn-1,,Samoan,8_toturn,fāliu,fāliu,f aː l i u,,Blust-118-2005,534,false
-Samoan-7_tocome-1,,Samoan,7_tocome,ō mai,ō mai,oː _ m a i,,Blust-118-2005,81,false
+Samoan-7_tocome-1,,Samoan,7_tocome,ō mai,ō mai,oː + m a i,,Blust-118-2005,81,false
 Samoan-7_tocome-2,,Samoan,7_tocome,sau,sau,s a u,,Blust-118-2005,881,false
 Samoan-6_roadpath-1,,Samoan,6_roadpath,ala,ala,a l a,,Blust-118-2005,61,false
 Samoan-5_towalk-1,,Samoan,5_towalk,saele,saele,s a e l e,,Blust-118-2005,1109,false
 Samoan-4_legfoot-1,,Samoan,4_legfoot,vae,vae,v a e,,Blust-118-2005,44,false
-Samoan-3_right-1,,Samoan,3_right,tau-matau,tau-matau,t a u _ m a + t a u,,Blust-118-2005,958,false
+Samoan-3_right-1,,Samoan,3_right,tau-matau,tau-matau,t a u + m a + t a u,,Blust-118-2005,958,false
 Samoan-2_left-1,,Samoan,2_left,tau-aŋavale,tau-aŋavale,t a u + a ŋ a + v a l e,,Blust-118-2005,697,false
 Samoan-1_hand-1,,Samoan,1_hand,lima,lima,l i m a,,Blust-118-2005,36,false
 RennellBellona-210_onethousand-1,,RennellBellona,210_onethousand,mano,mano,m a n o,"A thousand (pairs of yams etc.) (Ebt), A thousand counting units (Ebt)..(Source: Pollex)",POLLEX,519,false
@@ -6835,7 +6835,7 @@ RennellBellona-174_ininside-1,,RennellBellona,174_ininside,goto,goto,ⁿg o t o,
 RennellBellona-173_at-1,,RennellBellona,173_at,i,i,i,At (preposed particle),POLLEX,11,false
 RennellBellona-172_toclimb-1,,RennellBellona,172_toclimb,kake,kake,k a k e,Climb up (Ebt),POLLEX,707,false
 RennellBellona-171_tohide-1,,RennellBellona,171_tohide,mumuni,mumuni,m u + m u n i,Hide (intransitive),POLLEX,91,false
-RennellBellona-170_when-1,,RennellBellona,170_when,ʔaso hea,ʔaso hea,ʔ a s o _ h e a,when?,POLLEX,639,false
+RennellBellona-170_when-1,,RennellBellona,170_when,ʔaso hea,ʔaso hea,ʔ a s o + h e a,when?,POLLEX,639,false
 RennellBellona-169_year-1,,RennellBellona,169_year,ta'u,ta'u,t a ʔ u,Season (Ebt),POLLEX,112,false
 RennellBellona-168_day-1,,RennellBellona,168_day,àso,àso,ʔ a s o,"Time, day, season (Ebt)",POLLEX,18,false
 RennellBellona-167_night-1,,RennellBellona,167_night,poo,poo,p oː,"Night, become night (Ebt)",POLLEX,54,false
@@ -6976,8 +6976,8 @@ RennellBellona-62_thatchroof-1,,RennellBellona,62_thatchroof,àto,àto,ʔ a t o,
 RennellBellona-61_house-1,,RennellBellona,61_house,hage,hage,h a ⁿg e,"House, hut, building (Ebt)",POLLEX,342,false
 RennellBellona-60_father-1,,RennellBellona,60_father,tama/u,tama,t a m a,Father [<],POLLEX,27,true
 RennellBellona-59_mother-1,,RennellBellona,59_mother,tinana,tinana,t i n a n a,"Mother, have a mother (Ebt)",POLLEX,49,false
-RennellBellona-58_wife-1,,RennellBellona,58_wife,hiimatuà,hiimatuà,h iː _ m a t u ʔ a,Wife (Ebt),POLLEX,971,false
-RennellBellona-58_wife-2,,RennellBellona,58_wife,higimatuà,higimatuà,h i ⁿg i _ m a t u ʔ a,Wife (Ebt),POLLEX,1083,false
+RennellBellona-58_wife-1,,RennellBellona,58_wife,hiimatuà,hiimatuà,h iː + m a t u ʔ a,Wife (Ebt),POLLEX,971,false
+RennellBellona-58_wife-2,,RennellBellona,58_wife,higimatuà,higimatuà,h i ⁿg i + m a t u ʔ a,Wife (Ebt),POLLEX,1083,false
 RennellBellona-57_husband-1,,RennellBellona,57_husband,matuà,matuà,m a t u ʔ a,"Husband, family head; become old, mature (Ebt)",POLLEX,747,false
 RennellBellona-56_child-1,,RennellBellona,56_child,tamaìtiìti,tamaìtiìti,t a m a + ʔ i t i + ʔ i t i,"Child, infant, baby (Ebt)",POLLEX,1086,false
 RennellBellona-56_child-2,,RennellBellona,56_child,tamagiki,tamagiki,t a m a + ⁿg i k i,Children (Ebt),POLLEX,1086,false
@@ -7058,7 +7058,7 @@ Tuvalu-196_tocount-2,,Tuvalu,196_tocount,tau,tau,t a u,,29903,1330,false
 Tuvalu-195_nonot-1,,Tuvalu,195_nonot,mooe,mooe,m oː e,,29903,1250,false
 Tuvalu-195_nonot-2,,Tuvalu,195_nonot,ikai,ikai,i + k a i,,29903,129,false
 Tuvalu-194_how-1,,Tuvalu,194_how,peehea,peehea,p eː + h e a,,29903,194,false
-Tuvalu-193_if-1,,Tuvalu,193_if,me he mea,me he mea,m e _ h e _ m e a,,29903,955,false
+Tuvalu-193_if-1,,Tuvalu,193_if,me he mea,me he mea,m e + h e + m e a,,29903,955,false
 Tuvalu-193_if-2,,Tuvalu,193_if,mana,mana,m a n a,,29903,1205,false
 Tuvalu-193_if-3,,Tuvalu,193_if,kaafai,kaafai,k aː + f a i,,29903,39,false
 Tuvalu-193_if-4,,Tuvalu,193_if,kaa,kaa,k aː,,29903,39,false
@@ -7072,7 +7072,7 @@ Tuvalu-186_you-2,,Tuvalu,186_you,koulua,koulua,k o u + l u a,,29903,1477,false
 Tuvalu-184_heshe-1,,Tuvalu,184_heshe,ia,ia,i a,,29903,37,false
 Tuvalu-183_thou-1,,Tuvalu,183_thou,ke,ke,k e,,29903,76,false
 Tuvalu-182_i-1,,Tuvalu,182_i,aku,aku,a k u,,29903,4,false
-Tuvalu-181_where-1,,Tuvalu,181_where,teehea,teehea,t eː _ h e a,,29903,679,false
+Tuvalu-181_where-1,,Tuvalu,181_where,teehea,teehea,t eː + h e a,,29903,679,false
 Tuvalu-180_far-1,,Tuvalu,180_far,mamao,mamao,m a + m a o,,29903,297,false
 Tuvalu-179_near-1,,Tuvalu,179_near,pili,pili,p i l i,,29903,682,false
 Tuvalu-178_that-1,,Tuvalu,178_that,teelaa,teelaa,t eː + l aː,,29903,1258,false
@@ -7087,13 +7087,13 @@ Tuvalu-172_toclimb-1,,Tuvalu,172_toclimb,kake,kake,k a k e,,29903,707,false
 Tuvalu-171_tohide-1,,Tuvalu,171_tohide,fuu,fuu,f uː,,29903,91,false
 Tuvalu-171_tohide-2,,Tuvalu,171_tohide,fakalilo,fakalilo,f a k a + l i l o,,29903,91,false
 Tuvalu-171_tohide-3,,Tuvalu,171_tohide,mumuni,mumuni,m u + m u n i,,29903,91,false
-Tuvalu-170_when-1,,Tuvalu,170_when,aafea,aafea,aː _ f e a,future,29903,970,false
+Tuvalu-170_when-1,,Tuvalu,170_when,aafea,aafea,aː + f e a,future,29903,970,false
 Tuvalu-169_year-1,,Tuvalu,169_year,tauhanga,tauhanga,t a u + h a ŋ a,,29903,112,false
 Tuvalu-168_day-1,,Tuvalu,168_day,ao,ao,a o,,29903,18,false
 Tuvalu-167_night-1,,Tuvalu,167_night,taiao,taiao,t a i a o,,29903,1259,false
 Tuvalu-167_night-2,,Tuvalu,167_night,poouli,poouli,p oː + u l i,,29903,54,false
 Tuvalu-167_night-3,,Tuvalu,167_night,poo,poo,p oː,,29903,54,false
-Tuvalu-166_correcttrue-1,,Tuvalu,166_correcttrue,muna tonu,muna tonu,m u n a _ t o n u,truth,29903,1317,false
+Tuvalu-166_correcttrue-1,,Tuvalu,166_correcttrue,muna tonu,muna tonu,m u n a + t o n u,truth,29903,1317,false
 Tuvalu-165_badevil-1,,Tuvalu,165_badevil,maahei,maahei,m aː + h e i,,29903,1260,false
 Tuvalu-164_good-1,,Tuvalu,164_good,lelei,lelei,l e + l e i,,29903,425,false
 Tuvalu-163_new-1,,Tuvalu,163_new,foou,foou,f oː u,,29903,53,false
@@ -7112,7 +7112,7 @@ Tuvalu-154_short-1,,Tuvalu,154_short,toetoe,toetoe,t o e + t o e,,29903,1263,fal
 Tuvalu-153_big-1,,Tuvalu,153_big,lahi,lahi,l a h i,,29903,238,false
 Tuvalu-152_small-1,,Tuvalu,152_small,fonini,fonini,f o + n i + n i,,29903,1264,false
 Tuvalu-152_small-2,,Tuvalu,152_small,foliki,foliki,f o + l i k i,,29903,1171,false
-Tuvalu-151_green-1,,Tuvalu,151_green,lanu lau niu,lanu lau niu,l a n u _ l a u _ n i u,,29903,243,false
+Tuvalu-151_green-1,,Tuvalu,151_green,lanu lau niu,lanu lau niu,l a n u + l a u + n i u,,29903,243,false
 Tuvalu-150_yellow-1,,Tuvalu,150_yellow,hegahega,hegahega,h e g a + h e g a,,29903,266,false
 Tuvalu-150_yellow-2,,Tuvalu,150_yellow,fefelo,fefelo,f e + f e l o,,29903,218,false
 Tuvalu-150_yellow-3,,Tuvalu,150_yellow,sama,sama,s a m a,,29903,1071,false
@@ -7146,7 +7146,7 @@ Tuvalu-130_star-1,,Tuvalu,130_star,fetuu,fetuu,f e t uː,,29903,68,false
 Tuvalu-129_moon-1,,Tuvalu,129_moon,maalama,maalama,m aː + l a m a,,29903,761,false
 Tuvalu-128_sky-1,,Tuvalu,128_sky,lagi,lagi,l a g i,,29903,66,false
 Tuvalu-127_woodsforest-1,,Tuvalu,127_woodsforest,vao,vao,v a o,,29903,360,false
-Tuvalu-126_lake-1,,Tuvalu,126_lake,tai hala,tai hala,t a i _ h a l a,,29903,1267,false
+Tuvalu-126_lake-1,,Tuvalu,126_lake,tai hala,tai hala,t a i + h a l a,,29903,1267,false
 Tuvalu-125_salt-1,,Tuvalu,125_salt,maasima,maasima,m aː s i m a,,29903,671,false
 Tuvalu-124_sea-1,,Tuvalu,124_sea,moana,moana,m o a n a,,29903,133,false
 Tuvalu-124_sea-2,,Tuvalu,124_sea,tai,tai,t a i,,29903,63,false
@@ -7177,7 +7177,7 @@ Tuvalu-101_tofly-1,,Tuvalu,101_tofly,lele,lele,l e l e,,29903,205,false
 Tuvalu-100_wing-1,,Tuvalu,100_wing,kapakau,kapakau,k a p a + k a u,,29903,109,false
 Tuvalu-99_feather-1,,Tuvalu,99_feather,fulu,fulu,f u l u,,29903,28,false
 Tuvalu-98_egg-1,,Tuvalu,98_egg,fua,fua,f u a,,29903,950,false
-Tuvalu-97_bird-1,,Tuvalu,97_bird,manulele,manulele,m a n u _ l e l e,,29903,14,false
+Tuvalu-97_bird-1,,Tuvalu,97_bird,manulele,manulele,m a n u + l e l e,,29903,14,false
 Tuvalu-96_dog-1,,Tuvalu,96_dog,kulii,kulii,k u l iː,,29903,1213,false
 Tuvalu-95_tofall-1,,Tuvalu,95_tofall,too,too,t oː,,29903,352,false
 Tuvalu-94_tothrow-1,,Tuvalu,94_tothrow,apa,apa,a p a,to throw a knife or stick,29903,1272,false
@@ -7186,7 +7186,7 @@ Tuvalu-93_topoundbeat-1,,Tuvalu,93_topoundbeat,tukituki,tukituki,t u k i + t u k
 Tuvalu-92_toopenuncover-1,,Tuvalu,92_toopenuncover,mafela,mafela,m a f e l a,,29903,1451,false
 Tuvalu-92_toopenuncover-2,,Tuvalu,92_toopenuncover,tatala,tatala,t a + t a l a,,29903,148,false
 Tuvalu-92_toopenuncover-3,,Tuvalu,92_toopenuncover,hue,hue,h u e,,29903,94,false
-Tuvalu-91_tobuy-1,,Tuvalu,91_tobuy,fakatau mai,fakatau mai,f a k a t a u _ m a i,,29903,1402,false
+Tuvalu-91_tobuy-1,,Tuvalu,91_tobuy,fakatau mai,fakatau mai,f a k a t a u + m a i,,29903,1402,false
 Tuvalu-91_tobuy-2,,Tuvalu,91_tobuy,tata,tata,t a + t a,,29903,865,false
 Tuvalu-90_todig-1,,Tuvalu,90_todig,koli,koli,k o l i,,29903,85,false
 Tuvalu-90_todig-2,,Tuvalu,90_todig,kenu,kenu,k e n u,,29903,1102,false
@@ -7206,7 +7206,7 @@ Tuvalu-79_stickwood-1,,Tuvalu,79_stickwood,laakau,laakau,l aː + k a u,,29903,69
 Tuvalu-78_tocuthack-1,,Tuvalu,78_tocuthack,kati,kati,k a t i,,29903,1406,false
 Tuvalu-77_toscratch-1,,Tuvalu,77_toscratch,alati,alati,a l a + t i,,29903,149,false
 Tuvalu-75_todiebedead-1,,Tuvalu,75_todiebedead,mate,mate,m a t e,,29903,84,false
-Tuvalu-74_tokill-1,,Tuvalu,74_tokill,taa mate,taa mate,t aː _ m a t e,,29903,530,false
+Tuvalu-74_tokill-1,,Tuvalu,74_tokill,taa mate,taa mate,t aː + m a t e,,29903,530,false
 Tuvalu-73_tosteal-1,,Tuvalu,73_tosteal,kaiaa,kaiaa,k a i aː,,29903,1237,false
 Tuvalu-72_tohit-1,,Tuvalu,72_tohit,taa,taa,t aː,,29903,146,false
 Tuvalu-71_tostabpierce-1,,Tuvalu,71_tostabpierce,tui,tui,t u i,,29903,1001,false
@@ -7230,7 +7230,7 @@ Tuvalu-52_tostand-1,,Tuvalu,52_tostand,tuu,tuu,t uː,,29903,533,false
 Tuvalu-51_tosit-1,,Tuvalu,51_tosit,noho,noho,n o h o,,29903,404,false
 Tuvalu-50_todream-1,,Tuvalu,50_todream,moemiti,moemiti,m o e + m i t i,,29903,1230,false
 Tuvalu-49_toliedown-1,,Tuvalu,49_toliedown,fakapale,fakapale,f a k a + p a l e,,29903,1274,false
-Tuvalu-49_toliedown-2,,Tuvalu,49_toliedown,moe ki lalo,moe ki lalo,m o e _ k i _ l a l o,,29903,1105,false
+Tuvalu-49_toliedown-2,,Tuvalu,49_toliedown,moe ki lalo,moe ki lalo,m o e + k i + l a l o,,29903,1105,false
 Tuvalu-48_tosleep-1,,Tuvalu,48_tosleep,moe,moe,m o e,,29903,150,false
 Tuvalu-46_tosee-1,,Tuvalu,46_tosee,pula,pula,p u l a,,29903,1275,false
 Tuvalu-46_tosee-2,,Tuvalu,46_tosee,kilo,kilo,k i l o,,29903,513,false
@@ -7333,7 +7333,7 @@ Anuta-178_that-1,,Anuta,178_that,e-na,e-na,e + n a,(source: ACD),POLLEX,71,false
 Anuta-177_this-1,,Anuta,177_this,ieni,ieni,i e + n i,this,POLLEX,75,false
 Anuta-176_below-1,,Anuta,176_below,raro,raro,r a r o,Below (Yen),POLLEX,1315,false
 Anuta-175_above-1,,Anuta,175_above,ruŋa,ruŋa,r u ŋ a,Above (Fbg),POLLEX,1382,false
-Anuta-174_ininside-1,,Anuta,174_ininside,i roto,i roto,i _ r o t o,in,POLLEX,956,false
+Anuta-174_ininside-1,,Anuta,174_ininside,i roto,i roto,i + r o t o,in,POLLEX,956,false
 Anuta-173_at-1,,Anuta,173_at,i,i,i,at,POLLEX,11,false
 Anuta-172_toclimb-1,,Anuta,172_toclimb,kake,kake,k a k e,Climb (Yen),POLLEX,707,false
 Anuta-171_tohide-1,,Anuta,171_tohide,mu/muni/,muni,m u n i,To hide (Fbg),POLLEX,91,false
@@ -7439,7 +7439,7 @@ Anuta-77_toscratch-1,,Anuta,77_toscratch,koii,koii,k o iː,Polex 06: Koii. :To s
 Anuta-76_tolivebealive-1,,Anuta,76_tolivebealive,ma-uri,ma-uri,m a + u r i,"(Source ACD): live, be alive, life, soul",POLLEX,93,false
 Anuta-76_tolivebealive-2,,Anuta,76_tolivebealive,ora,ora,o r a,"Life, health (Yen)",POLLEX,1106,false
 Anuta-75_todiebedead-1,,Anuta,75_todiebedead,mate,mate,m a t e,Die (Yen),POLLEX,84,false
-Anuta-74_tokill-1,,Anuta,74_tokill,ta mate,ta mate,t a _ m a t e,kill,POLLEX,530,false
+Anuta-74_tokill-1,,Anuta,74_tokill,ta mate,ta mate,t a + m a t e,kill,POLLEX,530,false
 Anuta-73_tosteal-1,,Anuta,73_tosteal,kaia,kaia,k a i a,To steal (Fbg),POLLEX,1237,false
 Anuta-72_tohit-1,,Anuta,72_tohit,tuki,tuki,t u k i,"Hit, strike (Yen)",POLLEX,1332,false
 Anuta-72_tohit-2,,Anuta,72_tohit,taa,taa,t aː,"Strike, chop",POLLEX,146,false
