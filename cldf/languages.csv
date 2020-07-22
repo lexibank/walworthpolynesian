@@ -1,32 +1,32 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-Anuta,Anuta_253,anut1237,,,,,,Austronesian
-AustralA,Austral_1213,aust1304,,,,,,Austronesian
-AustralB,Austral_128,aust1304,,,,,,Austronesian
-EastFutuna,EastFutuna_210,east2447,,,,,,Austronesian
-Emae,Emae_1030,emae1237,,,,,,Austronesian
-FutunaAniwa,FutunaAniwa_156,futu1245,,,,,,Austronesian
-Hawaiian,Hawaiian_52,hawa1245,,,,,,Austronesian
-Kapingamarangi,Kapingamarangi_217,kapi1249,,,,,,Austronesian
-Luangiua,Luangiua_238,onto1237,,,,,,Austronesian
-Mangareva,Mangareva_239,mang1401,,,,,,Austronesian
-Maori,Maori_85,maor1246,,,,,,Austronesian
-MeleFila,Mele-Fila_1163,mele1250,,,,,,Austronesian
-Niuean,Niuean_247,niue1239,,,,,,Austronesian
-NorthMarquesan,NorthMarquesan_38,nort2845,,,,,,Austronesian
-Nukuria,Nukuria_1212,nuku1259,,,,,,Austronesian
-Penrhyn,Penrhyn_235,penr1237,,,,,,Austronesian
-Polynesian,Polynesian_658,poly1242,,,,,,Austronesian
-Pukapuka,Pukapuka_152,puka1242,,,,,,Austronesian
-RakahangaManihiki,RakahangaManihiki_589,raka1237,,,,,,Austronesian
-Rapanui,Rapanui_264,rapa1244,,,,,,Austronesian
-Rarotongan,Rarotongan_58,raro1241,,,,,,Austronesian
-RennellBellona,RennellBellona_206,renn1242,,,,,,Austronesian
-Samoan,Samoan_118,samo1305,,,,,,Austronesian
-Sikaiana,Sikaiana_243,sika1261,,,,,,Austronesian
-Tahitian,Tahitian_173,tahi1242,,,,,,Austronesian
-Tikopia,Tikopia_155,tiko1237,,,,,,Austronesian
-TongatongaIslands,TongaTongaIslands_136,tong1325,,,,,,Austronesian
-Tuamotuan,Tuamotuan_246,tuam1242,,,,,,Austronesian
-Tuvalu,Tuvalu_753,tuva1244,,,,,,Austronesian
-VaeakauTaumako,VaeakauTaumako_375,pile1238,,,,,,Austronesian
-Wallisian,Wallisian_258,wall1257,,,,,,Austronesian
+Anuta,Anuta_253,anut1237,Anuta,aud,Papunesia,-11.61,169.85,Austronesian
+AustralA,Austral_1213,aust1304,Austral,aut,Papunesia,-23.3843,-149.462,Austronesian
+AustralB,Austral_128,aust1304,Austral,aut,Papunesia,-23.3843,-149.462,Austronesian
+EastFutuna,EastFutuna_210,east2447,East Futuna,fud,Papunesia,-14.278717,-178.137222,Austronesian
+Emae,Emae_1030,emae1237,Emae,mmw,Papunesia,-17.052,168.399,Austronesian
+FutunaAniwa,FutunaAniwa_156,futu1245,Futuna-Aniwa,fut,Papunesia,-19.5303,170.215,Austronesian
+Hawaiian,Hawaiian_52,hawa1245,Hawaiian,haw,Papunesia,19.6297,-155.43,Austronesian
+Kapingamarangi,Kapingamarangi_217,kapi1249,Kapingamarangi,kpg,Papunesia,1.039166,154.797223,Austronesian
+Luangiua,Luangiua_238,onto1237,Luangiua,ojv,Papunesia,-5.49029,159.701,Austronesian
+Mangareva,Mangareva_239,mang1401,Mangareva,mrv,Papunesia,-23.1095,-134.97,Austronesian
+Maori,Maori_85,maor1246,Maori,mri,Papunesia,-38.2881,176.541,Austronesian
+MeleFila,Mele-Fila_1163,mele1250,Mele-Fila,mxe,Papunesia,-17.6841,168.275,Austronesian
+Niuean,Niuean_247,niue1239,Niuean,niu,Papunesia,-19.06,-169.86,Austronesian
+NorthMarquesan,NorthMarquesan_38,nort2845,North Marquesan,mrq,Papunesia,-8.89412,-140.108,Austronesian
+Nukuria,Nukuria_1212,nuku1259,Nukuria,nur,Papunesia,-3.40038,154.731,Austronesian
+Penrhyn,Penrhyn_235,penr1237,Māngarongaro,pnh,Papunesia,-9.082238,-157.922908,Austronesian
+Polynesian,Polynesian_658,poly1242,Polynesian,,,,,Austronesian
+Pukapuka,Pukapuka_152,puka1242,Pukapuka,pkp,Papunesia,-10.91,-165.83,Austronesian
+RakahangaManihiki,RakahangaManihiki_589,raka1237,Rakahanga-Manihiki,rkh,Papunesia,-10.03,-161.09,Austronesian
+Rapanui,Rapanui_264,rapa1244,Rapanui,rap,Papunesia,-27.113,-109.342,Austronesian
+Rarotongan,Rarotongan_58,raro1241,Southern Cook Island Maori,rar,Papunesia,-21.23,-159.78,Austronesian
+RennellBellona,RennellBellona_206,renn1242,Rennell-Bellona,mnv,Papunesia,-11.6237,160.265,Austronesian
+Samoan,Samoan_118,samo1305,Samoan,smo,Papunesia,-13.92,-171.83,Austronesian
+Sikaiana,Sikaiana_243,sika1261,Sikaiana,sky,Papunesia,-8.378194,162.72952,Austronesian
+Tahitian,Tahitian_173,tahi1242,Tahitian,tah,Papunesia,-17.6485,-149.45,Austronesian
+Tikopia,Tikopia_155,tiko1237,Tikopia,tkp,Papunesia,-12.2766,168.822,Austronesian
+TongatongaIslands,TongaTongaIslands_136,tong1325,Tonga (Tonga Islands),ton,Papunesia,-21.17,-175.25,Austronesian
+Tuamotuan,Tuamotuan_246,tuam1242,Tuamotuan,pmt,Papunesia,-16.17259,-146.321755,Austronesian
+Tuvalu,Tuvalu_753,tuva1244,Tuvalu,tvl,Papunesia,-8.520813,179.198088,Austronesian
+VaeakauTaumako,VaeakauTaumako_375,pile1238,Vaeakau-Taumako,piv,Papunesia,-10.173335,166.247188,Austronesian
+Wallisian,Wallisian_258,wall1257,East Uvean,wls,Papunesia,-13.2903,-176.207,Austronesian

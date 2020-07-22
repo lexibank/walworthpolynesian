@@ -1,0 +1,39 @@
+{
+    "title": "CLDF dataset derived from Walworth's \"Polynesian Segmented Data\" from 2019",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Mary Walworth"
+        },
+        {
+            "name": "Nathanael E. Schweikhard"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Mary Walworth",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Mary Walworth",
+            "type": "DataCurator"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Walworth, Mary. (2018). Polynesian Segmented Data (Version 1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1689909</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
