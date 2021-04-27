@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/walworthpolynesian",
-            "dc:created": "c8d2efb"
+            "dc:created": "211e620"
         },
         {
             "rdf:type": "prov:Entity",
@@ -36,13 +36,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.5.2"
+            "dc:description": "3.9.2"
         },
         {
             "dc:title": "python-packages",

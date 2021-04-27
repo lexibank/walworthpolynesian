@@ -18,12 +18,12 @@
     ],
     "contributors": [
         {
-            "type": "DataCollector",
-            "name": "Mary Walworth"
+            "name": "Mary Walworth",
+            "type": "DataCollector"
         },
         {
-            "type": "DataCurator",
-            "name": "Mary Walworth"
+            "name": "Mary Walworth",
+            "type": "DataCurator"
         }
     ],
     "communities": [

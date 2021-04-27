@@ -49,7 +49,7 @@ class Dataset(BaseDataset):
                 Parameter_ID=concepts.get(wl[idx, 'concept']),
                 Value=wl[idx, 'value'],
                 Form=wl[idx, 'form'],
-                Segments=[{'_': '+'}.get(x, x) for x in wl[idx, 'segments']],
+                Segments=[{'_': '+', "mh": "mʰ"}.get(x, x) for x in wl[idx, 'segments']],
                 Source=[wl[idx, 'source']],
                 Cognacy=wl[idx, 'cogid'],
                 Loan=to_boolean(wl[idx, 'loan']),
