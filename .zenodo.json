@@ -8,12 +8,6 @@
     "creators": [
         {
             "name": "Mary Walworth"
-        },
-        {
-            "name": "Nathanael E. Schweikhard"
-        },
-        {
-            "name": "Johann-Mattis List"
         }
     ],
     "contributors": [
@@ -24,6 +18,14 @@
         {
             "name": "Mary Walworth",
             "type": "DataCurator"
+        },
+        {
+            "name": "Nathanael E. Schweikhard",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
         }
     ],
     "communities": [
