@@ -1,8 +1,16 @@
 # CLDF dataset derived from Walworth's "Polynesian Segmented Data" from 2019
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/walworthpolynesian/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/walworthpolynesian/actions?query=workflow%3ACLDF-validation)
 
-> Walworth, Mary. (2018). Polynesian Segmented Data (Version 1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1689909
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Walworth, Mary. (2018). Polynesian Segmented Data (Version 1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1689909
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a http://creativecommons.org/licenses/by/4.0/legalcode license
 
@@ -14,7 +22,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/walworthpolynesian.svg?branch=master)](https://travis-ci.org/lexibank/walworthpolynesian)
+[![CLDF validation](https://github.com/lexibank/walworthpolynesian/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/walworthpolynesian/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -42,3 +50,10 @@ Nathanael E. Schweikhard | @schweikhard  | maintainer | Other
 Johann-Mattis List	| @lingulist | maintainer | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
