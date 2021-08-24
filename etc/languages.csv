@@ -1,32 +1,32 @@
 ID,Name,NameInSource,Glottocode,Family
-Anuta,Anuta,Anuta_253,anut1237,Austronesian
-AustralA,Austral,Austral_1213,aust1304,Austronesian
-AustralB,Austral,Austral_128,aust1304,Austronesian
-EastFutuna,EastFutuna,EastFutuna_210,east2447,Austronesian
-Emae,Emae,Emae_1030,emae1237,Austronesian
-FutunaAniwa,FutunaAniwa,FutunaAniwa_156,futu1245,Austronesian
-Hawaiian,Hawaiian,Hawaiian_52,hawa1245,Austronesian
+Anuta,Tarangapaka-Anuta,Anuta_253,anut1237,Austronesian
+Raivavae,Reo Ra'ivavae,Austral_1213,aust1304,Austronesian
+Rurutu,Reo Rurutu,Austral_128,aust1304,Austronesian
+EastFutuna,Fakafutuna,EastFutuna_210,east2447,Austronesian
+Emae,Fakamae,Emae_1030,emae1237,Austronesian
+FutunaAniwa,Fesau Futuna,FutunaAniwa_156,futu1245,Austronesian
+Hawaiian,'ōlelo Hawai'i,Hawaiian_52,hawa1245,Austronesian
 Kapingamarangi,Kapingamarangi,Kapingamarangi_217,kapi1249,Austronesian
 Luangiua,Luangiua,Luangiua_238,onto1237,Austronesian
-Mangareva,Mangareva,Mangareva_239,mang1401,Austronesian
-Maori,Maori,Maori_85,maor1246,Austronesian
+Mangareva,Reo Magareva,Mangareva_239,mang1401,Austronesian
+Maori,Reo Māori,Maori_85,maor1246,Austronesian
 MeleFila,Mele-Fila,Mele-Fila_1163,mele1250,Austronesian
-Niuean,Niuean,Niuean_247,niue1239,Austronesian
-NorthMarquesan,NorthMarquesan,NorthMarquesan_38,nort2845,Austronesian
-Nukuria,Nukuria,Nukuria_1212,nuku1259,Austronesian
+Niuean,Vagahau Niue,Niuean_247,niue1239,Austronesian
+NorthMarquesan,'eo 'enana,NorthMarquesan_38,nort2845,Austronesian
+Nukeria,Nukeria,Nukuria_1212,nuku1259,Austronesian
 Penrhyn,Penrhyn,Penrhyn_235,penr1237,Austronesian
-Polynesian,Polynesian,Polynesian_658,poly1242,Austronesian
-Pukapuka,Pukapuka,Pukapuka_152,puka1242,Austronesian
-RakahangaManihiki,RakahangaManihiki,RakahangaManihiki_589,raka1237,Austronesian
+Polynesian,Proto Polynesian,Polynesian_658,poly1242,Austronesian
+Pukapuka,Leo Pukapuka,Pukapuka_152,puka1242,Austronesian
+RakahangaManihiki,Manihiki,RakahangaManihiki_589,raka1237,Austronesian
 Rapanui,Rapanui,Rapanui_264,rapa1244,Austronesian
-Rarotongan,Rarotongan,Rarotongan_58,raro1241,Austronesian
-RennellBellona,RennellBellona,RennellBellona_206,renn1242,Austronesian
-Samoan,Samoan,Samoan_118,samo1305,Austronesian
+Rarotongan,Reo Rarotongan,Rarotongan_58,raro1241,Austronesian
+RennellBellona,Rennell-Bellona,RennellBellona_206,renn1242,Austronesian
+Samoan,Gagana Sāmoa,Samoan_118,samo1305,Austronesian
 Sikaiana,Sikaiana,Sikaiana_243,sika1261,Austronesian
-Tahitian,Tahitian,Tahitian_173,tahi1242,Austronesian
-Tikopia,Tikopia,Tikopia_155,tiko1237,Austronesian
-TongatongaIslands,TongaTongaIslands,TongaTongaIslands_136,tong1325,Austronesian
-Tuamotuan,Tuamotuan,Tuamotuan_246,tuam1242,Austronesian
-Tuvalu,Tuvalu,Tuvalu_753,tuva1244,Austronesian
-VaeakauTaumako,VaeakauTaumako,VaeakauTaumako_375,pile1238,Austronesian
-Wallisian,Wallisian,Wallisian_258,wall1257,Austronesian
+Tahitian,Reo Tahiti,Tahitian_173,tahi1242,Austronesian
+Tikopia,Fakatikopia,Tikopia_155,tiko1237,Austronesian
+Tongan,Lea Fakatonga,TongaTongaIslands_136,tong1325,Austronesian
+Tuamotuan,Reo o te Tuamotu,Tuamotuan_246,tuam1242,Austronesian
+Tuvalu,Leo Tuvalu,Tuvalu_753,tuva1244,Austronesian
+VaeakauTaumako,Vaeakau-Taumako,VaeakauTaumako_375,pile1238,Austronesian
+EastUvea,Faka'uvea,Wallisian_258,wall1257,Austronesian
