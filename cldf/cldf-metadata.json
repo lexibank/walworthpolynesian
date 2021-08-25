@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/walworthpolynesian",
             "rdf:type": "prov:Entity",
-            "dc:created": "500c5c9",
+            "dc:created": "v1.0-3-g7752dda",
             "dc:title": "Repository"
         },
         {
@@ -33,9 +33,9 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
+            "dc:created": "v2.0.0",
             "dc:title": "CLTS"
         }
     ],
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
@@ -221,6 +221,10 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "NameInSource"
                     }
                 ],
                 "primaryKey": [

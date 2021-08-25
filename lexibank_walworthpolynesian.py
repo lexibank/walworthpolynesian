@@ -3,6 +3,12 @@ import pathlib
 import lingpy
 import pylexibank
 from clldutils.misc import slug
+from pylexibank import Language
+import attr
+
+@attr.s
+class CustomLanguage(Language):
+    NameInSource = attr.ib(default=None)
 
 
 def to_boolean(x):
@@ -23,13 +29,15 @@ def fix_segments(inseg):
 class Dataset(pylexibank.Dataset):
     dir = pathlib.Path(__file__).parent
     id = "walworthpolynesian"
+    language_class=CustomLanguage
 
     form_spec = pylexibank.FormSpec(first_form_only=True)
 
     def cmd_makecldf(self, args):
         args.writer.add_sources(*self.raw_dir.read_bib())
 
-        languages = args.writer.add_languages(lookup_factory=lambda l: l["Name"])
+        languages = args.writer.add_languages(
+                lookup_factory=lambda l: l["NameInSource"])
         concepts = args.writer.add_concepts(
             id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english), lookup_factory="Name"
         )
