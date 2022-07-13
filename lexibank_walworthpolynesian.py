@@ -47,6 +47,7 @@ class Dataset(pylexibank.Dataset):
 
         for idx in sorted(wl):
             wl[idx, "segments"] = fix_segments(wl[idx, "segments"])
+            print(wl[idx, "doculect"])
 
             lex = args.writer.add_form_with_segments(
                 Language_ID=languages.get(wl[idx, "doculect"]),
