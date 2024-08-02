@@ -14,8 +14,8 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://zenodo.org/record/1689909
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/walworthpolynesian
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/walworthpolynesian/tree/9b05a8f">lexibank/walworthpolynesian v1.0-6-g9b05a8f</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.5">Glottolog v4.5</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.6.0">Concepticon v2.6.0</a></li><li><a href="https://github.com/cldf-clts/clts//tree/v2.2.0">CLTS v2.2.0</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.9.9</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/walworthpolynesian/tree/8395a66">lexibank/walworthpolynesian v1.0-7-g8395a66</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.2.0">Concepticon v3.2.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.4</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | walworthpolynesian
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -73,8 +73,8 @@ Name/Property | Datatype | Description
 `Glottolog_Name` | `string` | 
 [ISO639P3code](http://cldf.clld.org/v1.0/terms.rdf#iso639P3code) | `string` | 
 [Macroarea](http://cldf.clld.org/v1.0/terms.rdf#macroarea) | `string` | 
-[Latitude](http://cldf.clld.org/v1.0/terms.rdf#latitude) | `decimal` | 
-[Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal` | 
+[Latitude](http://cldf.clld.org/v1.0/terms.rdf#latitude) | `decimal`<br>&ge; -90<br>&le; 90 | 
+[Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal`<br>&ge; -180<br>&le; 180 | 
 `Family` | `string` | 
 `NameInSource` | `string` | 
 
