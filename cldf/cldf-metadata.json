@@ -11,13 +11,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Walworth's \"Polynesian Segmented Data\" from 2019",
+    "dc:title": "CLDF dataset derived from Walworth's \"Polynesian Segmented Data\" from 2018",
     "dcat:accessURL": "https://github.com/lexibank/walworthpolynesian",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/walworthpolynesian",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-7-g8395a66",
+            "dc:created": "v1.0-8-g2694efb",
             "dc:title": "Repository"
         },
         {

@@ -1,4 +1,4 @@
-# CLDF dataset derived from Walworth's "Polynesian Segmented Data" from 2019
+# CLDF dataset derived from Walworth's "Polynesian Segmented Data" from 2018
 
 [![CLDF validation](https://github.com/lexibank/walworthpolynesian/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/walworthpolynesian/actions?query=workflow%3ACLDF-validation)
 
