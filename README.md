@@ -1,4 +1,4 @@
-# CLDF dataset derived from Walworth's "Polynesian Segmented Data" from 2019
+# CLDF dataset derived from Walworth's "Polynesian Segmented Data" from 2018
 
 [![CLDF validation](https://github.com/lexibank/walworthpolynesian/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/walworthpolynesian/actions?query=workflow%3ACLDF-validation)
 
@@ -29,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 31
-- **Concepts:** 210
+- **Varieties:** 31 (linked to 31 different Glottocodes)
+- **Concepts:** 210 (linked to 210 different Concepticon concept sets)
 - **Lexemes:** 7,518
 - **Sources:** 15
 - **Synonymy:** 1.21
@@ -38,7 +38,7 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.17
 - **Invalid lexemes:** 0
 - **Tokens:** 36,836
-- **Segments:** 48 (0 BIPA errors, 0 CTLS sound class errors, 48 CLTS modified)
+- **Segments:** 48 (0 BIPA errors, 0 CLTS sound class errors, 48 CLTS modified)
 - **Inventory size (avg):** 22.35
 
 # Contributors
@@ -47,7 +47,7 @@ Name               | GitHub user | Description | Role
 ---                | ---         | --- | ---
 Mary Walworth |  | data collector and data curator | DataCollector, Author, DataCurator
 Nathanael E. Schweikhard | @schweikhard  | maintainer | Other
-Johann-Mattis List	| @lingulist | maintainer | Other
+Johann-Mattis List | @lingulist | maintainer | Editor
 
 
 
